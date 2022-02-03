@@ -1,0 +1,24 @@
+event_city,event_country,event_number,event_year,opening_ceremony,closing_ceremony,n_participants,n_countries,n_medals,n_disciplines
+Chamonix,France,I ,1924,24 January,5 February,312,19 countries,17,10
+Sankt Moritz,Switzerland,II ,1928,11 February,17 February,460,25 countries,14,8
+Lake Placid,United States,III ,1932,4 February,13 February,251,17 countries,14,7
+Garmisch-Partenkirchen,Germany,IV ,1936,6 February,16 February,669,28 countries,17,8
+Sankt Moritz,Switzerland,V ,1948,30 January,8 February,667,28 countries,22,9
+Oslo,Norway,VI ,1952,15 February,25 February,694,30 countries,22,8
+Cortina d'Ampezzo,Italy,VII ,1956,26 January,5 February,821,32 countries,24,8
+Squaw Valley,United States,VIII ,1960,18 February,28 February,665,30 countries,27,8
+Innsbruck,Austria,IX ,1964,29 January,9 February,1094,36 countries,34,10
+Grenoble,France,X ,1968,6 February,18 February,1160,37 countries,35,10
+Sapporo,Japan,XI ,1972,3 February,13 February,1005,35 countries,35,10
+Innsbruck,Austria,XII ,1976,4 February,15 February,1129,37 countries,37,10
+Lake Placid,United States,XIII ,1980,13 February,24 February,1072,37 countries,38,10
+Sarajevo,Yugoslavia,XIV ,1984,8 February,19 February,1273,49 countries,39,10
+Calgary,Canada,XV ,1988,13 February,28 February,1424,57 countries,46,10
+Albertville,France,XVI ,1992,8 February,23 February,1801,64 countries,57,12
+Lillehammer,Norway,XVII ,1994,12 February,27 February,1738,67 countries,61,12
+Nagano,Japan,XVIII ,1998,7 February,22 February,2180,72 countries,68,14
+Salt Lake City,United States,XIX ,2002,8 February,24 February,2399,77 countries,78,15
+Torino,Italy,XX ,2006,10 February,26 February,2494,79 countries,84,15
+Vancouver,Canada,XXI ,2010,12 February,28 February,2536,82 countries,86,15
+Sochi,Russian Federation,XXII ,2014,7 February,23 February,2747,89 countries,98,15
+PyeongChang,Republic of Korea,XXIII ,2018,9 February,25 February,2793,93 countries,102,15

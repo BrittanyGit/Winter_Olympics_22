@@ -1,0 +1,1051 @@
+event_number,event_year,discipline,category,date,n_participants,n_country_participants,gold_medalist,gold_country,silver_medalist,silver_country,bronze_medalist,bronze_country
+I ,1924,Figure Skating,"Pairs, Mixed",31 January 1924,18,7,Austria,AUT,Finland,FIN,France 1,FRA
+I ,1924,Military Ski Patrol,"Military Ski Patrol, Men",29 January 1924,24,6,Switzerland,SUI,Finland,FIN,France,FRA
+I ,1924,Cross Country Skiing,"50 kilometres, Men",30 January 1924,33,11,Thorleif Haug,NOR,Thoralf Strømstad,NOR,Johan Grøttumsbraaten,NOR
+I ,1924,Cross Country Skiing,"18 kilometres, Men", 2 February 1924,41,12,Thorleif Haug,NOR,Johan Grøttumsbraaten,NOR,Tapani Niku,FIN
+I ,1924,Speed Skating,"Allround, Men",26 – 27 January 1924,23,9,Clas Thunberg,FIN,Roald Larsen,NOR,Julius Skutnabb,FIN
+I ,1924,Speed Skating,"10,000 metres, Men",27 January 1924,16,6,Julius Skutnabb,FIN,Clas Thunberg,FIN,Roald Larsen,NOR
+I ,1924,Speed Skating,"5,000 metres, Men",26 January 1924,22,10,Clas Thunberg,FIN,Julius Skutnabb,FIN,Roald Larsen,NOR
+I ,1924,Speed Skating,"1,500 metres, Men",27 January 1924,22,9,Clas Thunberg,FIN,Roald Larsen,NOR,Sigurd Moen,NOR
+I ,1924,Speed Skating,"500 metres, Men",26 January 1924,27,10,Charley Jewtraw,USA,Oskar Olsen,NOR,Clas Thunberg,FIN
+I ,1924,Ice Hockey,"Ice Hockey, Men",28 January –  3 February 1924,81,8,Canada,CAN,United States,USA,Great Britain,GBR
+I ,1924,Bobsleigh,"Four/Five, Men",2 –  3 February 1924,39,5,Switzerland 1,SUI,Great Britain 1,GBR,Belgium 1,BEL
+I ,1924,Ski Jumping,"Normal Hill, Individual, Men", 4 February 1924,27,9,Jacob Tullin Thams,NOR,Narve Bonna,NOR,Anders Haugen,USA
+I ,1924,Nordic Combined,"Individual, Men",2 –  4 February 1924,30,9,Thorleif Haug,NOR,Thoralf Strømstad,NOR,Johan Grøttumsbraaten,NOR
+I ,1924,Figure Skating,"Singles, Women",28 – 29 January 1924,8,6,Herma Planck-Szabo,AUT,Beatrix Loughran,USA,Ethel Muckelt,GBR
+I ,1924,Figure Skating,"Singles, Men",29 – 30 January 1924,11,9,Gillis Grafström,SWE,Willy Böckl,AUT,Georges Gautschi,SUI
+I ,1924,Alpinism,"Alpinism, Open", 4 February 1924,21,4,Mixed team,MIX,—,,—,
+I ,1924,Curling,"Curling, Men",28 – 30 January 1924,16,3,Great Britain,GBR,Sweden,SWE,France,FRA
+II ,1928,Speed Skating,"5,000 metres, Men",13 February 1928,33,14,Ivar Ballangrud,NOR,Julius Skutnabb,FIN,Bernt Evensen,NOR
+II ,1928,Speed Skating,"1,500 metres, Men",14 February 1928,30,14,Clas Thunberg,FIN,Bernt Evensen,NOR,Ivar Ballangrud,NOR
+II ,1928,Speed Skating,"500 metres, Men",13 February 1928,33,14,Clas Thunberg,FIN,—,,Jaakko Friman,FIN
+II ,1928,Cross Country Skiing,"50 kilometres, Men",14 February 1928,41,11,Per Erik Hedlund,SWE,Gustaf Jonsson,SWE,Volger Andersson,SWE
+II ,1928,Cross Country Skiing,"18 kilometres, Men",17 February 1928,49,15,Johan Grøttumsbraaten,NOR,Ole Hegge,NOR,Reidar Ødegård,NOR
+II ,1928,Ski Jumping,"Normal Hill, Individual, Men",18 February 1928,38,13,Alf Andersen,NOR,Sigmund Ruud,NOR,Rudolf Burkert,TCH
+II ,1928,Ice Hockey,"Ice Hockey, Men",11 – 19 February 1928,121,11,Canada,CAN,Sweden,SWE,Switzerland,SUI
+II ,1928,Bobsleigh,"Four/Five, Men",18 February 1928,116,14,United States 2,USA,United States 1,USA,Germany 2,GER
+II ,1928,Nordic Combined,"Individual, Men",17 – 18 February 1928,35,14,Johan Grøttumsbraaten,NOR,Hans Vinjarengen,NOR,John Snersrud,NOR
+III ,1932,Bobsleigh,"Two, Men",8 –  9 February 1932,24,8,United States 1,USA,Switzerland 2,SUI,United States 2,USA
+III ,1932,Nordic Combined,"Individual, Men",10 – 11 February 1932,33,10,Johan Grøttumsbraaten,NOR,Ole Stenen,NOR,Hans Vinjarengen,NOR
+III ,1932,Speed Skating,"5,000 metres, Men", 4 February 1932,18,6,Irving Jaffee,USA,Eddie Murphy,USA,Willy Logan,CAN
+III ,1932,Ice Hockey,"Ice Hockey, Men",4 – 13 February 1932,47,4,Canada,CAN,United States,USA,Germany,GER
+III ,1932,Speed Skating,"10,000 metres, Men",5 –  8 February 1932,18,6,Irving Jaffee,USA,Ivar Ballangrud,NOR,Frank Stack,CAN
+III ,1932,Cross Country Skiing,"18 kilometres, Men",10 February 1932,42,11,Sven Utterström,SWE,Axel Wikström,SWE,Veli Saarinen,FIN
+III ,1932,Cross Country Skiing,"50 kilometres, Men",13 February 1932,32,9,Veli Saarinen,FIN,Väinö Liikkanen,FIN,Arne Rustadstuen,NOR
+III ,1932,Bobsleigh,"Four, Men",14 – 15 February 1932,28,5,United States 1,USA,United States 2,USA,Germany 1,GER
+III ,1932,Figure Skating,"Singles, Men",8 –  9 February 1932,12,8,Karl Schäfer,AUT,Gillis Grafström,SWE,Bud Wilson,CAN
+III ,1932,Figure Skating,"Singles, Women",9 – 10 February 1932,15,7,Sonja Henie,NOR,Fritzi Burger,AUT,Maribel Vinson,USA
+III ,1932,Figure Skating,"Pairs, Mixed",12 February 1932,14,4,France,FRA,United States 1,USA,Hungary 1,HUN
+III ,1932,Ski Jumping,"Normal Hill, Individual, Men",12 February 1932,34,10,Birger Ruud,NOR,Hans Beck,NOR,Kåre Walberg,NOR
+III ,1932,Speed Skating,"1,500 metres, Men", 5 February 1932,18,6,Jack Shea,USA,Alex Hurd,CAN,Willy Logan,CAN
+III ,1932,Speed Skating,"500 metres, Men", 4 February 1932,16,4,Jack Shea,USA,Bernt Evensen,NOR,Alex Hurd,CAN
+IV ,1936,Figure Skating,"Pairs, Mixed",13 February 1936,36,12,Germany 1,GER,Austria 1,AUT,Hungary 1,HUN
+IV ,1936,Nordic Combined,"Individual, Men",12 – 13 February 1936,51,16,Oddbjørn Hagen,NOR,Olaf Hoffsbakken,NOR,Sverre Brodahl,NOR
+IV ,1936,Cross Country Skiing,"4 × 10 kilometres Relay, Men",10 February 1936,64,16,Finland,FIN,Norway,NOR,Sweden,SWE
+IV ,1936,Cross Country Skiing,"50 kilometres, Men",15 February 1936,36,11,Elis Wiklund,SWE,Axel Wikström,SWE,Nils Englund,SWE
+IV ,1936,Cross Country Skiing,"18 kilometres, Men",12 February 1936,75,22,Erik Larsson,SWE,Oddbjørn Hagen,NOR,Pekka Niemi,FIN
+IV ,1936,Speed Skating,"10,000 metres, Men",14 February 1936,30,14,Ivar Ballangrud,NOR,Birger Wasenius,FIN,Max Stiepl,AUT
+IV ,1936,Speed Skating,"5,000 metres, Men",12 February 1936,37,16,Ivar Ballangrud,NOR,Birger Wasenius,FIN,Antero Ojala,FIN
+IV ,1936,Speed Skating,"1,500 metres, Men",13 February 1936,37,15,Charles Mathiesen,NOR,Ivar Ballangrud,NOR,Birger Wasenius,FIN
+IV ,1936,Speed Skating,"500 metres, Men",11 February 1936,36,14,Ivar Ballangrud,NOR,Georg Krog,NOR,Leo Freisinger,USA
+IV ,1936,Ice Hockey,"Ice Hockey, Men",6 – 16 February 1936,174,15,Great Britain,GBR,Canada,CAN,United States,USA
+IV ,1936,Bobsleigh,"Four, Men",11 – 12 February 1936,72,10,Switzerland 2,SUI,Switzerland 1,SUI,Great Britain,GBR
+IV ,1936,Alpine Skiing,"Combined, Men",7 –  9 February 1936,66,21,Franz Pfnür,GER,Gustav Lantschner,GER,Émile Allais,FRA
+IV ,1936,Bobsleigh,"Two, Men",14 – 15 February 1936,46,13,United States 1,USA,Switzerland 2,SUI,United States 2,USA
+IV ,1936,Figure Skating,"Singles, Men",8 – 14 February 1936,25,12,Karl Schäfer,AUT,Ernst Baier,GER,Felix Kaspar,AUT
+IV ,1936,Figure Skating,"Singles, Women",11 – 15 February 1936,26,13,Sonja Henie,NOR,Cecilia Colledge,GBR,Vivi-Anne Hultén,SWE
+IV ,1936,Ski Jumping,"Normal Hill, Individual, Men",16 February 1936,48,14,Birger Ruud,NOR,Sven Eriksson,SWE,Reidar Andersen,NOR
+IV ,1936,Alpine Skiing,"Combined, Women",7 –  8 February 1936,37,13,Christl Cranz,GER,Käthe Grasegger,GER,Laila Schou Nilsen,NOR
+V ,1948,Figure Skating,"Pairs, Mixed", 7 February 1948,30,11,Belgium,BEL,Hungary 1,HUN,Canada,CAN
+V ,1948,Figure Skating,"Singles, Women",3 –  6 February 1948,25,10,Barbara Ann Scott,CAN,Eva Pawlik,AUT,Jeannette Altwegg,GBR
+V ,1948,Cross Country Skiing,"4 × 10 kilometres Relay, Men", 3 February 1948,44,11,Sweden,SWE,Finland,FIN,Norway,NOR
+V ,1948,Ice Hockey,"Ice Hockey, Men",30 January –  8 February 1948,139,9,Canada,CAN,Czechoslovakia,TCH,Switzerland,SUI
+V ,1948,Bobsleigh,"Two, Men",30 – 31 January 1948,32,9,Switzerland 2,SUI,Switzerland 1,SUI,United States 2,USA
+V ,1948,Bobsleigh,"Four, Men",6 –  7 February 1948,60,9,United States 2,USA,Belgium,BEL,United States 1,USA
+V ,1948,Alpine Skiing,"Combined, Women",2 –  4 February 1948,28,10,Trude Beiser,AUT,Gretchen Fraser,USA,Erika Mahringer,AUT
+V ,1948,Ski Jumping,"Normal Hill, Individual, Men", 7 February 1948,49,14,Petter Hugsted,NOR,Birger Ruud,NOR,Thorleif Schjelderup,NOR
+V ,1948,Skeleton,"Skeleton, Men",3 –  4 February 1948,15,6,Nino Bibbia,ITA,Jack Heaton,USA,John Crammond,GBR
+V ,1948,Alpine Skiing,"Slalom, Women", 5 February 1948,28,10,Gretchen Fraser,USA,Antoinette Meyer,SUI,Erika Mahringer,AUT
+V ,1948,Figure Skating,"Singles, Men",2 –  5 February 1948,16,10,Dick Button,USA,Hans Gerschwiler,SUI,Edi Rada,AUT
+V ,1948,Alpine Skiing,"Combined, Men",2 –  4 February 1948,78,24,Henri Oreiller,FRA,Karl Molitor,SUI,James Couttet,FRA
+V ,1948,Alpine Skiing,"Slalom, Men", 5 February 1948,77,22,Edy Reinalter,SUI,James Couttet,FRA,Henri Oreiller,FRA
+V ,1948,Alpine Skiing,"Downhill, Men", 2 February 1948,111,25,Henri Oreiller,FRA,Franz Gabl,AUT,Karl Molitor,SUI
+V ,1948,Nordic Combined,"Individual, Men",31 January –  1 February 1948,39,13,Heikki Hasu,FIN,Martti Huhtala,FIN,Sven Israelsson,SWE
+V ,1948,Speed Skating,"500 metres, Men",31 January 1948,42,15,Finn Helgesen,NOR,Thomas Byberg,NOR,—,
+V ,1948,Cross Country Skiing,"18 kilometres, Men",31 January 1948,84,15,Martin Lundström,SWE,Nils Östensson,SWE,Gunnar Eriksson,SWE
+V ,1948,Speed Skating,"1,500 metres, Men", 2 February 1948,45,14,Sverre Farstad,NOR,Åke Seyffarth,SWE,Odd Lundberg,NOR
+V ,1948,Speed Skating,"5,000 metres, Men", 1 February 1948,40,14,Reidar Liaklev,NOR,Odd Lundberg,NOR,Göthe Hedlund,SWE
+V ,1948,Speed Skating,"10,000 metres, Men", 3 February 1948,27,11,Åke Seyffarth,SWE,Lassi Parkkinen,FIN,Pentti Lammio,FIN
+V ,1948,Alpine Skiing,"Downhill, Women", 2 February 1948,37,11,Hedy Schlunegger,SUI,Trude Beiser,AUT,Resi Hammerer,AUT
+V ,1948,Cross Country Skiing,"50 kilometres, Men", 6 February 1948,28,9,Nils Karlsson,SWE,Harald Ericson,SWE,Benjam Vanninen,FIN
+VI ,1952,Speed Skating,"500 metres, Men",16 February 1952,41,14,Ken Henry,USA,Don McDermott,USA,Gordon Audley,CAN
+VI ,1952,Cross Country Skiing,"4 × 10 kilometres Relay, Men",23 February 1952,52,13,Finland,FIN,Norway,NOR,Sweden,SWE
+VI ,1952,Speed Skating,"1,500 metres, Men",18 February 1952,39,13,Hjalmar Andersen,NOR,Wim van der Voort,NED,Roald Aas,NOR
+VI ,1952,Speed Skating,"5,000 metres, Men",17 February 1952,35,13,Hjalmar Andersen,NOR,Kees Broekman,NED,Sverre Haugli,NOR
+VI ,1952,Speed Skating,"10,000 metres, Men",19 February 1952,30,12,Hjalmar Andersen,NOR,Kees Broekman,NED,Carl-Erik Asplund,SWE
+VI ,1952,Cross Country Skiing,"18 kilometres, Men",18 February 1952,80,18,Hallgeir Brenden,NOR,Tapio Mäkelä,FIN,Paavo Lonkila,FIN
+VI ,1952,Cross Country Skiing,"50 kilometres, Men",20 February 1952,36,13,Veikko Hakulinen,FIN,Eero Kolehmainen,FIN,Magnar Estenstad,NOR
+VI ,1952,Ice Hockey,"Ice Hockey, Men",15 – 25 February 1952,146,9,Canada,CAN,United States,USA,Sweden,SWE
+VI ,1952,Cross Country Skiing,"10 kilometres, Women",23 February 1952,20,8,Lydia Wideman,FIN,Mirja Hietamies,FIN,Siiri Rantanen,FIN
+VI ,1952,Nordic Combined,"Individual, Men",17 – 18 February 1952,25,11,Simon Slåttvik,NOR,Heikki Hasu,FIN,Sverre Stenersen,NOR
+VI ,1952,Bobsleigh,"Four, Men",21 – 22 February 1952,60,9,Unified Team of Germany,GER,United States 1,USA,Switzerland 1,SUI
+VI ,1952,Ski Jumping,"Normal Hill, Individual, Men",24 February 1952,44,13,Arnfinn Bergmann,NOR,Torbjørn Falkanger,NOR,Karl Holmström,SWE
+VI ,1952,Bobsleigh,"Two, Men",14 – 15 February 1952,36,9,Unified Team of Germany 1,GER,United States 1,USA,Switzerland 1,SUI
+VI ,1952,Figure Skating,"Singles, Women",16 – 20 February 1952,25,12,Jeannette Altwegg,GBR,Tenley Albright,USA,Jacqueline du Bief,FRA
+VI ,1952,Figure Skating,"Singles, Men",19 – 21 February 1952,14,11,Dick Button,USA,Helmut Seibt,AUT,Jim Grogan,USA
+VI ,1952,Alpine Skiing,"Slalom, Women",20 February 1952,40,14,Andrea Mead-Lawrence,USA,Ossi Reichert,GER,Mirl Buchner,GER
+VI ,1952,Alpine Skiing,"Giant Slalom, Women",14 February 1952,45,15,Andrea Mead-Lawrence,USA,Dagmar Rom,AUT,Mirl Buchner,GER
+VI ,1952,Alpine Skiing,"Downhill, Women",17 February 1952,42,13,Trude Jochum-Beiser,AUT,Mirl Buchner,GER,Giuliana Minuzzo,ITA
+VI ,1952,Alpine Skiing,"Slalom, Men",19 February 1952,86,27,Othmar Schneider,AUT,Stein Eriksen,NOR,Guttorm Berge,NOR
+VI ,1952,Alpine Skiing,"Giant Slalom, Men",15 February 1952,83,26,Stein Eriksen,NOR,Christian Pravda,AUT,Toni Spiß,AUT
+VI ,1952,Alpine Skiing,"Downhill, Men",16 February 1952,82,27,Zeno Colò,ITA,Othmar Schneider,AUT,Christian Pravda,AUT
+VI ,1952,Figure Skating,"Pairs, Mixed",22 February 1952,26,9,Unified Team of Germany 1,GER,United States 1,USA,Hungary 1,HUN
+VII ,1956,Cross Country Skiing,"15 kilometres, Men",30 January 1956,62,20,Hallgeir Brenden,NOR,Sixten Jernberg,SWE,Pavel Kolchin,URS
+VII ,1956,Speed Skating,"1,500 metres, Men",30 January 1956,54,18,Yevgeny Grishin,URS,—,,Toivo Salonen,FIN
+VII ,1956,Speed Skating,"5,000 metres, Men",29 January 1956,46,17,Boris Shilkov,URS,Sigvard Ericsson,SWE,Oleg Goncharenko,URS
+VII ,1956,Speed Skating,"10,000 metres, Men",31 January 1956,32,15,Sigvard Ericsson,SWE,Knut Johannesen,NOR,Oleg Goncharenko,URS
+VII ,1956,Cross Country Skiing,"30 kilometres, Men",27 January 1956,54,18,Veikko Hakulinen,FIN,Sixten Jernberg,SWE,Pavel Kolchin,URS
+VII ,1956,Nordic Combined,"Individual, Men",29 – 31 January 1956,36,12,Sverre Stenersen,NOR,Bengt Eriksson,SWE,Franciszek Gąsienica Groń,POL
+VII ,1956,Cross Country Skiing,"4 × 10 kilometres Relay, Men", 4 February 1956,56,14,Soviet Union,URS,Finland,FIN,Sweden,SWE
+VII ,1956,Cross Country Skiing,"10 kilometres, Women",28 January 1956,40,11,Lyubov Kozyreva,URS,Radya Yeroshina,URS,Sonja Edström,SWE
+VII ,1956,Cross Country Skiing,"3 × 5 kilometres Relay, Women", 1 February 1956,30,10,Finland,FIN,Soviet Union,URS,Sweden,SWE
+VII ,1956,Speed Skating,"500 metres, Men",28 January 1956,47,17,Yevgeny Grishin,URS,Rafael Grach,URS,Alv Gjestvang,NOR
+VII ,1956,Cross Country Skiing,"50 kilometres, Men", 2 February 1956,33,13,Sixten Jernberg,SWE,Veikko Hakulinen,FIN,Fyodor Terentyev,URS
+VII ,1956,Ice Hockey,"Ice Hockey, Men",26 January –  4 February 1956,169,10,Soviet Union,URS,United States,USA,Canada,CAN
+VII ,1956,Figure Skating,"Singles, Women",30 January –  2 February 1956,21,11,Tenley Albright,USA,Carol Heiss,USA,Ingrid Wendl,AUT
+VII ,1956,Bobsleigh,"Two, Men",27 – 28 January 1956,50,14,Italy 1,ITA,Italy 2,ITA,Switzerland 1,SUI
+VII ,1956,Ski Jumping,"Normal Hill, Individual, Men", 5 February 1956,51,16,Antti Hyvärinen,FIN,Aulis Kallakorpi,FIN,Harry Glaß,GER
+VII ,1956,Figure Skating,"Pairs, Mixed", 3 February 1956,22,7,Austria 1,AUT,Canada 1,CAN,Hungary,HUN
+VII ,1956,Bobsleigh,"Four, Men",3 –  4 February 1956,85,12,Switzerland 1,SUI,Italy 2,ITA,United States 1,USA
+VII ,1956,Figure Skating,"Singles, Men",29 January –  1 February 1956,16,11,Hayes Jenkins,USA,Ronnie Robertson,USA,David Jenkins,USA
+VII ,1956,Alpine Skiing,"Slalom, Women",30 January 1956,48,16,Renée Colliard,SUI,Regina Schöpf,AUT,Yevgeniya Sidorova,URS
+VII ,1956,Alpine Skiing,"Giant Slalom, Women",27 January 1956,49,16,Ossi Reichert,GER,Putzi Frandl,AUT,Thea Hochleitner,AUT
+VII ,1956,Alpine Skiing,"Downhill, Women", 1 February 1956,47,16,Madeleine Berthod,SUI,Frieda Dänzer,SUI,Lucile Wheeler,CAN
+VII ,1956,Alpine Skiing,"Slalom, Men",31 January 1956,89,29,Toni Sailer,AUT,Chiharu Igaya,JPN,Stig Sollander,SWE
+VII ,1956,Alpine Skiing,"Giant Slalom, Men",29 January 1956,95,29,Toni Sailer,AUT,Anderl Molterer,AUT,Walter Schuster,AUT
+VII ,1956,Alpine Skiing,"Downhill, Men", 3 February 1956,75,27,Toni Sailer,AUT,Raymond Fellay,SUI,Anderl Molterer,AUT
+VIII ,1960,Ice Hockey,"Ice Hockey, Men",19 – 28 February 1960,152,9,United States,USA,Canada,CAN,Soviet Union,URS
+VIII ,1960,Ski Jumping,"Normal Hill, Individual, Men",28 February 1960,45,15,Helmut Recknagel,GER,Niilo Halonen,FIN,Otto Leodolter,AUT
+VIII ,1960,Figure Skating,"Pairs, Mixed",19 February 1960,26,7,Canada 1,CAN,Unified Team of Germany 1,GER,United States 1,USA
+VIII ,1960,Figure Skating,"Singles, Women",21 – 23 February 1960,26,13,Carol Heiss,USA,Sjoukje Dijkstra,NED,Barbara Ann Roles,USA
+VIII ,1960,Figure Skating,"Singles, Men",24 – 26 February 1960,19,10,David Jenkins,USA,Karol Divín,TCH,Don Jackson,CAN
+VIII ,1960,Alpine Skiing,"Downhill, Men",22 February 1960,63,21,Jean Vuarnet,FRA,Hans-Peter Lanig,GER,Guy Périllat,FRA
+VIII ,1960,Alpine Skiing,"Giant Slalom, Women",23 February 1960,44,14,Yvonne Rüegg,SUI,Penny Pitou,USA,Giuliana Chenal-Minuzzo,ITA
+VIII ,1960,Alpine Skiing,"Downhill, Women",20 February 1960,42,14,Heidi Biebl,GER,Penny Pitou,USA,Traudl Hecher,AUT
+VIII ,1960,Alpine Skiing,"Slalom, Men",24 February 1960,63,21,Ernst Hinterseer,AUT,Hias Leitner,AUT,Charles Bozon,FRA
+VIII ,1960,Alpine Skiing,"Giant Slalom, Men",21 February 1960,65,21,Roger Staub,SUI,Pepi Stiegler,AUT,Ernst Hinterseer,AUT
+VIII ,1960,Speed Skating,"500 metres, Men",24 February 1960,46,15,Yevgeny Grishin,URS,Bill Disney,USA,Rafael Grach,URS
+VIII ,1960,Alpine Skiing,"Slalom, Women",26 February 1960,43,14,Anne Heggtveit,CAN,Betsy Snite,USA,Barbi Henneberger,GER
+VIII ,1960,Speed Skating,"1,500 metres, Men",26 February 1960,48,16,Roald Aas,NOR,—,,Boris Stenin,URS
+VIII ,1960,Biathlon,"20 kilometres, Men",21 February 1960,30,9,Klas Lestander,SWE,Antti Tyrväinen,FIN,Aleksandr Privalov,URS
+VIII ,1960,Speed Skating,"10,000 metres, Men",27 February 1960,30,15,Knut Johannesen,NOR,Viktor Kosichkin,URS,Kjell Bäckman,SWE
+VIII ,1960,Speed Skating,"5,000 metres, Men",25 February 1960,37,15,Viktor Kosichkin,URS,Knut Johannesen,NOR,Jan Pesman,NED
+VIII ,1960,Nordic Combined,"Individual, Men",21 – 22 February 1960,33,13,Georg Thoma,GER,Tormod Knutsen,NOR,Nikolay Gusakov,URS
+VIII ,1960,Cross Country Skiing,"3 × 5 kilometres Relay, Women",26 February 1960,15,5,Sweden,SWE,Soviet Union,URS,Finland,FIN
+VIII ,1960,Cross Country Skiing,"10 kilometres, Women",20 February 1960,24,7,Mariya Gusakova,URS,Lyubov Baranova,URS,Radya Yeroshina,URS
+VIII ,1960,Cross Country Skiing,"50 kilometres, Men",27 February 1960,31,10,Kalevi Hämäläinen,FIN,Veikko Hakulinen,FIN,Rolf Rämgård,SWE
+VIII ,1960,Cross Country Skiing,"30 kilometres, Men",19 February 1960,48,17,Sixten Jernberg,SWE,Rolf Rämgård,SWE,Nikolay Anikin,URS
+VIII ,1960,Cross Country Skiing,"4 × 10 kilometres Relay, Men",25 February 1960,44,11,Finland,FIN,Norway,NOR,Soviet Union,URS
+VIII ,1960,Speed Skating,"3,000 metres, Women",23 February 1960,20,10,Lidiya Skoblikova,URS,Valentina Stenina,URS,Eevi Huttunen,FIN
+VIII ,1960,Speed Skating,"1,500 metres, Women",21 February 1960,23,10,Lidiya Skoblikova,URS,Elwira Seroczyńska,POL,Helena Pilejczyk,POL
+VIII ,1960,Speed Skating,"1,000 metres, Women",22 February 1960,22,10,Klara Guseva,URS,Helga Haase,GER,Tamara Rylova,URS
+VIII ,1960,Speed Skating,"500 metres, Women",20 February 1960,23,10,Helga Haase,GER,Nataliya Donchenko,URS,Jeanne Ashworth,USA
+VIII ,1960,Cross Country Skiing,"15 kilometres, Men",23 February 1960,54,19,Håkon Brusveen,NOR,Sixten Jernberg,SWE,Veikko Hakulinen,FIN
+IX ,1964,Ski Jumping,"Large Hill, Individual, Men", 9 February 1964,52,15,Toralf Engan,NOR,Veikko Kankkonen,FIN,Torgeir Brandtzæg,NOR
+IX ,1964,Alpine Skiing,"Downhill, Men",30 January 1964,84,27,Egon Zimmermann,AUT,Léo Lacroix,FRA,Wolfgang Bartels,GER
+IX ,1964,Speed Skating,"1,500 metres, Men", 6 February 1964,54,20,Ants Antson,URS,Kees Verkerk,NED,Villy Haugen,NOR
+IX ,1964,Speed Skating,"500 metres, Men", 4 February 1964,44,19,Terry McDermott,USA,Alv Gjestvang,NOR,—,
+IX ,1964,Ice Hockey,"Ice Hockey, Men",27 January –  9 February 1964,270,16,Soviet Union,URS,Sweden,SWE,Czechoslovakia,TCH
+IX ,1964,Biathlon,"20 kilometres, Men", 4 February 1964,51,14,Vladimir Melanin,URS,Aleksandr Privalov,URS,Olav Jordet,NOR
+IX ,1964,Ski Jumping,"Normal Hill, Individual, Men",31 January 1964,53,15,Veikko Kankkonen,FIN,Toralf Engan,NOR,Torgeir Brandtzæg,NOR
+IX ,1964,Alpine Skiing,"Slalom, Men",7 –  8 February 1964,96,28,Pepi Stiegler,AUT,Billy Kidd,USA,Jimmy Heuga,USA
+IX ,1964,Figure Skating,"Singles, Women",30 January –  2 February 1964,30,14,Sjoukje Dijkstra,NED,Regine Heitzer,AUT,Petra Burka,CAN
+IX ,1964,Figure Skating,"Singles, Men",3 –  6 February 1964,24,11,Manfred Schnelldorfer,GER,Alain Calmat,FRA,Scotty Allen,USA
+IX ,1964,Alpine Skiing,"Slalom, Women", 1 February 1964,46,16,Christine Goitschel,FRA,Marielle Goitschel,FRA,Jean Saubert,USA
+IX ,1964,Alpine Skiing,"Giant Slalom, Women", 3 February 1964,46,16,Marielle Goitschel,FRA,Christine Goitschel,FRA,—,
+IX ,1964,Alpine Skiing,"Downhill, Women", 6 February 1964,43,15,Christl Haas,AUT,Edith Zimmermann,AUT,Traudl Hecher,AUT
+IX ,1964,Alpine Skiing,"Giant Slalom, Men", 2 February 1964,96,28,François Bonlieu,FRA,Karl Schranz,AUT,Pepi Stiegler,AUT
+IX ,1964,Speed Skating,"5,000 metres, Men", 5 February 1964,42,19,Knut Johannesen,NOR,Per Ivar Moe,NOR,Fred Anton Maier,NOR
+IX ,1964,Figure Skating,"Pairs, Mixed",29 January 1964,34,7,Soviet Union 1,URS,Canada 1,CAN,United States 1,USA
+IX ,1964,Speed Skating,"10,000 metres, Men", 7 February 1964,33,19,Jonny Nilsson,SWE,Fred Anton Maier,NOR,Knut Johannesen,NOR
+IX ,1964,Speed Skating,"1,500 metres, Women",31 January 1964,30,14,Lidiya Skoblikova,URS,Kaija Mustonen,FIN,Berta Kolokoltseva,URS
+IX ,1964,Speed Skating,"1,000 metres, Women", 1 February 1964,28,14,Lidiya Skoblikova,URS,Irina Yegorova,URS,Kaija Mustonen,FIN
+IX ,1964,Nordic Combined,"Individual, Men",2 –  3 February 1964,32,11,Tormod Knutsen,NOR,Nikolay Kiselyov,URS,Georg Thoma,GER
+IX ,1964,Cross Country Skiing,"3 × 5 kilometres Relay, Women", 7 February 1964,24,8,Soviet Union,URS,Sweden,SWE,Finland,FIN
+IX ,1964,Cross Country Skiing,"10 kilometres, Women", 1 February 1964,35,12,Klavdiya Boyarskikh,URS,Yevdokiya Mekshilo,URS,Mariya Gusakova,URS
+IX ,1964,Cross Country Skiing,"5 kilometres, Women", 5 February 1964,32,11,Klavdiya Boyarskikh,URS,Mirja Lehtonen,FIN,Alevtina Kolchina,URS
+IX ,1964,Speed Skating,"500 metres, Women",30 January 1964,28,13,Lidiya Skoblikova,URS,Irina Yegorova,URS,Tatyana Sidorova,URS
+IX ,1964,Cross Country Skiing,"50 kilometres, Men", 5 February 1964,41,14,Sixten Jernberg,SWE,Assar Rönnlund,SWE,Arto Tiainen,FIN
+IX ,1964,Cross Country Skiing,"30 kilometres, Men",30 January 1964,69,23,Eero Mäntyranta,FIN,Harald Grønningen,NOR,Igor Voronchikhin,URS
+IX ,1964,Cross Country Skiing,"4 × 10 kilometres Relay, Men", 8 February 1964,60,15,Sweden,SWE,Finland,FIN,Soviet Union,URS
+IX ,1964,Luge,"Singles, Women",30 January –  4 February 1964,17,7,Ortrun Enderlein,GER,Ilse Geisler,GER,Leni Thurner,AUT
+IX ,1964,Luge,"Doubles, Open", 5 February 1964,30,8,Austria 1,AUT,Austria 2,AUT,Italy 1,ITA
+IX ,1964,Luge,"Singles, Men",30 January –  4 February 1964,38,12,Thomas Köhler,GER,Klaus-Michael Bonsack,GER,Hans Plenk,GER
+IX ,1964,Bobsleigh,"Four, Men",5 –  7 February 1964,75,11,Canada 1,CAN,Austria 1,AUT,Italy 2,ITA
+IX ,1964,Bobsleigh,"Two, Men",31 January –  1 February 1964,42,11,Great Britain 1,GBR,Italy 2,ITA,Italy 1,ITA
+IX ,1964,Speed Skating,"3,000 metres, Women", 2 February 1964,28,13,Lidiya Skoblikova,URS,Han Pil-Hwa,PRK,—,
+IX ,1964,Cross Country Skiing,"15 kilometres, Men", 2 February 1964,71,21,Eero Mäntyranta,FIN,Harald Grønningen,NOR,Sixten Jernberg,SWE
+X ,1968,Speed Skating,"5,000 metres, Men",15 February 1968,38,17,Fred Anton Maier,NOR,Kees Verkerk,NED,Peter Nottet,NED
+X ,1968,Speed Skating,"1,500 metres, Men",16 February 1968,53,18,Kees Verkerk,NED,Ard Schenk,NED,—,
+X ,1968,Speed Skating,"500 metres, Men",14 February 1968,48,17,Erhard Keller,FRG,Magne Thomassen,NOR,—,
+X ,1968,Ice Hockey,"Ice Hockey, Men",4 – 17 February 1968,250,14,Soviet Union,URS,Czechoslovakia,TCH,Canada,CAN
+X ,1968,Biathlon,"20 kilometres, Men",12 February 1968,60,16,Magnar Solberg,NOR,Aleksandr Tikhonov,URS,Vladimir Gundartsev,URS
+X ,1968,Ski Jumping,"Large Hill, Individual, Men",18 February 1968,58,17,Vladimir Belousov,URS,Jiří Raška,TCH,Lars Grini,NOR
+X ,1968,Alpine Skiing,"Slalom, Men",16 – 17 February 1968,100,33,Jean-Claude Killy,FRA,Herbert Huber,AUT,Alfred Matt,AUT
+X ,1968,Figure Skating,"Pairs, Mixed",11 – 14 February 1968,36,9,Soviet Union 1,URS,Soviet Union 2,URS,West Germany 1,FRG
+X ,1968,Figure Skating,"Singles, Women",8 – 10 February 1968,32,15,Peggy Fleming,USA,Gabriele Seyfert,GDR,Hana Mašková,TCH
+X ,1968,Figure Skating,"Singles, Men",14 – 16 February 1968,28,14,Wolfgang Schwarz,AUT,Tim Wood,USA,Patrick Péra,FRA
+X ,1968,Alpine Skiing,"Slalom, Women",13 February 1968,49,18,Marielle Goitschel,FRA,Nancy Greene,CAN,Annie Famose,FRA
+X ,1968,Alpine Skiing,"Giant Slalom, Women",15 February 1968,47,18,Nancy Greene,CAN,Annie Famose,FRA,Fernande Bochatay,SUI
+X ,1968,Alpine Skiing,"Downhill, Women",10 February 1968,39,14,Olga Pall,AUT,Isabelle Mir,FRA,Christl Haas,AUT
+X ,1968,Speed Skating,"10,000 metres, Men",17 February 1968,28,13,Johnny Höglin,SWE,Fred Anton Maier,NOR,Örjan Sandler,SWE
+X ,1968,Ski Jumping,"Normal Hill, Individual, Men",11 February 1968,58,17,Jiří Raška,TCH,Reinhold Bachler,AUT,Baldur Preiml,AUT
+X ,1968,Speed Skating,"500 metres, Women", 9 February 1968,28,11,Lyudmila Titova,URS,Jenny Fish,USA,—,
+X ,1968,Luge,"Singles, Women",11 – 13 February 1968,26,10,Erika Lechner,ITA,Christa Schmuck,FRG,Angelika Dünhaupt,FRG
+X ,1968,Speed Skating,"1,500 metres, Women",10 February 1968,30,12,Kaija Mustonen,FIN,Carry Geijssen,NED,Stien Kaiser,NED
+X ,1968,Alpine Skiing,"Giant Slalom, Men",11 – 12 February 1968,101,33,Jean-Claude Killy,FRA,Willy Favre,SUI,Heini Messner,AUT
+X ,1968,Nordic Combined,"Individual, Men",10 – 12 February 1968,41,13,Franz Keller,FRG,Alois Kälin,SUI,Andreas Kunz,GDR
+X ,1968,Cross Country Skiing,"3 × 5 kilometres Relay, Women",16 February 1968,24,8,Norway,NOR,Sweden,SWE,Soviet Union,URS
+X ,1968,Cross Country Skiing,"10 kilometres, Women", 9 February 1968,34,11,Toini Gustafsson,SWE,Berit Mørdre,NOR,Inger Aufles,NOR
+X ,1968,Cross Country Skiing,"5 kilometres, Women",13 February 1968,34,11,Toini Gustafsson,SWE,Galina Kulakova,URS,Alevtina Kolchina,URS
+X ,1968,Cross Country Skiing,"4 × 10 kilometres Relay, Men",14 February 1968,60,15,Norway,NOR,Sweden,SWE,Finland,FIN
+X ,1968,Speed Skating,"1,000 metres, Women",11 February 1968,29,12,Carry Geijssen,NED,Lyudmila Titova,URS,Dianne Holum,USA
+X ,1968,Cross Country Skiing,"50 kilometres, Men",17 February 1968,51,18,Ole Ellefsæter,NOR,Vyacheslav Vedenin,URS,Josef Haas,SUI
+X ,1968,Cross Country Skiing,"15 kilometres, Men",10 February 1968,75,25,Harald Grønningen,NOR,Eero Mäntyranta,FIN,Gunnar Larsson,SWE
+X ,1968,Luge,"Doubles, Open",18 February 1968,30,9,East Germany 1,GDR,Austria 1,AUT,West Germany 1,FRG
+X ,1968,Luge,"Singles, Men",11 – 13 February 1968,50,14,Manfred Schmid,AUT,Thomas Köhler,GDR,Klaus-Michael Bonsack,GDR
+X ,1968,Bobsleigh,"Four, Men",16 February 1968,76,11,Italy 1,ITA,Austria 1,AUT,Switzerland 1,SUI
+X ,1968,Bobsleigh,"Two, Men",8 – 11 February 1968,44,11,Italy 1,ITA,West Germany 1,FRG,Romania 1,ROU
+X ,1968,Speed Skating,"3,000 metres, Women",12 February 1968,26,12,Ans Schut,NED,Kaija Mustonen,FIN,Stien Kaiser,NED
+X ,1968,Cross Country Skiing,"30 kilometres, Men", 7 February 1968,66,22,Franco Nones,ITA,Odd Martinsen,NOR,Eero Mäntyranta,FIN
+X ,1968,Alpine Skiing,"Downhill, Men", 9 February 1968,86,29,Jean-Claude Killy,FRA,Guy Périllat,FRA,Jean-Daniel Dätwyler,SUI
+X ,1968,Biathlon,"4 × 7.5 kilometres Relay, Men",15 February 1968,56,14,Soviet Union,URS,Norway,NOR,Sweden,SWE
+XI ,1972,Speed Skating,"500 metres, Women",10 February 1972,29,12,Anne Henning,USA,Vera Krasnova,URS,Lyudmila Titova,URS
+XI ,1972,Speed Skating,"1,000 metres, Women",11 February 1972,33,12,Monika Pflug,FRG,Atje Keulen-Deelstra,NED,Anne Henning,USA
+XI ,1972,Speed Skating,"1,500 metres, Women", 9 February 1972,31,12,Dianne Holum,USA,Stien Baas-Kaiser,NED,Atje Keulen-Deelstra,NED
+XI ,1972,Speed Skating,"3,000 metres, Women",12 February 1972,22,10,Stien Baas-Kaiser,NED,Dianne Holum,USA,Atje Keulen-Deelstra,NED
+XI ,1972,Bobsleigh,"Two, Men",4 –  5 February 1972,42,11,West Germany 2,FRG,West Germany 1,FRG,Switzerland 1,SUI
+XI ,1972,Bobsleigh,"Four, Men",11 – 12 February 1972,72,11,Switzerland 1,SUI,Italy 1,ITA,West Germany 1,FRG
+XI ,1972,Luge,"Singles, Men",4 –  7 February 1972,45,13,Wolfgang Scheidel,GDR,Harald Ehrig,GDR,Wolfram Fiedler,GDR
+XI ,1972,Speed Skating,"10,000 metres, Men", 7 February 1972,24,14,Ard Schenk,NED,Kees Verkerk,NED,Sten Stensen,NOR
+XI ,1972,Luge,"Doubles, Open",10 February 1972,40,11,East Germany 1,GDR,—,,East Germany 2,GDR
+XI ,1972,Cross Country Skiing,"15 kilometres, Men", 7 February 1972,62,19,Sven-Åke Lundbäck,SWE,Fyodor Simashov,URS,Ivar Formo,NOR
+XI ,1972,Cross Country Skiing,"30 kilometres, Men", 4 February 1972,59,18,Vyacheslav Vedenin,URS,Pål Tyldum,NOR,Johs Harviken,NOR
+XI ,1972,Cross Country Skiing,"50 kilometres, Men",10 February 1972,40,13,Pål Tyldum,NOR,Magne Myrmo,NOR,Vyacheslav Vedenin,URS
+XI ,1972,Cross Country Skiing,"4 × 10 kilometres Relay, Men",13 February 1972,56,14,Soviet Union,URS,Norway,NOR,Switzerland,SUI
+XI ,1972,Cross Country Skiing,"5 kilometres, Women", 9 February 1972,43,12,Galina Kulakova,URS,Marjatta Kajosmaa,FIN,Helena Šikolová,TCH
+XI ,1972,Cross Country Skiing,"10 kilometres, Women", 6 February 1972,42,12,Galina Kulakova,URS,Alevtina Olyunina,URS,Marjatta Kajosmaa,FIN
+XI ,1972,Luge,"Singles, Women",4 –  7 February 1972,22,8,Anna-Maria Müller,GDR,Ute Rührold,GDR,Margit Schumann,GDR
+XI ,1972,Speed Skating,"5,000 metres, Men", 4 February 1972,28,14,Ard Schenk,NED,Roar Grønvold,NOR,Sten Stensen,NOR
+XI ,1972,Speed Skating,"1,500 metres, Men", 6 February 1972,39,16,Ard Schenk,NED,Roar Grønvold,NOR,Göran Claeson,SWE
+XI ,1972,Speed Skating,"500 metres, Men", 5 February 1972,38,16,Erhard Keller,FRG,Hasse Börjes,SWE,Valery Muratov,URS
+XI ,1972,Alpine Skiing,"Downhill, Men", 7 February 1972,55,20,Bernhard Russi,SUI,Roland Collombin,SUI,Heini Messner,AUT
+XI ,1972,Alpine Skiing,"Giant Slalom, Men",9 – 10 February 1972,73,27,Gustavo Thoeni,ITA,Edy Bruggmann,SUI,Werner Mattle,SUI
+XI ,1972,Alpine Skiing,"Slalom, Men",12 – 13 February 1972,72,27,Francisco Fernández Ochoa,ESP,Gustavo Thoeni,ITA,Rolando Thoeni,ITA
+XI ,1972,Alpine Skiing,"Downhill, Women", 5 February 1972,41,13,Marie-Theres Nadig,SUI,Annemarie Pröll,AUT,Susie Corrock,USA
+XI ,1972,Alpine Skiing,"Giant Slalom, Women", 8 February 1972,42,13,Marie-Theres Nadig,SUI,Annemarie Pröll,AUT,Wiltrud Drexel,AUT
+XI ,1972,Alpine Skiing,"Slalom, Women",11 February 1972,42,13,Barbara Cochran,USA,Danièle Debernard,FRA,Florence Steurer,FRA
+XI ,1972,Cross Country Skiing,"3 × 5 kilometres Relay, Women",12 February 1972,33,11,Soviet Union,URS,Finland,FIN,Norway,NOR
+XI ,1972,Figure Skating,"Singles, Men",8 – 11 February 1972,17,10,Ondrej Nepela,TCH,Sergey Chetverukhin,URS,Patrick Péra,FRA
+XI ,1972,Figure Skating,"Pairs, Mixed",6 –  8 February 1972,32,9,Soviet Union 1,URS,Soviet Union 2,URS,East Germany 1,GDR
+XI ,1972,Ski Jumping,"Normal Hill, Individual, Men", 6 February 1972,56,16,Yukio Kasaya,JPN,Akitsugu Konno,JPN,Seiji Aochi,JPN
+XI ,1972,Ski Jumping,"Large Hill, Individual, Men",11 February 1972,52,15,Wojciech Fortuna,POL,Walter Steiner,SUI,Rainer Schmidt,GDR
+XI ,1972,Biathlon,"20 kilometres, Men", 9 February 1972,54,14,Magnar Solberg,NOR,Hansjörg Knauthe,GDR,Lars-Göran Arwidson,SWE
+XI ,1972,Biathlon,"4 × 7.5 kilometres Relay, Men",11 February 1972,52,13,Soviet Union,URS,Finland,FIN,East Germany,GDR
+XI ,1972,Ice Hockey,"Ice Hockey, Men",3 – 13 February 1972,205,11,Soviet Union,URS,United States,USA,Czechoslovakia,TCH
+XI ,1972,Figure Skating,"Singles, Women",4 –  7 February 1972,19,14,Trixi Schuba,AUT,Karen Magnussen,CAN,Janet Lynn,USA
+XI ,1972,Nordic Combined,"Individual, Men",4 –  5 February 1972,40,14,Ulrich Wehling,GDR,Rauno Miettinen,FIN,Karl-Heinz Luck,GDR
+XII ,1976,Cross Country Skiing,"5 kilometres, Women", 7 February 1976,44,14,Helena Takalo,FIN,Raisa Smetanina,URS,Nina Baldycheva,URS
+XII ,1976,Cross Country Skiing,"10 kilometres, Women",10 February 1976,44,14,Raisa Smetanina,URS,Helena Takalo,FIN,Galina Kulakova,URS
+XII ,1976,Alpine Skiing,"Giant Slalom, Men",9 – 10 February 1976,97,31,Heini Hemmi,SUI,Ernst Good,SUI,Ingemar Stenmark,SWE
+XII ,1976,Speed Skating,"500 metres, Women", 6 February 1976,27,13,Sheila Young,USA,Cathy Priestner,CAN,Tatyana Averina,URS
+XII ,1976,Speed Skating,"1,000 metres, Women", 7 February 1976,27,12,Tatyana Averina,URS,Leah Poulos,USA,Sheila Young,USA
+XII ,1976,Speed Skating,"1,500 metres, Women", 5 February 1976,26,12,Galina Stepanskaya,URS,Sheila Young,USA,Tatyana Averina,URS
+XII ,1976,Speed Skating,"3,000 metres, Women", 8 February 1976,26,12,Tatyana Averina,URS,Andrea Mitscherlich,GDR,Lisbeth Korsmo,NOR
+XII ,1976,Cross Country Skiing,"4 × 5 kilometres Relay, Women",12 February 1976,36,9,Soviet Union,URS,Finland,FIN,East Germany,GDR
+XII ,1976,Bobsleigh,"Four, Men",13 – 14 February 1976,85,12,East Germany 1,GDR,Switzerland 2,SUI,West Germany 1,FRG
+XII ,1976,Luge,"Singles, Men",4 –  7 February 1976,43,15,Dettlef Günther,GDR,Josef Fendt,FRG,Hans Rinn,GDR
+XII ,1976,Luge,"Doubles, Open",10 February 1976,50,15,East Germany 1,GDR,West Germany 1,FRG,Austria 1,AUT
+XII ,1976,Luge,"Singles, Women",4 –  7 February 1976,26,12,Margit Schumann,GDR,Ute Rührold,GDR,Elisabeth Demleitner,FRG
+XII ,1976,Cross Country Skiing,"15 kilometres, Men", 8 February 1976,80,23,Nikolay Bazhukov,URS,Yevgeny Belyayev,URS,Arto Koivisto,FIN
+XII ,1976,Cross Country Skiing,"30 kilometres, Men", 5 February 1976,69,21,Sergey Savelyev,URS,Bill Koch,USA,Ivan Garanin,URS
+XII ,1976,Cross Country Skiing,"50 kilometres, Men",14 February 1976,59,17,Ivar Formo,NOR,Gert-Dietmar Klause,GDR,Benny Södergren,SWE
+XII ,1976,Cross Country Skiing,"4 × 10 kilometres Relay, Men",11 February 1976,64,16,Finland,FIN,Norway,NOR,Soviet Union,URS
+XII ,1976,Nordic Combined,"Individual, Men",8 –  9 February 1976,34,14,Ulrich Wehling,GDR,Urban Hettich,FRG,Konrad Winkler,GDR
+XII ,1976,Alpine Skiing,"Downhill, Men", 5 February 1976,74,27,Franz Klammer,AUT,Bernhard Russi,SUI,Herbert Plank,ITA
+XII ,1976,Speed Skating,"10,000 metres, Men",14 February 1976,20,12,Piet Kleine,NED,Sten Stensen,NOR,Hans van Helden,NED
+XII ,1976,Speed Skating,"5,000 metres, Men",11 February 1976,31,17,Sten Stensen,NOR,Piet Kleine,NED,Hans van Helden,NED
+XII ,1976,Bobsleigh,"Two, Men",6 –  7 February 1976,48,13,East Germany 2,GDR,West Germany 1,FRG,Switzerland 1,SUI
+XII ,1976,Alpine Skiing,"Downhill, Women", 8 February 1976,38,15,Rosi Mittermaier,FRG,Brigitte Totschnig,AUT,Cindy Nelson,USA
+XII ,1976,Alpine Skiing,"Slalom, Men",14 February 1976,94,31,Piero Gros,ITA,Gustavo Thoeni,ITA,Willi Frommelt,LIE
+XII ,1976,Speed Skating,"1,500 metres, Men",13 February 1976,30,18,Jan Egil Storholt,NOR,Yury Kondakov,URS,Hans van Helden,NED
+XII ,1976,Alpine Skiing,"Giant Slalom, Women",13 February 1976,45,17,Kathy Kreiner,CAN,Rosi Mittermaier,FRG,Danièle Debernard,FRA
+XII ,1976,Alpine Skiing,"Slalom, Women",11 February 1976,42,16,Rosi Mittermaier,FRG,Claudia Giordani,ITA,Hanni Wenzel,LIE
+XII ,1976,Figure Skating,"Singles, Men",8 – 11 February 1976,20,12,John Curry,GBR,Vladimir Kovalyov,URS,Toller Cranston,CAN
+XII ,1976,Figure Skating,"Pairs, Mixed",5 –  7 February 1976,28,9,Soviet Union 1,URS,East Germany 1,GDR,East Germany 2,GDR
+XII ,1976,Figure Skating,"Ice Dancing, Mixed",4 –  9 February 1976,36,9,Soviet Union 1,URS,Soviet Union 2,URS,United States 1,USA
+XII ,1976,Figure Skating,"Singles, Women",10 – 13 February 1976,21,15,Dorothy Hamill,USA,Dianne de Leeuw,NED,Christine Errath,GDR
+XII ,1976,Ski Jumping,"Large Hill, Individual, Men",15 February 1976,54,15,Karl Schnabl,AUT,Toni Innauer,AUT,Henry Glaß,GDR
+XII ,1976,Biathlon,"20 kilometres, Men", 6 February 1976,52,18,Nikolay Kruglov,URS,Heikki Ikola,FIN,Aleksandr Yelizarov,URS
+XII ,1976,Biathlon,"4 × 7.5 kilometres Relay, Men",13 February 1976,60,15,Soviet Union,URS,Finland,FIN,East Germany,GDR
+XII ,1976,Ice Hockey,"Ice Hockey, Men",3 – 14 February 1976,217,12,Soviet Union,URS,Czechoslovakia,TCH,West Germany,FRG
+XII ,1976,Speed Skating,"500 metres, Men",10 February 1976,29,16,Yevgeny Kulikov,URS,Valery Muratov,URS,Dan Immerfall,USA
+XII ,1976,Speed Skating,"1,000 metres, Men",12 February 1976,31,16,Peter Mueller,USA,Jørn Didriksen,NOR,Valery Muratov,URS
+XII ,1976,Ski Jumping,"Normal Hill, Individual, Men", 7 February 1976,55,15,Hans-Georg Aschenbach,GDR,Jochen Danneberg,GDR,Karl Schnabl,AUT
+XIII ,1980,Bobsleigh,"Four, Men",23 – 24 February 1980,68,10,East Germany 1,GDR,Switzerland 1,SUI,East Germany 2,GDR
+XIII ,1980,Speed Skating,"500 metres, Women",15 February 1980,31,15,Karin Enke,GDR,Leah Poulos-Mueller,USA,Nataliya Petrusyova,URS
+XIII ,1980,Speed Skating,"1,000 metres, Women",17 February 1980,37,16,Nataliya Petrusyova,URS,Leah Poulos-Mueller,USA,Sylvia Albrecht,GDR
+XIII ,1980,Speed Skating,"1,500 metres, Women",14 February 1980,31,14,Annie Borckink,NED,Ria Visser,NED,Sabine Becker,GDR
+XIII ,1980,Speed Skating,"3,000 metres, Women",20 February 1980,29,14,Bjørg Eva Jensen,NOR,Sabine Becker,GDR,Beth Heiden,USA
+XIII ,1980,Bobsleigh,"Two, Men",15 – 16 February 1980,40,11,Switzerland 2,SUI,East Germany 2,GDR,East Germany 1,GDR
+XIII ,1980,Luge,"Singles, Men",13 – 16 February 1980,30,13,Bernhard Glass,GDR,Paul Hildgartner,ITA,Anton Winkler,FRG
+XIII ,1980,Cross Country Skiing,"10 kilometres, Women",18 February 1980,38,12,Barbara Petzold,GDR,Hilkka Riihivuori,FIN,Helena Takalo,FIN
+XIII ,1980,Luge,"Singles, Women",13 – 16 February 1980,26,11,Vera Zozuļa,URS,Melitta Sollmann,GDR,Ingrīda Amantova,URS
+XIII ,1980,Cross Country Skiing,"15 kilometres, Men",17 February 1980,63,22,Thomas Wassberg,SWE,Juha Mieto,FIN,Ove Aunli,NOR
+XIII ,1980,Cross Country Skiing,"30 kilometres, Men",14 February 1980,57,20,Nikolay Zimyatov,URS,Vasily Rochev,URS,Ivan Lebanov,BUL
+XIII ,1980,Cross Country Skiing,"50 kilometres, Men",23 February 1980,43,14,Nikolay Zimyatov,URS,Juha Mieto,FIN,Aleksandr Zavyalov,URS
+XIII ,1980,Cross Country Skiing,"4 × 10 kilometres Relay, Men",20 February 1980,40,10,Soviet Union,URS,Norway,NOR,Finland,FIN
+XIII ,1980,Cross Country Skiing,"5 kilometres, Women",15 February 1980,38,12,Raisa Smetanina,URS,Hilkka Riihivuori,FIN,Květa Jeriová,TCH
+XIII ,1980,Luge,"Doubles, Open",19 February 1980,38,12,East Germany 1,GDR,Italy 1,ITA,Austria 1,AUT
+XIII ,1980,Speed Skating,"10,000 metres, Men",23 February 1980,25,13,Eric Heiden,USA,Piet Kleine,NED,Tom Erik Oxholm,NOR
+XIII ,1980,Biathlon,"4 × 7.5 kilometres Relay, Men",22 February 1980,60,15,Soviet Union,URS,East Germany,GDR,West Germany,FRG
+XIII ,1980,Speed Skating,"1,500 metres, Men",21 February 1980,36,16,Eric Heiden,USA,Kay Arne Stenshjemmet,NOR,Terje Andersen,NOR
+XIII ,1980,Cross Country Skiing,"4 × 5 kilometres Relay, Women",21 February 1980,32,8,East Germany,GDR,Soviet Union,URS,Norway,NOR
+XIII ,1980,Ice Hockey,"Ice Hockey, Men",12 – 24 February 1980,239,12,United States,USA,Soviet Union,URS,Sweden,SWE
+XIII ,1980,Biathlon,"20 kilometres, Men",16 February 1980,49,18,Anatoly Alyabyev,URS,Frank Ullrich,GDR,Eberhard Rösch,GDR
+XIII ,1980,Biathlon,"10 kilometres Sprint, Men",19 February 1980,50,18,Frank Ullrich,GDR,Vladimir Alikin,URS,Anatoly Alyabyev,URS
+XIII ,1980,Ski Jumping,"Large Hill, Individual, Men",23 February 1980,50,16,Jouko Törmänen,FIN,Hubert Neuper,AUT,Jari Puikkonen,FIN
+XIII ,1980,Ski Jumping,"Normal Hill, Individual, Men",17 February 1980,48,16,Toni Innauer,AUT,Manfred Deckert,GDR,—,
+XIII ,1980,Figure Skating,"Ice Dancing, Mixed",18 – 20 February 1980,24,8,Soviet Union 1,URS,Hungary,HUN,Soviet Union 2,URS
+XIII ,1980,Speed Skating,"5,000 metres, Men",16 February 1980,29,15,Eric Heiden,USA,Kay Arne Stenshjemmet,NOR,Tom Erik Oxholm,NOR
+XIII ,1980,Figure Skating,"Pairs, Mixed",16 – 18 February 1980,22,7,Soviet Union 1,URS,Soviet Union 2,URS,East Germany 1,GDR
+XIII ,1980,Figure Skating,"Singles, Men",18 – 21 February 1980,17,10,Robin Cousins,GBR,Jan Hoffmann,GDR,Charlie Tickner,USA
+XIII ,1980,Alpine Skiing,"Slalom, Women",23 February 1980,47,21,Hanni Wenzel,LIE,Christa Kinshofer,FRG,Erika Hess,SUI
+XIII ,1980,Alpine Skiing,"Giant Slalom, Women",20 – 21 February 1980,48,21,Hanni Wenzel,LIE,Irene Epple,FRG,Perrine Pelen,FRA
+XIII ,1980,Alpine Skiing,"Downhill, Women",17 February 1980,28,13,Annemarie Moser-Pröll,AUT,Hanni Wenzel,LIE,Marie-Theres Nadig,SUI
+XIII ,1980,Alpine Skiing,"Slalom, Men",22 February 1980,79,28,Ingemar Stenmark,SWE,Phil Mahre,USA,Jacques Lüthy,SUI
+XIII ,1980,Alpine Skiing,"Giant Slalom, Men",18 – 19 February 1980,78,28,Ingemar Stenmark,SWE,Andi Wenzel,LIE,Hans Enn,AUT
+XIII ,1980,Alpine Skiing,"Downhill, Men",14 February 1980,47,22,Leonhard Stock,AUT,Peter Wirnsberger,AUT,Steve Podborski,CAN
+XIII ,1980,Figure Skating,"Singles, Women",20 – 23 February 1980,22,15,Anett Pötzsch,GDR,Linda Fratianne,USA,Dagmar Lurz,FRG
+XIII ,1980,Nordic Combined,"Individual, Men",18 – 19 February 1980,31,9,Ulrich Wehling,GDR,Jouko Karjalainen,FIN,Konrad Winkler,GDR
+XIII ,1980,Speed Skating,"1,000 metres, Men",19 February 1980,41,19,Eric Heiden,USA,Gaétan Boucher,CAN,Frode Rønning,NOR
+XIII ,1980,Speed Skating,"500 metres, Men",15 February 1980,37,18,Eric Heiden,USA,Yevgeny Kulikov,URS,Lieuwe de Boer,NED
+XIV ,1984,Cross Country Skiing,"4 × 5 kilometres Relay, Women",15 February 1984,48,12,Norway,NOR,Czechoslovakia,TCH,Finland,FIN
+XIV ,1984,Speed Skating,"500 metres, Men",10 February 1984,42,20,Sergey Fokichev,URS,Yoshihiro Kitazawa,JPN,Gaétan Boucher,CAN
+XIV ,1984,Alpine Skiing,"Downhill, Men",16 February 1984,61,25,Bill Johnson,USA,Peter Müller,SUI,Anton Steiner,AUT
+XIV ,1984,Alpine Skiing,"Giant Slalom, Men",14 February 1984,108,39,Max Julen,SUI,Jure Franko,YUG,Andi Wenzel,LIE
+XIV ,1984,Alpine Skiing,"Slalom, Men",19 February 1984,101,38,Phil Mahre,USA,Steve Mahre,USA,Didier Bouvet,FRA
+XIV ,1984,Alpine Skiing,"Downhill, Women",16 February 1984,32,13,Michela Figini,SUI,Maria Walliser,SUI,Olga Charvátová,TCH
+XIV ,1984,Alpine Skiing,"Giant Slalom, Women",13 February 1984,54,20,Debbie Armstrong,USA,Christin Cooper,USA,Perrine Pelen,FRA
+XIV ,1984,Alpine Skiing,"Slalom, Women",17 February 1984,45,19,Paola Magoni,ITA,Perrine Pelen,FRA,Ursula Konzett,LIE
+XIV ,1984,Figure Skating,"Singles, Men",13 – 16 February 1984,23,15,Scott Hamilton,USA,Brian Orser,CAN,Jozef Sabovčík,TCH
+XIV ,1984,Figure Skating,"Singles, Women",15 – 18 February 1984,23,16,Katarina Witt,GDR,Rosalyn Sumners,USA,Kira Ivanova,URS
+XIV ,1984,Figure Skating,"Pairs, Mixed",10 – 12 February 1984,30,7,Soviet Union 1,URS,United States 1,USA,Soviet Union 2,URS
+XIV ,1984,Figure Skating,"Ice Dancing, Mixed",10 – 14 February 1984,38,12,Great Britain 1,GBR,Soviet Union 1,URS,Soviet Union 2,URS
+XIV ,1984,Ski Jumping,"Normal Hill, Individual, Men",12 February 1984,58,17,Jens Weißflog,GDR,Matti Nykänen,FIN,Jari Puikkonen,FIN
+XIV ,1984,Biathlon,"10 kilometres Sprint, Men",14 February 1984,64,25,Eirik Kvalfoss,NOR,Peter Angerer,FRG,Matthias Jacob,GDR
+XIV ,1984,Biathlon,"20 kilometres, Men",11 February 1984,63,25,Peter Angerer,FRG,Frank-Peter Roetsch,GDR,Eirik Kvalfoss,NOR
+XIV ,1984,Speed Skating,"1,000 metres, Men",14 February 1984,43,20,Gaétan Boucher,CAN,Sergey Khlebnikov,URS,Kai Arne Engelstad,NOR
+XIV ,1984,Speed Skating,"1,500 metres, Men",16 February 1984,40,20,Gaétan Boucher,CAN,Sergey Khlebnikov,URS,Oleg Bozhev,URS
+XIV ,1984,Speed Skating,"5,000 metres, Men",12 February 1984,42,20,Tomas Gustafson,SWE,Igor Malkov,URS,René Schöfisch,GDR
+XIV ,1984,Speed Skating,"10,000 metres, Men",18 February 1984,32,17,Igor Malkov,URS,Tomas Gustafson,SWE,René Schöfisch,GDR
+XIV ,1984,Cross Country Skiing,"20 kilometres, Women",18 February 1984,40,13,Marja-Liisa Hämäläinen,FIN,Raisa Smetanina,URS,Anne Jahren,NOR
+XIV ,1984,Cross Country Skiing,"10 kilometres, Women", 9 February 1984,52,15,Marja-Liisa Hämäläinen,FIN,Raisa Smetanina,URS,Brit Pettersen,NOR
+XIV ,1984,Cross Country Skiing,"5 kilometres, Women",12 February 1984,52,14,Marja-Liisa Hämäläinen,FIN,Berit Aunli,NOR,Květa Jeriová,TCH
+XIV ,1984,Cross Country Skiing,"4 × 10 kilometres Relay, Men",16 February 1984,68,17,Sweden,SWE,Soviet Union,URS,Finland,FIN
+XIV ,1984,Cross Country Skiing,"50 kilometres, Men",19 February 1984,54,21,Thomas Wassberg,SWE,Gunde Svan,SWE,Aki Karvonen,FIN
+XIV ,1984,Cross Country Skiing,"30 kilometres, Men",10 February 1984,72,26,Nikolay Zimyatov,URS,Aleksandr Zavyalov,URS,Gunde Svan,SWE
+XIV ,1984,Cross Country Skiing,"15 kilometres, Men",13 February 1984,91,31,Gunde Svan,SWE,Aki Karvonen,FIN,Harri Kirvesniemi,FIN
+XIV ,1984,Nordic Combined,"Individual, Men",11 – 12 February 1984,28,11,Tom Sandberg,NOR,Jouko Karjalainen,FIN,Jukka Ylipulli,FIN
+XIV ,1984,Luge,"Singles, Women",9 – 12 February 1984,27,15,Steffi Martin,GDR,Bettina Schmidt,GDR,Ute Weiß,GDR
+XIV ,1984,Luge,"Singles, Men",9 – 12 February 1984,32,16,Paul Hildgartner,ITA,Sergey Danilin,URS,Valery Dudin,URS
+XIV ,1984,Bobsleigh,"Four, Men",17 – 18 February 1984,96,15,East Germany 1,GDR,East Germany 2,GDR,Switzerland 1,SUI
+XIV ,1984,Bobsleigh,"Two, Men",10 – 11 February 1984,56,16,East Germany 2,GDR,East Germany 1,GDR,Soviet Union 2,URS
+XIV ,1984,Speed Skating,"3,000 metres, Women",15 February 1984,26,14,Andrea Schöne,GDR,Karin Enke,GDR,Gabi Schönbrunn,GDR
+XIV ,1984,Speed Skating,"1,500 metres, Women", 9 February 1984,32,15,Karin Enke,GDR,Andrea Schöne,GDR,Nataliya Petrusyova,URS
+XIV ,1984,Speed Skating,"1,000 metres, Women",13 February 1984,38,17,Karin Enke,GDR,Andrea Schöne,GDR,Nataliya Petrusyova,URS
+XIV ,1984,Speed Skating,"500 metres, Women",10 February 1984,33,16,Christa Rothenburger,GDR,Karin Enke,GDR,Nataliya Glebova,URS
+XIV ,1984,Luge,"Doubles, Open",15 February 1984,30,9,West Germany 1,FRG,Soviet Union 1,URS,East Germany 1,GDR
+XIV ,1984,Ski Jumping,"Large Hill, Individual, Men",18 February 1984,53,17,Matti Nykänen,FIN,Jens Weißflog,GDR,Pavel Ploc,TCH
+XIV ,1984,Ice Hockey,"Ice Hockey, Men",7 – 19 February 1984,239,12,Soviet Union,URS,Czechoslovakia,TCH,Sweden,SWE
+XIV ,1984,Biathlon,"4 × 7.5 kilometres Relay, Men",17 February 1984,68,17,Soviet Union,URS,Norway,NOR,West Germany,FRG
+XV ,1988,Alpine Skiing,"Combined, Women",20 – 21 February 1988,39,14,Anita Wachter,AUT,Brigitte Oertli,SUI,Maria Walliser,SUI
+XV ,1988,Speed Skating,"1,500 metres, Women",27 February 1988,28,13,Yvonne van Gennip,NED,Karin Kania,GDR,Andrea Ehrig,GDR
+XV ,1988,Speed Skating,"1,000 metres, Women",26 February 1988,27,12,Christa Rothenburger,GDR,Karin Kania,GDR,Bonnie Blair,USA
+XV ,1988,Speed Skating,"500 metres, Women",22 February 1988,30,15,Bonnie Blair,USA,Christa Rothenburger,GDR,Karin Kania,GDR
+XV ,1988,Speed Skating,"10,000 metres, Men",21 February 1988,32,19,Tomas Gustafson,SWE,Michael Hadschieff,AUT,Leo Visser,NED
+XV ,1988,Speed Skating,"5,000 metres, Men",17 February 1988,38,18,Tomas Gustafson,SWE,Leo Visser,NED,Gerard Kemkers,NED
+XV ,1988,Speed Skating,"1,500 metres, Men",20 February 1988,40,20,André Hoffmann,GDR,Eric Flaim,USA,Michael Hadschieff,AUT
+XV ,1988,Speed Skating,"1,000 metres, Men",18 February 1988,40,16,Nikolay Gulyayev,URS,Uwe-Jens Mey,GDR,Ihar Zhaliasouski,URS
+XV ,1988,Speed Skating,"500 metres, Men",14 February 1988,37,15,Uwe-Jens Mey,GDR,Jan Ykema,NED,Akira Kuroiwa,JPN
+XV ,1988,Ice Hockey,"Ice Hockey, Men",13 – 28 February 1988,265,12,Soviet Union,URS,Finland,FIN,Sweden,SWE
+XV ,1988,Biathlon,"4 × 7.5 kilometres Relay, Men",26 February 1988,64,16,Soviet Union,URS,West Germany,FRG,Italy,ITA
+XV ,1988,Alpine Skiing,"Downhill, Men",15 February 1988,51,18,Pirmin Zurbriggen,SUI,Peter Müller,SUI,Franck Piccard,FRA
+XV ,1988,Alpine Skiing,"Super G, Men",21 February 1988,94,34,Franck Piccard,FRA,Helmut Mayer,AUT,Lars-Börje Eriksson,SWE
+XV ,1988,Alpine Skiing,"Giant Slalom, Men",25 February 1988,117,38,Alberto Tomba,ITA,Hubert Strolz,AUT,Pirmin Zurbriggen,SUI
+XV ,1988,Alpine Skiing,"Slalom, Men",27 February 1988,109,37,Alberto Tomba,ITA,Frank Wörndl,FRG,Paul Frommelt,LIE
+XV ,1988,Alpine Skiing,"Combined, Men",16 – 17 February 1988,56,20,Hubert Strolz,AUT,Bernhard Gstrein,AUT,Paul Accola,SUI
+XV ,1988,Alpine Skiing,"Downhill, Women",19 February 1988,35,14,Marina Kiehl,FRG,Brigitte Oertli,SUI,Karen Percy,CAN
+XV ,1988,Alpine Skiing,"Super G, Women",22 February 1988,46,20,Sigrid Wolf,AUT,Michela Figini,SUI,Karen Percy,CAN
+XV ,1988,Alpine Skiing,"Giant Slalom, Women",24 February 1988,64,26,Vreni Schneider,SUI,Christa Kinshofer-Güthlein,FRG,Maria Walliser,SUI
+XV ,1988,Alpine Skiing,"Slalom, Women",26 February 1988,57,25,Vreni Schneider,SUI,Mateja Svet,YUG,Christa Kinshofer-Güthlein,FRG
+XV ,1988,Biathlon,"20 kilometres, Men",20 February 1988,71,21,Frank-Peter Roetsch,GDR,Valery Medvedtsev,URS,Johann Passler,ITA
+XV ,1988,Figure Skating,"Singles, Men",17 – 20 February 1988,28,21,Brian Boitano,USA,Brian Orser,CAN,Viktor Petrenko,URS
+XV ,1988,Figure Skating,"Singles, Women",24 – 27 February 1988,31,23,Katarina Witt,GDR,Elizabeth Manley,CAN,Debi Thomas,USA
+XV ,1988,Figure Skating,"Pairs, Mixed",14 – 16 February 1988,30,8,Soviet Union 1,URS,Soviet Union 2,URS,United States 1,USA
+XV ,1988,Figure Skating,"Ice Dancing, Mixed",21 – 23 February 1988,40,14,Soviet Union 1,URS,Soviet Union 2,URS,Canada 1,CAN
+XV ,1988,Ski Jumping,"Normal Hill, Individual, Men",14 February 1988,58,19,Matti Nykänen,FIN,Pavel Ploc,TCH,Jiří Malec,TCH
+XV ,1988,Ski Jumping,"Large Hill, Individual, Men",23 February 1988,55,18,Matti Nykänen,FIN,Erik Johnsen,NOR,Matjaž Debelak,YUG
+XV ,1988,Speed Skating,"3,000 metres, Women",23 February 1988,29,16,Yvonne van Gennip,NED,Andrea Ehrig,GDR,Gabi Zange,GDR
+XV ,1988,Speed Skating,"5,000 metres, Women",28 February 1988,25,14,Yvonne van Gennip,NED,Andrea Ehrig,GDR,Gabi Zange,GDR
+XV ,1988,Bobsleigh,"Two, Men",20 – 21 February 1988,82,23,Soviet Union 1,URS,East Germany 1,GDR,East Germany 2,GDR
+XV ,1988,Bobsleigh,"Four, Men",27 – 28 February 1988,104,17,Switzerland 1,SUI,East Germany 1,GDR,Soviet Union 2,URS
+XV ,1988,Ski Jumping,"Large Hill, Team, Men",24 February 1988,44,11,Finland,FIN,Yugoslavia,YUG,Norway,NOR
+XV ,1988,Nordic Combined,"Individual, Men",27 – 28 February 1988,43,13,Hippolyt Kempf,SUI,Klaus Sulzenbacher,AUT,Allar Levandi,URS
+XV ,1988,Nordic Combined,"Team, Men",23 – 24 February 1988,32,11,West Germany,FRG,Switzerland,SUI,Austria,AUT
+XV ,1988,Cross Country Skiing,"4 × 5 kilometres Relay, Women",21 February 1988,48,12,Soviet Union,URS,Norway,NOR,Finland,FIN
+XV ,1988,Cross Country Skiing,"20 kilometres, Freestyle, Women",25 February 1988,55,18,Tamara Tikhonova,URS,Anfisa Reztsova,URS,Raisa Smetanina,URS
+XV ,1988,Cross Country Skiing,"10 kilometres, Classical, Women",14 February 1988,52,17,Vida Vencienė,URS,Raisa Smetanina,URS,Marjo Matikainen,FIN
+XV ,1988,Cross Country Skiing,"5 kilometres, Classical, Women",17 February 1988,55,17,Marjo Matikainen,FIN,Tamara Tikhonova,URS,Vida Vencienė,URS
+XV ,1988,Biathlon,"10 kilometres Sprint, Men",23 February 1988,72,22,Frank-Peter Roetsch,GDR,Valery Medvedtsev,URS,Sergey Chepikov,URS
+XV ,1988,Cross Country Skiing,"50 kilometres, Freestyle, Men",27 February 1988,70,23,Gunde Svan,SWE,Maurilio De Zolt,ITA,Andi Grünenfelder,SUI
+XV ,1988,Cross Country Skiing,"30 kilometres, Classical, Men",15 February 1988,90,32,Aleksey Prokurorov,URS,Vladimir Smirnov,URS,Vegard Ulvang,NOR
+XV ,1988,Cross Country Skiing,"15 kilometres, Classical, Men",19 February 1988,90,32,Mikhail Devyatyarov,URS,Pål Gunnar Mikkelsplass,NOR,Vladimir Smirnov,URS
+XV ,1988,Luge,"Singles, Women",16 – 18 February 1988,24,14,Steffi Walter,GDR,Ute Oberhoffner,GDR,Cerstin Schmidt,GDR
+XV ,1988,Luge,"Doubles, Open",19 February 1988,36,11,East Germany 1,GDR,East Germany 2,GDR,West Germany 1,FRG
+XV ,1988,Luge,"Singles, Men",14 – 15 February 1988,38,18,Jens Müller,GDR,Georg Hackl,FRG,Yury Kharchenko,URS
+XV ,1988,Cross Country Skiing,"4 × 10 kilometres Relay, Men",22 February 1988,64,16,Sweden,SWE,Soviet Union,URS,Czechoslovakia,TCH
+XVI ,1992,Alpine Skiing,"Downhill, Men", 9 February 1992,55,24,Patrick Ortlieb,AUT,Franck Piccard,FRA,Günther Mader,AUT
+XVI ,1992,Alpine Skiing,"Super G, Men",16 February 1992,118,43,Kjetil André Aamodt,NOR,Marc Girardelli,LUX,Jan Einar Thorsen,NOR
+XVI ,1992,Alpine Skiing,"Giant Slalom, Men",18 February 1992,131,47,Alberto Tomba,ITA,Marc Girardelli,LUX,Kjetil André Aamodt,NOR
+XVI ,1992,Alpine Skiing,"Slalom, Men",22 February 1992,119,44,Finn Christian Jagge,NOR,Alberto Tomba,ITA,Michael Tritscher,AUT
+XVI ,1992,Alpine Skiing,"Combined, Men",10 – 11 February 1992,66,27,Josef Polig,ITA,Gianfranco Martin,ITA,Steve Locher,SUI
+XVI ,1992,Alpine Skiing,"Slalom, Women",20 February 1992,63,31,Petra Kronberger,AUT,Annelise Coberger,NZL,Blanca Fernández Ochoa,ESP
+XVI ,1992,Alpine Skiing,"Super G, Women",18 February 1992,59,26,Deborah Compagnoni,ITA,Carole Merle,FRA,Katja Seizinger,GER
+XVI ,1992,Alpine Skiing,"Giant Slalom, Women",19 February 1992,69,32,Pernilla Wiberg,SWE,Anita Wachter,AUT,—,
+XVI ,1992,Alpine Skiing,"Combined, Women",12 – 13 February 1992,40,18,Petra Kronberger,AUT,Anita Wachter,AUT,Florence Masnada,FRA
+XVI ,1992,Figure Skating,"Singles, Men",13 – 15 February 1992,30,22,Viktor Petrenko,EUN,Paul Wylie,USA,Petr Barna,TCH
+XVI ,1992,Figure Skating,"Singles, Women",19 – 21 February 1992,29,21,Kristi Yamaguchi,USA,Midori Ito,JPN,Nancy Kerrigan,USA
+XVI ,1992,Alpine Skiing,"Downhill, Women",15 February 1992,30,12,Kerrin Lee-Gartner,CAN,Hilary Lindh,USA,Veronika Wallinger,AUT
+XVI ,1992,Figure Skating,"Pairs, Mixed",9 – 11 February 1992,36,11,Unified Team 1,EUN,Unified Team 2,EUN,Canada 1,CAN
+XVI ,1992,Speed Skating,"3,000 metres, Women", 9 February 1992,26,12,Gunda Niemann,GER,Heike Warnicke,GER,Emese Hunyady,AUT
+XVI ,1992,Figure Skating,"Ice Dancing, Mixed",14 – 17 February 1992,38,12,Unified Team 1,EUN,France 1,FRA,Unified Team 2,EUN
+XVI ,1992,Cross Country Skiing,"50 kilometres, Freestyle, Men",22 February 1992,73,29,Bjørn Dæhlie,NOR,Maurilio De Zolt,ITA,Giorgio Vanzetta,ITA
+XVI ,1992,Cross Country Skiing,"10/15 kilometres Pursuit, Men",13 February 1992,102,39,Bjørn Dæhlie,NOR,Vegard Ulvang,NOR,Giorgio Vanzetta,ITA
+XVI ,1992,Cross Country Skiing,"4 × 10 kilometres Relay, Men",18 February 1992,64,16,Norway,NOR,Italy,ITA,Finland,FIN
+XVI ,1992,Cross Country Skiing,"5 kilometres, Classical, Women",13 February 1992,62,21,Marjut Lukkarinen,FIN,Lyubov Yegorova,EUN,Yelena Välbe,EUN
+XVI ,1992,Cross Country Skiing,"15 kilometres, Classical, Women", 9 February 1992,53,21,Lyubov Yegorova,EUN,Marjut Lukkarinen,FIN,Yelena Välbe,EUN
+XVI ,1992,Cross Country Skiing,"30 kilometres Freestyle, Women",21 February 1992,57,19,Stefania Belmondo,ITA,Lyubov Yegorova,EUN,Yelena Välbe,EUN
+XVI ,1992,Cross Country Skiing,"5/10 kilometres Pursuit, Women",13 February 1992,58,21,Lyubov Yegorova,EUN,Stefania Belmondo,ITA,Yelena Välbe,EUN
+XVI ,1992,Cross Country Skiing,"4 × 5 kilometres Relay, Women",17 February 1992,52,13,Unified Team,EUN,Norway,NOR,Italy,ITA
+XVI ,1992,Cross Country Skiing,"30 kilometres, Classical, Men",10 February 1992,87,34,Vegard Ulvang,NOR,Bjørn Dæhlie,NOR,Terje Langli,NOR
+XVI ,1992,Luge,"Singles, Men",9 – 10 February 1992,34,18,Georg Hackl,GER,Markus Prock,AUT,Markus Schmidt,AUT
+XVI ,1992,Luge,"Singles, Women",11 – 12 February 1992,24,12,Doris Neuner,AUT,Angelika Neuner,AUT,Susi Erdmann,GER
+XVI ,1992,Speed Skating,"500 metres, Men",15 February 1992,43,17,Uwe-Jens Mey,GER,Toshiyuki Kuroiwa,JPN,Junichi Inoue,JPN
+XVI ,1992,Speed Skating,"1,000 metres, Men",18 February 1992,46,21,Olaf Zinke,GER,Kim Yun-Man,KOR,Yukinori Miyabe,JPN
+XVI ,1992,Speed Skating,"1,500 metres, Men",16 February 1992,46,21,Johann Olav Koss,NOR,Ådne Søndrål,NOR,Leo Visser,NED
+XVI ,1992,Speed Skating,"5,000 metres, Men",13 February 1992,36,20,Geir Karlstad,NOR,Falko Zandstra,NED,Leo Visser,NED
+XVI ,1992,Speed Skating,"10,000 metres, Men",20 February 1992,30,15,Bart Veldkamp,NED,Johann Olav Koss,NOR,Geir Karlstad,NOR
+XVI ,1992,Speed Skating,"500 metres, Women",10 February 1992,34,12,Bonnie Blair,USA,Ye Qiaobo,CHN,Christa Luding,GER
+XVI ,1992,Speed Skating,"1,500 metres, Women",12 February 1992,33,14,Jacqueline Börner,GER,Gunda Niemann,GER,Seiko Hashimoto,JPN
+XVI ,1992,Luge,"Doubles, Open",14 February 1992,40,15,Germany 1,GER,Germany 2,GER,Italy 1,ITA
+XVI ,1992,Speed Skating,"5,000 metres, Women",17 February 1992,24,11,Gunda Niemann,GER,Heike Warnicke,GER,Claudia Pechstein,GER
+XVI ,1992,Cross Country Skiing,"10 kilometres, Classical, Men",13 February 1992,110,39,Vegard Ulvang,NOR,Marco Albarello,ITA,Christer Majbäck,SWE
+XVI ,1992,Ski Jumping,"Large Hill, Individual, Men",16 February 1992,59,17,Toni Nieminen,FIN,Martin Höllwarth,AUT,Heinz Kuttin,AUT
+XVI ,1992,Nordic Combined,"Team, Men",16 – 17 February 1992,33,11,Japan,JPN,Norway,NOR,Austria,AUT
+XVI ,1992,Nordic Combined,"Individual, Men",11 – 12 February 1992,45,12,Fabrice Guy,FRA,Sylvain Guillaume,FRA,Klaus Sulzenbacher,AUT
+XVI ,1992,Biathlon,"10 kilometres Sprint, Men",12 February 1992,94,27,Mark Kirchner,GER,Ricco Groß,GER,Harri Eloranta,FIN
+XVI ,1992,Biathlon,"20 kilometres, Men",20 February 1992,94,27,Yauhen Redzkin,EUN,Mark Kirchner,GER,Mikael Löfgren,SWE
+XVI ,1992,Biathlon,"4 × 7.5 kilometres Relay, Men",16 February 1992,84,21,Germany,GER,Unified Team,EUN,Sweden,SWE
+XVI ,1992,Biathlon,"7.5 kilometres Sprint, Women",11 February 1992,69,20,Anfisa Reztsova,EUN,Antje Misersky,GER,Yelena Belova,EUN
+XVI ,1992,Biathlon,"15 kilometres, Women",19 February 1992,68,20,Antje Misersky,GER,Svetlana Pechorskaya,EUN,Myriam Bédard,CAN
+XVI ,1992,Biathlon,"3 × 7.5 kilometres Relay, Women",14 February 1992,48,16,France,FRA,Germany,GER,Unified Team,EUN
+XVI ,1992,Ski Jumping,"Large Hill, Team, Men",14 February 1992,54,14,Finland,FIN,Austria,AUT,Czechoslovakia,TCH
+XVI ,1992,Freestyle Skiing,"Moguls, Men",12 – 13 February 1992,47,17,Edgar Grospiron,FRA,Olivier Allamand,FRA,Nelson Carmichael,USA
+XVI ,1992,Short Track Speed Skating,"1,000 metres, Men",18 – 20 February 1992,28,16,Kim Gi-Hun,KOR,Frédéric Blackburn,CAN,Lee Jun-Ho,KOR
+XVI ,1992,Short Track Speed Skating,"5,000 metres Relay, Men",18 – 22 February 1992,37,9,Republic of Korea,KOR,Canada,CAN,Japan,JPN
+XVI ,1992,Short Track Speed Skating,"500 metres, Women",18 – 20 February 1992,27,14,Cathy Turner,USA,Li Yan,CHN,Hwang Ok-Sil,PRK
+XVI ,1992,Short Track Speed Skating,"3,000 metres Relay, Women",20 February 1992,32,8,Canada,CAN,United States,USA,Unified Team,EUN
+XVI ,1992,Bobsleigh,"Two, Men",15 – 16 February 1992,92,25,Switzerland 1,SUI,Germany 1,GER,Germany 2,GER
+XVI ,1992,Bobsleigh,"Four, Men",21 – 22 February 1992,124,20,Austria 1,AUT,Germany 1,GER,Switzerland 1,SUI
+XVI ,1992,Ice Hockey,"Ice Hockey, Men",8 – 23 February 1992,267,12,Unified Team,EUN,Canada,CAN,Czechoslovakia,TCH
+XVI ,1992,Ski Jumping,"Normal Hill, Individual, Men", 9 February 1992,58,16,Ernst Vettori,AUT,Martin Höllwarth,AUT,Toni Nieminen,FIN
+XVI ,1992,Freestyle Skiing,"Moguls, Women",12 – 13 February 1992,24,11,Donna Weinbrecht,USA,Yelizaveta Kozhevnikova,EUN,Stine Lise Hattestad,NOR
+XVI ,1992,Speed Skating,"1,000 metres, Women",14 February 1992,36,14,Bonnie Blair,USA,Ye Qiaobo,CHN,Monique Garbrecht,GER
+XVII ,1994,Short Track Speed Skating,"1,000 metres, Women",26 February 1994,30,15,Jeon I-Gyeong,KOR,Nathalie Lambert,CAN,Kim So-Hui,KOR
+XVII ,1994,Speed Skating,"3,000 metres, Women",17 February 1994,27,14,Svetlana Bazhanova,RUS,Emese Hunyady,AUT,Claudia Pechstein,GER
+XVII ,1994,Alpine Skiing,"Combined, Women",20 – 21 February 1994,41,20,Pernilla Wiberg,SWE,Vreni Schneider,SUI,Alenka Dovžan,SLO
+XVII ,1994,Figure Skating,"Singles, Men",17 – 19 February 1994,25,17,Aleksey Urmanov,RUS,Elvis Stojko,CAN,Philippe Candeloro,FRA
+XVII ,1994,Figure Skating,"Singles, Women",23 – 25 February 1994,27,16,Oksana Baiul,UKR,Nancy Kerrigan,USA,Chen Lu,CHN
+XVII ,1994,Figure Skating,"Pairs, Mixed",13 – 15 February 1994,36,10,Russian Federation 1,RUS,Russian Federation 2,RUS,Canada 1,CAN
+XVII ,1994,Figure Skating,"Ice Dancing, Mixed",18 – 21 February 1994,42,15,Russian Federation 1,RUS,Russian Federation 2,RUS,Great Britain,GBR
+XVII ,1994,Nordic Combined,"Team, Men",23 – 24 February 1994,36,12,Japan,JPN,Norway,NOR,Switzerland,SUI
+XVII ,1994,Biathlon,"10 kilometres Sprint, Men",23 February 1994,68,28,Sergey Chepikov,RUS,Ricco Groß,GER,Sergey Tarasov,RUS
+XVII ,1994,Biathlon,"20 kilometres, Men",20 February 1994,70,28,Sergey Tarasov,RUS,Frank Luck,GER,Sven Fischer,GER
+XVII ,1994,Biathlon,"4 × 7.5 kilometres Relay, Men",15 February 1994,72,18,Germany,GER,Russian Federation,RUS,France,FRA
+XVII ,1994,Biathlon,"7.5 kilometres Sprint, Women",23 February 1994,69,28,Myriam Bédard,CAN,Sviatlana Paramihina,BLR,Valentyna Tserbe-Nesina,UKR
+XVII ,1994,Biathlon,"15 kilometres, Women",18 February 1994,69,28,Myriam Bédard,CAN,Anne Briand-Bouthiaux,FRA,Uschi Disl,GER
+XVII ,1994,Biathlon,"4 × 7.5 kilometres Relay, Women",25 February 1994,68,17,Russian Federation,RUS,Germany,GER,France,FRA
+XVII ,1994,Freestyle Skiing,"Moguls, Men",15 – 16 February 1994,29,16,Jean-Luc Brassard,CAN,Sergey Shupletsov,RUS,Edgar Grospiron,FRA
+XVII ,1994,Freestyle Skiing,"Aerials, Men",21 – 24 February 1994,24,14,Sonny Schönbächler,SUI,Philippe LaRoche,CAN,Lloyd Langlois,CAN
+XVII ,1994,Freestyle Skiing,"Moguls, Women",15 – 16 February 1994,24,13,Stine Lise Hattestad,NOR,Liz McIntyre,USA,Yelizaveta Kozhevnikova,RUS
+XVII ,1994,Freestyle Skiing,"Aerials, Women",21 – 24 February 1994,22,13,Lina Cheryazova,UZB,Marie Lindgren,SWE,Hilde Synnøve Lid,NOR
+XVII ,1994,Short Track Speed Skating,"500 metres, Men",24 – 26 February 1994,31,16,Chae Ji-Hun,KOR,Mirko Vuillermin,ITA,Nicky Gooch,GBR
+XVII ,1994,Short Track Speed Skating,"1,000 metres, Men",22 February 1994,31,16,Kim Gi-Hun,KOR,Chae Ji-Hun,KOR,Marc Gagnon,CAN
+XVII ,1994,Short Track Speed Skating,"5,000 metres Relay, Men",24 – 26 February 1994,33,8,Italy,ITA,United States,USA,Australia,AUS
+XVII ,1994,Short Track Speed Skating,"500 metres, Women",24 February 1994,30,15,Cathy Turner,USA,Zhang Yanmei,CHN,Amy Peterson,USA
+XVII ,1994,Short Track Speed Skating,"3,000 metres Relay, Women",22 February 1994,33,8,Republic of Korea,KOR,Canada,CAN,United States,USA
+XVII ,1994,Bobsleigh,"Two, Men",19 – 20 February 1994,86,30,Switzerland 1,SUI,Switzerland 2,SUI,Italy 1,ITA
+XVII ,1994,Bobsleigh,"Four, Men",26 – 27 February 1994,121,21,Germany 2,GER,Switzerland 1,SUI,Germany 1,GER
+XVII ,1994,Ice Hockey,"Ice Hockey, Men",12 – 27 February 1994,268,12,Sweden,SWE,Canada,CAN,Finland,FIN
+XVII ,1994,Ski Jumping,"Normal Hill, Individual, Men",25 February 1994,58,19,Espen Bredesen,NOR,Lasse Ottesen,NOR,Dieter Thoma,GER
+XVII ,1994,Ski Jumping,"Large Hill, Individual, Men",20 February 1994,58,19,Jens Weißflog,GER,Espen Bredesen,NOR,Andi Goldberger,AUT
+XVII ,1994,Ski Jumping,"Large Hill, Team, Men",22 February 1994,48,12,Germany,GER,Japan,JPN,Austria,AUT
+XVII ,1994,Alpine Skiing,"Slalom, Women",26 February 1994,55,22,Vreni Schneider,SUI,Elfi Eder,AUT,Katja Koren,SLO
+XVII ,1994,Alpine Skiing,"Giant Slalom, Women",24 February 1994,47,19,Deborah Compagnoni,ITA,Martina Ertl,GER,Vreni Schneider,SUI
+XVII ,1994,Nordic Combined,"Individual, Men",18 – 19 February 1994,53,16,Fred Børre Lundberg,NOR,Takanori Kono,JPN,Bjarte Engen Vik,NOR
+XVII ,1994,Alpine Skiing,"Downhill, Women",19 February 1994,48,19,Katja Seizinger,GER,Picabo Street,USA,Isolde Kostner,ITA
+XVII ,1994,Speed Skating,"1,500 metres, Women",21 February 1994,30,11,Emese Hunyady,AUT,Svetlana Fedotkina,RUS,Gunda Niemann,GER
+XVII ,1994,Speed Skating,"1,000 metres, Women",23 February 1994,36,12,Bonnie Blair,USA,Anke Baier,GER,Ye Qiaobo,CHN
+XVII ,1994,Speed Skating,"500 metres, Women",19 February 1994,34,12,Bonnie Blair,USA,Susan Auch,CAN,Franziska Schenk,GER
+XVII ,1994,Speed Skating,"10,000 metres, Men",20 February 1994,16,10,Johann Olav Koss,NOR,Kjell Storelid,NOR,Bart Veldkamp,NED
+XVII ,1994,Speed Skating,"5,000 metres, Men",13 February 1994,32,17,Johann Olav Koss,NOR,Kjell Storelid,NOR,Rintje Ritsma,NED
+XVII ,1994,Alpine Skiing,"Super G, Women",15 February 1994,55,23,Diann Roffe-Steinrotter,USA,Svetlana Gladysheva,RUS,Isolde Kostner,ITA
+XVII ,1994,Speed Skating,"1,000 metres, Men",18 February 1994,43,17,Dan Jansen,USA,Ihar Zhaliasouski,BLR,Sergey Klevchenya,RUS
+XVII ,1994,Speed Skating,"500 metres, Men",14 February 1994,40,16,Aleksandr Golubev,RUS,Sergey Klevchenya,RUS,Manabu Horii,JPN
+XVII ,1994,Luge,"Singles, Women",15 – 16 February 1994,25,14,Gerda Weissensteiner,ITA,Susi Erdmann,GER,Andrea Tagwerker,AUT
+XVII ,1994,Luge,"Doubles, Open",18 February 1994,40,15,Italy 1,ITA,Italy 2,ITA,Germany 1,GER
+XVII ,1994,Luge,"Singles, Men",13 – 14 February 1994,33,18,Georg Hackl,GER,Markus Prock,AUT,Armin Zöggeler,ITA
+XVII ,1994,Cross Country Skiing,"4 × 5 kilometres Relay, Women",21 February 1994,56,14,Russian Federation,RUS,Norway,NOR,Italy,ITA
+XVII ,1994,Cross Country Skiing,"5/10 kilometres Pursuit, Women",15 February 1994,55,17,Lyubov Yegorova,RUS,Manuela Di Centa,ITA,Stefania Belmondo,ITA
+XVII ,1994,Cross Country Skiing,"30 kilometres Classical, Women",24 February 1994,53,19,Manuela Di Centa,ITA,Marit Wold,NOR,Marja-Liisa Kirvesniemi,FIN
+XVII ,1994,Speed Skating,"1,500 metres, Men",16 February 1994,44,17,Johann Olav Koss,NOR,Rintje Ritsma,NED,Falko Zandstra,NED
+XVII ,1994,Cross Country Skiing,"5 kilometres, Classical, Women",15 February 1994,62,19,Lyubov Yegorova,RUS,Manuela Di Centa,ITA,Marja-Liisa Kirvesniemi,FIN
+XVII ,1994,Cross Country Skiing,"15 kilometres, Freestyle, Women",13 February 1994,54,19,Manuela Di Centa,ITA,Lyubov Yegorova,RUS,Nina Gavrylyuk,RUS
+XVII ,1994,Alpine Skiing,"Combined, Men",14 – 25 February 1994,56,27,Lasse Kjus,NOR,Kjetil André Aamodt,NOR,Harald Christian Strand Nilsen,NOR
+XVII ,1994,Alpine Skiing,"Slalom, Men",27 February 1994,57,25,Thomas Stangassinger,AUT,Alberto Tomba,ITA,Jure Košir,SLO
+XVII ,1994,Alpine Skiing,"Super G, Men",17 February 1994,69,28,Markus Wasmeier,GER,Tommy Moe,USA,Kjetil André Aamodt,NOR
+XVII ,1994,Alpine Skiing,"Downhill, Men",13 February 1994,55,26,Tommy Moe,USA,Kjetil André Aamodt,NOR,Ed Podivinsky,CAN
+XVII ,1994,Speed Skating,"5,000 metres, Women",25 February 1994,16,9,Claudia Pechstein,GER,Gunda Niemann,GER,Hiromi Yamamoto,JPN
+XVII ,1994,Alpine Skiing,"Giant Slalom, Men",23 February 1994,61,29,Markus Wasmeier,GER,Urs Kälin,SUI,Christian Mayer,AUT
+XVII ,1994,Cross Country Skiing,"10 kilometres, Classical, Men",17 February 1994,88,33,Bjørn Dæhlie,NOR,Vladimir Smirnov,KAZ,Marco Albarello,ITA
+XVII ,1994,Cross Country Skiing,"30 kilometres, Freestyle, Men",14 February 1994,74,28,Thomas Alsgaard,NOR,Bjørn Dæhlie,NOR,Mika Myllylä,FIN
+XVII ,1994,Cross Country Skiing,"50 kilometres, Classical, Men",27 February 1994,66,25,Vladimir Smirnov,KAZ,Mika Myllylä,FIN,Sture Sivertsen,NOR
+XVII ,1994,Cross Country Skiing,"10/15 kilometres Pursuit, Men",17 February 1994,76,31,Bjørn Dæhlie,NOR,Vladimir Smirnov,KAZ,Silvio Fauner,ITA
+XVII ,1994,Cross Country Skiing,"4 × 10 kilometres Relay, Men",22 February 1994,56,14,Italy,ITA,Norway,NOR,Finland,FIN
+XVIII ,1998,Alpine Skiing,"Combined, Women",16 – 17 February 1998,29,17,Katja Seizinger,GER,Martina Ertl,GER,Hilde Gerg,GER
+XVIII ,1998,Short Track Speed Skating,"1,000 metres, Men",17 February 1998,30,16,Kim Dong-Seong,KOR,Li Jiajun,CHN,Éric Bédard,CAN
+XVIII ,1998,Short Track Speed Skating,"500 metres, Men",19 – 21 February 1998,30,16,Takafumi Nishitani,JPN,An Yulong,CHN,Hitoshi Uematsu,JPN
+XVIII ,1998,Figure Skating,"Ice Dancing, Mixed",13 – 16 February 1998,48,16,Russian Federation 1,RUS,Russian Federation 2,RUS,France 1,FRA
+XVIII ,1998,Figure Skating,"Pairs, Mixed",8 – 10 February 1998,40,14,Russian Federation 1,RUS,Russian Federation 2,RUS,Germany 1,GER
+XVIII ,1998,Figure Skating,"Singles, Men",12 – 14 February 1998,29,24,Ilya Kulik,RUS,Elvis Stojko,CAN,Philippe Candeloro,FRA
+XVIII ,1998,Short Track Speed Skating,"5,000 metres Relay, Men",19 – 21 February 1998,34,8,Canada,CAN,Republic of Korea,KOR,People's Republic of China,CHN
+XVIII ,1998,Alpine Skiing,"Slalom, Women",19 February 1998,57,27,Hilde Gerg,GER,Deborah Compagnoni,ITA,Zali Steggall,AUS
+XVIII ,1998,Alpine Skiing,"Giant Slalom, Men",19 February 1998,62,28,Hermann Maier,AUT,Stephan Eberharter,AUT,Michael von Grünigen,SUI
+XVIII ,1998,Alpine Skiing,"Super G, Women",11 February 1998,43,19,Picabo Street,USA,Michaela Dorfmeister,AUT,Alexandra Meissnitzer,AUT
+XVIII ,1998,Alpine Skiing,"Downhill, Women",16 February 1998,39,16,Katja Seizinger,GER,Pernilla Wiberg,SWE,Florence Masnada,FRA
+XVIII ,1998,Alpine Skiing,"Combined, Men",9 – 13 February 1998,38,21,Mario Reiter,AUT,Lasse Kjus,NOR,Christian Mayer,AUT
+XVIII ,1998,Alpine Skiing,"Slalom, Men",21 February 1998,65,31,Hans Petter Buraas,NOR,Ole Kristian Furuseth,NOR,Thomas Sykora,AUT
+XVIII ,1998,Alpine Skiing,"Super G, Men",16 February 1998,45,22,Hermann Maier,AUT,Hans Knauß,AUT,—,
+XVIII ,1998,Alpine Skiing,"Downhill, Men",13 February 1998,43,18,Jean-Luc Crétier,FRA,Lasse Kjus,NOR,Hannes Trinkl,AUT
+XVIII ,1998,Short Track Speed Skating,"500 metres, Women",19 February 1998,32,13,Annie Perreault,CAN,Yang Yang (S),CHN,Jeon I-Gyeong,KOR
+XVIII ,1998,Alpine Skiing,"Giant Slalom, Women",20 February 1998,56,25,Deborah Compagnoni,ITA,Alexandra Meissnitzer,AUT,Katja Seizinger,GER
+XVIII ,1998,Short Track Speed Skating,"1,000 metres, Women",21 February 1998,31,13,Jeon I-Gyeong,KOR,Yang Yang (S),CHN,Won Hye-Gyeong,KOR
+XVIII ,1998,Figure Skating,"Singles, Women",18 – 20 February 1998,28,21,Tara Lipinski,USA,Michelle Kwan,USA,Chen Lu,CHN
+XVIII ,1998,Biathlon,"10 kilometres Sprint, Men",18 February 1998,73,30,Ole Einar Bjørndalen,NOR,Frode Andresen,NOR,Ville Räikkönen,FIN
+XVIII ,1998,Cross Country Skiing,"50 kilometres, Freestyle, Men",22 February 1998,75,28,Bjørn Dæhlie,NOR,Niklas Jonsson,SWE,Christian Hoffmann,AUT
+XVIII ,1998,Cross Country Skiing,"10/15 kilometres Pursuit, Men",12 February 1998,74,29,Thomas Alsgaard,NOR,Bjørn Dæhlie,NOR,Vladimir Smirnov,KAZ
+XVIII ,1998,Cross Country Skiing,"4 × 10 kilometres Relay, Men",18 February 1998,80,20,Norway,NOR,Italy,ITA,Finland,FIN
+XVIII ,1998,Cross Country Skiing,"5 kilometres, Classical, Women", 9 February 1998,79,26,Larisa Lazutina,RUS,Kateřina Neumannová,CZE,Bente Martinsen,NOR
+XVIII ,1998,Cross Country Skiing,"15 kilometres, Classical, Women", 8 February 1998,65,24,Olga Danilova,RUS,Larisa Lazutina,RUS,Anita Moen-Guidon,NOR
+XVIII ,1998,Cross Country Skiing,"30 kilometres Freestyle, Women",20 February 1998,63,25,Yuliya Chepalova,RUS,Stefania Belmondo,ITA,Larisa Lazutina,RUS
+XVIII ,1998,Cross Country Skiing,"5/10 kilometres Pursuit, Women",10 February 1998,69,25,Larisa Lazutina,RUS,Olga Danilova,RUS,Kateřina Neumannová,CZE
+XVIII ,1998,Cross Country Skiing,"4 × 5 kilometres Relay, Women",16 February 1998,64,16,Russian Federation,RUS,Norway,NOR,Italy,ITA
+XVIII ,1998,Luge,"Singles, Men",8 –  9 February 1998,34,18,Georg Hackl,GER,Armin Zöggeler,ITA,Jens Müller,GER
+XVIII ,1998,Luge,"Doubles, Open",13 February 1998,34,11,Germany 1,GER,United States 1,USA,United States 2,USA
+XVIII ,1998,Luge,"Singles, Women",10 – 11 February 1998,29,15,Silke Kraushaar,GER,Babsi Niedernhuber,GER,Angelika Neuner,AUT
+XVIII ,1998,Speed Skating,"500 metres, Men",9 – 10 February 1998,42,16,Hiroyasu Shimizu,JPN,Jeremy Wotherspoon,CAN,Kevin Overland,CAN
+XVIII ,1998,Speed Skating,"1,000 metres, Men",15 February 1998,43,17,Ids Postma,NED,Jan Bos,NED,Hiroyasu Shimizu,JPN
+XVIII ,1998,Speed Skating,"1,500 metres, Men",12 February 1998,44,18,Ådne Søndrål,NOR,Ids Postma,NED,Rintje Ritsma,NED
+XVIII ,1998,Speed Skating,"5,000 metres, Men", 8 February 1998,32,19,Gianni Romme,NED,Rintje Ritsma,NED,Bart Veldkamp,BEL
+XVIII ,1998,Short Track Speed Skating,"3,000 metres Relay, Women",17 February 1998,33,8,Republic of Korea,KOR,People's Republic of China,CHN,Canada,CAN
+XVIII ,1998,Speed Skating,"500 metres, Women",13 – 14 February 1998,38,14,Catriona Le May Doan,CAN,Susan Auch,CAN,Tomomi Okazaki,JPN
+XVIII ,1998,Speed Skating,"1,000 metres, Women",19 February 1998,40,14,Marianne Timmer,NED,Chris Witty,USA,Catriona Le May Doan,CAN
+XVIII ,1998,Speed Skating,"1,500 metres, Women",16 February 1998,34,15,Marianne Timmer,NED,Gunda Niemann-Stirnemann,GER,Chris Witty,USA
+XVIII ,1998,Speed Skating,"3,000 metres, Women",11 February 1998,31,16,Gunda Niemann-Stirnemann,GER,Claudia Pechstein,GER,Anni Friesinger,GER
+XVIII ,1998,Speed Skating,"5,000 metres, Women",20 February 1998,15,9,Claudia Pechstein,GER,Gunda Niemann-Stirnemann,GER,Lyudmila Prokashova,KAZ
+XVIII ,1998,Curling,"Curling, Men",9 – 15 February 1998,40,8,Switzerland,SUI,Canada,CAN,Norway,NOR
+XVIII ,1998,Curling,"Curling, Women",9 – 15 February 1998,40,8,Canada,CAN,Denmark,DEN,Sweden,SWE
+XVIII ,1998,Nordic Combined,"Team, Men",19 – 20 February 1998,44,11,Norway,NOR,Finland,FIN,France,FRA
+XVIII ,1998,Nordic Combined,"Individual, Men",13 – 14 February 1998,48,14,Bjarte Engen Vik,NOR,Samppa Lajunen,FIN,Valery Stolyarov,RUS
+XVIII ,1998,Cross Country Skiing,"30 kilometres, Classical, Men", 9 February 1998,72,27,Mika Myllylä,FIN,Erling Jevne,NOR,Silvio Fauner,ITA
+XVIII ,1998,Cross Country Skiing,"10 kilometres, Classical, Men",12 February 1998,97,35,Bjørn Dæhlie,NOR,Markus Gandler,AUT,Mika Myllylä,FIN
+XVIII ,1998,Speed Skating,"10,000 metres, Men",17 February 1998,16,9,Gianni Romme,NED,Bob de Jong,NED,Rintje Ritsma,NED
+XVIII ,1998,Snowboarding,"Giant Slalom, Women", 9 February 1998,31,14,Karine Ruby,FRA,Heidi Renoth,GER,Brigitte Köck,AUT
+XVIII ,1998,Biathlon,"20 kilometres, Men",11 February 1998,72,29,Halvard Hanevold,NOR,Pieralberto Carrara,ITA,Aliaksei Aydarau,BLR
+XVIII ,1998,Biathlon,"4 × 7.5 kilometres Relay, Men",21 February 1998,72,18,Germany,GER,Norway,NOR,Russian Federation,RUS
+XVIII ,1998,Biathlon,"7.5 kilometres Sprint, Women",15 February 1998,64,24,Galina Kukleva,RUS,Uschi Disl,GER,Katrin Apel,GER
+XVIII ,1998,Biathlon,"15 kilometres, Women", 9 February 1998,64,24,Ekaterina Dafovska,BUL,Olena Petrova,UKR,Uschi Disl,GER
+XVIII ,1998,Biathlon,"4 × 7.5 kilometres Relay, Women",19 February 1998,68,17,Germany,GER,Russian Federation,RUS,Norway,NOR
+XVIII ,1998,Freestyle Skiing,"Moguls, Men",8 – 11 February 1998,33,13,Jonny Moseley,USA,Janne Lahtela,FIN,Sami Mustonen,FIN
+XVIII ,1998,Freestyle Skiing,"Aerials, Men",16 – 18 February 1998,25,14,Eric Bergoust,USA,Sébastien Foucras,FRA,Dzmitry Dashchynski,BLR
+XVIII ,1998,Freestyle Skiing,"Moguls, Women",8 – 11 February 1998,28,16,Tae Satoya,JPN,Tatjana Mittermayer,GER,Kari Traa,NOR
+XVIII ,1998,Freestyle Skiing,"Aerials, Women",16 – 18 February 1998,24,12,Nikki Stone,USA,Xu Nannan,CHN,Colette Brand,SUI
+XVIII ,1998,Ski Jumping,"Normal Hill, Individual, Men",11 February 1998,62,19,Jani Soininen,FIN,Kazuyoshi Funaki,JPN,Andreas Widhölzl,AUT
+XVIII ,1998,Ski Jumping,"Large Hill, Individual, Men",15 February 1998,62,19,Kazuyoshi Funaki,JPN,Jani Soininen,FIN,Masahiko Harada,JPN
+XVIII ,1998,Bobsleigh,"Two, Men",14 – 15 February 1998,76,24,Canada 1,CAN,—,,Germany 1,GER
+XVIII ,1998,Ski Jumping,"Large Hill, Team, Men",17 February 1998,52,13,Japan,JPN,Germany,GER,Austria,AUT
+XVIII ,1998,Ice Hockey,"Ice Hockey, Men",7 – 22 February 1998,306,14,Czech Republic,CZE,Russian Federation,RUS,Finland,FIN
+XVIII ,1998,Ice Hockey,"Ice Hockey, Women",8 – 17 February 1998,120,6,United States,USA,Canada,CAN,Finland,FIN
+XVIII ,1998,Snowboarding,"Giant Slalom, Men", 8 February 1998,34,14,Ross Rebagliati,CAN,Thomas Prugger,ITA,Ueli Kestenholz,SUI
+XVIII ,1998,Snowboarding,"Halfpipe, Women",12 February 1998,26,11,Nicola Thost,GER,Stine Brun Kjeldaas,NOR,Shannon Dunn,USA
+XVIII ,1998,Snowboarding,"Halfpipe, Men",12 February 1998,36,12,Gian Simmen,SUI,Daniel Franck,NOR,Ross Powers,USA
+XVIII ,1998,Bobsleigh,"Four, Men",20 – 21 February 1998,128,25,Germany 2,GER,Switzerland 1,SUI,France,FRA
+XIX ,2002,Freestyle Skiing,"Aerials, Women",16 – 18 February 2002,21,10,Alisa Camplin,AUS,Veronica Brenner,CAN,Deidra Dionne,CAN
+XIX ,2002,Freestyle Skiing,"Aerials, Men",16 – 19 February 2002,25,11,Aleš Valenta,CZE,Joe Pack,USA,Aliaksei Hryshyn,BLR
+XIX ,2002,Freestyle Skiing,"Moguls, Women", 9 February 2002,29,14,Kari Traa,NOR,Shannon Bahrke,USA,Tae Satoya,JPN
+XIX ,2002,Freestyle Skiing,"Moguls, Men",12 February 2002,30,12,Janne Lahtela,FIN,Travis Mayer,USA,Richard Gay,FRA
+XIX ,2002,Biathlon,"4 × 7.5 kilometres Relay, Women",18 February 2002,60,15,Germany,GER,Norway,NOR,Russian Federation,RUS
+XIX ,2002,Biathlon,"15 kilometres, Women",11 February 2002,71,26,Andrea Henkel,GER,Liv Grete Skjelbreid-Poirée,NOR,Magdalena Forsberg,SWE
+XIX ,2002,Biathlon,"10 kilometres Pursuit, Women",16 February 2002,52,20,Olga Pylyova,RUS,Kati Wilhelm,GER,Irina Nikulchina,BUL
+XIX ,2002,Biathlon,"7.5 kilometres Sprint, Women",13 February 2002,74,27,Kati Wilhelm,GER,Uschi Disl,GER,Magdalena Forsberg,SWE
+XIX ,2002,Skeleton,"Skeleton, Men",20 February 2002,26,18,"Jim Shea, Jr.",USA,Martin Rettl,AUT,Gregor Stähli,SUI
+XIX ,2002,Bobsleigh,"Four, Men",22 – 23 February 2002,135,26,Germany 2,GER,United States 1,USA,United States 2,USA
+XIX ,2002,Bobsleigh,"Two, Men",16 – 17 February 2002,75,27,Germany 1,GER,Switzerland 1,SUI,Switzerland 2,SUI
+XIX ,2002,Biathlon,"4 × 7.5 kilometres Relay, Men",20 February 2002,76,19,Norway,NOR,Germany,GER,France,FRA
+XIX ,2002,Bobsleigh,"Two, Women",19 February 2002,30,11,United States 2,USA,Germany 1,GER,Germany 2,GER
+XIX ,2002,Ice Hockey,"Ice Hockey, Men",9 – 24 February 2002,312,14,Canada,CAN,United States,USA,Russian Federation,RUS
+XIX ,2002,Ice Hockey,"Ice Hockey, Women",11 – 21 February 2002,156,8,Canada,CAN,United States,USA,Sweden,SWE
+XIX ,2002,Ski Jumping,"Normal Hill, Individual, Men",10 February 2002,60,22,Simon Ammann,SUI,Sven Hannawald,GER,Adam Małysz,POL
+XIX ,2002,Ski Jumping,"Large Hill, Individual, Men",12 – 13 February 2002,66,22,Simon Ammann,SUI,Adam Małysz,POL,Matti Hautamäki,FIN
+XIX ,2002,Ski Jumping,"Large Hill, Team, Men",18 February 2002,52,13,Germany,GER,Finland,FIN,Slovenia,SLO
+XIX ,2002,Cross Country Skiing,"Sprint, Freestyle, Men",19 February 2002,71,36,Tor-Arne Hetland,NOR,Peter Schlickenrieder,GER,Cristian Zorzi,ITA
+XIX ,2002,Skeleton,"Skeleton, Women",20 February 2002,13,10,Tristan Gale,USA,Lea Ann Parsley,USA,Alex Coomber,GBR
+XIX ,2002,Biathlon,"20 kilometres, Men",11 February 2002,87,34,Ole Einar Bjørndalen,NOR,Frank Luck,GER,Viktor Maygurov,RUS
+XIX ,2002,Alpine Skiing,"Combined, Men",13 February 2002,47,19,Kjetil André Aamodt,NOR,Bode Miller,USA,Benjamin Raich,AUT
+XIX ,2002,Biathlon,"10 kilometres Sprint, Men",13 February 2002,87,34,Ole Einar Bjørndalen,NOR,Sven Fischer,GER,Wolfgang Perner,AUT
+XIX ,2002,Short Track Speed Skating,"1,000 metres, Men",13 – 16 February 2002,32,20,Steven Bradbury,AUS,Apolo Anton Ohno,USA,Mathieu Turcotte,CAN
+XIX ,2002,Short Track Speed Skating,"1,500 metres, Men",20 February 2002,31,19,Apolo Anton Ohno,USA,Li Jiajun,CHN,Marc Gagnon,CAN
+XIX ,2002,Short Track Speed Skating,"500 metres, Men",23 February 2002,32,20,Marc Gagnon,CAN,Jonathan Guilmette,CAN,Rusty Smith,USA
+XIX ,2002,Figure Skating,"Ice Dancing, Mixed",15 – 18 February 2002,48,17,France 1,FRA,Russian Federation 1,RUS,Italy 1,ITA
+XIX ,2002,Figure Skating,"Pairs, Mixed",9 – 11 February 2002,40,12,Canada 1,CAN,—,,People's Republic of China 1,CHN
+XIX ,2002,Figure Skating,"Singles, Women",19 – 21 February 2002,27,19,Sarah Hughes,USA,Irina Slutskaya,RUS,Michelle Kwan,USA
+XIX ,2002,Figure Skating,"Singles, Men",12 – 14 February 2002,28,20,Aleksey Yagudin,RUS,Yevgeny Plyushchenko,RUS,Timothy Goebel,USA
+XIX ,2002,Cross Country Skiing,"15 kilometres, Classical, Men",12 February 2002,67,26,Andrus Veerpalu,EST,Frode Estil,NOR,Jaak Mae,EST
+XIX ,2002,Alpine Skiing,"Combined, Women",14 February 2002,31,14,Janica Kostelić,CRO,Renate Götschl,AUT,Martina Ertl,GER
+XIX ,2002,Biathlon,"12.5 kilometres Pursuit, Men",16 February 2002,57,23,Ole Einar Bjørndalen,NOR,Raphaël Poirée,FRA,Ricco Groß,GER
+XIX ,2002,Alpine Skiing,"Slalom, Women",20 February 2002,68,33,Janica Kostelić,CRO,Laure Pequegnot,FRA,Anja Pärson,SWE
+XIX ,2002,Alpine Skiing,"Super G, Women",17 February 2002,43,20,Daniela Ceccarelli,ITA,Janica Kostelić,CRO,Karen Putzer,ITA
+XIX ,2002,Alpine Skiing,"Downhill, Women",12 February 2002,38,17,Carole Montillet,FRA,Isolde Kostner,ITA,Renate Götschl,AUT
+XIX ,2002,Alpine Skiing,"Slalom, Men",23 February 2002,77,43,Jean-Pierre Vidal,FRA,Sébastien Amiez,FRA,Benjamin Raich,AUT
+XIX ,2002,Short Track Speed Skating,"5,000 metres Relay, Men",13 – 23 February 2002,36,8,Canada,CAN,Italy,ITA,People's Republic of China,CHN
+XIX ,2002,Alpine Skiing,"Giant Slalom, Men",21 February 2002,78,39,Stephan Eberharter,AUT,Bode Miller,USA,Lasse Kjus,NOR
+XIX ,2002,Short Track Speed Skating,"500 metres, Women",16 February 2002,29,17,Yang Yang (A),CHN,Evgeniya Radanova,BUL,Wang Chunlu,CHN
+XIX ,2002,Short Track Speed Skating,"1,000 metres, Women",20 – 23 February 2002,28,16,Yang Yang (A),CHN,Go Gi-Hyeon,KOR,Yang Yang (S),CHN
+XIX ,2002,Short Track Speed Skating,"1,500 metres, Women",13 February 2002,28,17,Go Gi-Hyeon,KOR,Choi Eun-Gyeong,KOR,Evgeniya Radanova,BUL
+XIX ,2002,Short Track Speed Skating,"3,000 metres Relay, Women",16 – 20 February 2002,35,8,Republic of Korea,KOR,People's Republic of China,CHN,Canada,CAN
+XIX ,2002,Alpine Skiing,"Giant Slalom, Women",22 February 2002,68,34,Janica Kostelić,CRO,Anja Pärson,SWE,Sonja Nef,SUI
+XIX ,2002,Cross Country Skiing,"30 kilometres, Mass Start, Freestyle, Men", 9 February 2002,78,32,Christian Hoffmann,AUT,Mikhail Botvinov,AUT,Kristen Skjeldal,NOR
+XIX ,2002,Speed Skating,"3,000 metres, Women",10 February 2002,32,16,Claudia Pechstein,GER,Renate Groenewold,NED,Cindy Klassen,CAN
+XIX ,2002,Cross Country Skiing,"10/10 kilometres Pursuit, Men",14 February 2002,83,36,Frode Estil,NOR,—,,Per Elofsson,SWE
+XIX ,2002,Cross Country Skiing,"50 kilometres, Classical, Men",23 February 2002,61,24,Mikhail Ivanov,RUS,Andrus Veerpalu,EST,Odd-Bjørn Hjelmeset,NOR
+XIX ,2002,Alpine Skiing,"Super G, Men",16 February 2002,55,23,Kjetil André Aamodt,NOR,Stephan Eberharter,AUT,Andreas Schifferer,AUT
+XIX ,2002,Speed Skating,"5,000 metres, Women",23 February 2002,16,7,Claudia Pechstein,GER,Gretha Smit,NED,Clara Hughes,CAN
+XIX ,2002,Speed Skating,"1,500 metres, Women",20 February 2002,39,17,Anni Friesinger,GER,Sabine Völker,GER,Jennifer Rodriguez,USA
+XIX ,2002,Speed Skating,"1,000 metres, Women",17 February 2002,36,14,Chris Witty,USA,Sabine Völker,GER,Jennifer Rodriguez,USA
+XIX ,2002,Speed Skating,"500 metres, Women",13 – 14 February 2002,31,12,Catriona Le May Doan,CAN,Monique Garbrecht-Enfeldt,GER,Sabine Völker,GER
+XIX ,2002,Speed Skating,"10,000 metres, Men",22 February 2002,16,10,Jochem Uytdehaage,NED,Gianni Romme,NED,Lasse Sætre,NOR
+XIX ,2002,Speed Skating,"5,000 metres, Men", 9 February 2002,32,14,Jochem Uytdehaage,NED,Derek Parra,USA,Jens Boden,GER
+XIX ,2002,Speed Skating,"1,500 metres, Men",19 February 2002,48,17,Derek Parra,USA,Jochem Uytdehaage,NED,Ådne Søndrål,NOR
+XIX ,2002,Speed Skating,"1,000 metres, Men",16 February 2002,44,18,Gerard van Velde,NED,Jan Bos,NED,Joey Cheek,USA
+XIX ,2002,Speed Skating,"500 metres, Men",11 – 12 February 2002,38,15,Casey FitzRandolph,USA,Hiroyasu Shimizu,JPN,Kip Carpenter,USA
+XIX ,2002,Nordic Combined,"Sprint, Men",21 – 22 February 2002,40,13,Samppa Lajunen,FIN,Ronny Ackermann,GER,Felix Gottwald,AUT
+XIX ,2002,Nordic Combined,"Individual, Men",9 – 10 February 2002,45,14,Samppa Lajunen,FIN,Jaakko Tallus,FIN,Felix Gottwald,AUT
+XIX ,2002,Nordic Combined,"Team, Men",16 – 17 February 2002,40,10,Finland,FIN,Germany,GER,Austria,AUT
+XIX ,2002,Curling,"Curling, Women",11 – 21 February 2002,47,10,Great Britain,GBR,Switzerland,SUI,Canada,CAN
+XIX ,2002,Alpine Skiing,"Downhill, Men",10 February 2002,54,21,Fritz Strobl,AUT,Lasse Kjus,NOR,Stephan Eberharter,AUT
+XIX ,2002,Snowboarding,"Halfpipe, Women",10 February 2002,23,12,Kelly Clark,USA,Doriane Vidal,FRA,Fabienne Reuteler,SUI
+XIX ,2002,Cross Country Skiing,"4 × 10 kilometres Relay, Men",17 February 2002,60,15,Norway,NOR,Italy,ITA,Germany,GER
+XIX ,2002,Curling,"Curling, Men",11 – 22 February 2002,49,10,Norway,NOR,Canada,CAN,Switzerland,SUI
+XIX ,2002,Cross Country Skiing,"Sprint, Freestyle, Women",19 February 2002,58,24,Yuliya Chepalova,RUS,Evi Sachenbacher,GER,Anita Moen,NOR
+XIX ,2002,Cross Country Skiing,"10 kilometres, Classical, Women",12 February 2002,61,23,Bente Skari,NOR,Yuliya Chepalova,RUS,Stefania Belmondo,ITA
+XIX ,2002,Cross Country Skiing,"30 kilometres, Classical, Women",24 February 2002,50,17,Gabriella Paruzzi,ITA,Stefania Belmondo,ITA,Bente Skari,NOR
+XIX ,2002,Cross Country Skiing,"5/5 kilometres Pursuit, Women",15 February 2002,73,27,Beckie Scott,CAN,Kateřina Neumannová,CZE,Viola Bauer,GER
+XIX ,2002,Cross Country Skiing,"15 kilometres, Mass Start, Freestyle, Women", 9 February 2002,60,23,Stefania Belmondo,ITA,Kateřina Neumannová,CZE,Yuliya Chepalova,RUS
+XIX ,2002,Luge,"Singles, Men",10 – 11 February 2002,50,23,Armin Zöggeler,ITA,Georg Hackl,GER,Markus Prock,AUT
+XIX ,2002,Luge,"Doubles, Open",15 February 2002,38,12,Germany 2,GER,United States 2,USA,United States 1,USA
+XIX ,2002,Luge,"Singles, Women",12 – 13 February 2002,29,15,Sylke Otto,GER,Babsi Niedernhuber,GER,Silke Kraushaar,GER
+XIX ,2002,Snowboarding,"Parallel Giant Slalom, Men",14 – 15 February 2002,32,10,Philipp Schoch,SUI,Richard Richardsson,SWE,Chris Klug,USA
+XIX ,2002,Snowboarding,"Halfpipe, Men",11 February 2002,33,12,Ross Powers,USA,Danny Kass,USA,JJ Thomas,USA
+XIX ,2002,Snowboarding,"Parallel Giant Slalom, Women",14 – 15 February 2002,30,12,Isabelle Blanc,FRA,Karine Ruby,FRA,Lidia Trettel,ITA
+XIX ,2002,Cross Country Skiing,"4 × 5 kilometres Relay, Women",21 February 2002,52,13,Germany,GER,Norway,NOR,Switzerland,SUI
+XX ,2006,Cross Country Skiing,"30 kilometres Mass Start, Freestyle, Women",24 February 2006,61,22,Kateřina Neumannová,CZE,Yuliya Chepalova,RUS,Justyna Kowalczyk,POL
+XX ,2006,Luge,"Doubles, Open",15 February 2006,42,13,Austria 1,AUT,Germany 1,GER,Italy 1,ITA
+XX ,2006,Luge,"Singles, Men",11 – 12 February 2006,36,19,Armin Zöggeler,ITA,Albert Demchenko,RUS,Mārtiņš Rubenis,LAT
+XX ,2006,Cross Country Skiing,"Team Sprint, Classical, Women",14 February 2006,32,16,Sweden,SWE,Canada,CAN,Finland,FIN
+XX ,2006,Cross Country Skiing,"4 × 5 kilometres Relay, Women",18 February 2006,68,17,Russian Federation,RUS,Germany,GER,Italy,ITA
+XX ,2006,Cross Country Skiing,"15 kilometres Skiathlon, Women",12 February 2006,67,28,Kristina Šmigun,EST,Kateřina Neumannová,CZE,Yevgeniya Medvedeva,RUS
+XX ,2006,Cross Country Skiing,"10 kilometres, Classical, Women",16 February 2006,72,29,Kristina Šmigun,EST,Marit Bjørgen,NOR,Hilde Gjermundshaug Pedersen,NOR
+XX ,2006,Cross Country Skiing,"15 kilometres, Classical, Men",17 February 2006,99,46,Andrus Veerpalu,EST,Lukáš Bauer,CZE,Tobias Angerer,GER
+XX ,2006,Cross Country Skiing,"Team Sprint, Classical, Men",14 February 2006,48,24,Sweden,SWE,Norway,NOR,Russian Federation,RUS
+XX ,2006,Cross Country Skiing,"4 × 10 kilometres Relay, Men",19 February 2006,64,16,Italy,ITA,Germany,GER,Sweden,SWE
+XX ,2006,Cross Country Skiing,"30 kilometres Skiathlon, Men",12 February 2006,76,27,Yevgeny Dementyev,RUS,Frode Estil,NOR,Pietro Piller Cottrer,ITA
+XX ,2006,Cross Country Skiing,"50 kilometres Mass Start, Freestyle, Men",26 February 2006,79,31,Giorgio Di Centa,ITA,Yevgeny Dementyev,RUS,Mikhail Botvinov,AUT
+XX ,2006,Luge,"Singles, Women",13 – 14 February 2006,30,15,Sylke Otto,GER,Silke Kraushaar,GER,Tatjana Hüfner,GER
+XX ,2006,Cross Country Skiing,"Sprint, Freestyle, Men",22 February 2006,80,34,Björn Lind,SWE,Roddy Darragon,FRA,Thobias Fredriksson,SWE
+XX ,2006,Ski Jumping,"Large Hill, Team, Men",20 February 2006,64,16,Austria,AUT,Finland,FIN,Norway,NOR
+XX ,2006,Ski Jumping,"Large Hill, Individual, Men",17 – 18 February 2006,69,21,Thomas Morgenstern,AUT,Andreas Kofler,AUT,Lars Bystøl,NOR
+XX ,2006,Cross Country Skiing,"Sprint, Freestyle, Women",22 February 2006,66,28,Chandra Crawford,CAN,Claudia Nystad,GER,Alyona Sidko,RUS
+XX ,2006,Snowboarding,"Parallel Giant Slalom, Men",22 February 2006,31,13,Philipp Schoch,SUI,Simon Schoch,SUI,Sigi Grabner,AUT
+XX ,2006,Curling,"Curling, Men",13 – 24 February 2006,45,10,Canada,CAN,Finland,FIN,United States,USA
+XX ,2006,Snowboarding,"Boardercross, Men",16 February 2006,36,14,Seth Wescott,USA,Radoslav Židek,SVK,Paul-Henri De Le Rue,FRA
+XX ,2006,Speed Skating,"3,000 metres, Women",12 February 2006,28,15,Ireen Wüst,NED,Renate Groenewold,NED,Cindy Klassen,CAN
+XX ,2006,Speed Skating,"1,500 metres, Women",22 February 2006,35,13,Cindy Klassen,CAN,Kristina Groves,CAN,Ireen Wüst,NED
+XX ,2006,Speed Skating,"1,000 metres, Women",19 February 2006,36,12,Marianne Timmer,NED,Cindy Klassen,CAN,Anni Friesinger,GER
+XX ,2006,Speed Skating,"500 metres, Women",14 February 2006,30,10,Svetlana Zhurova,RUS,Wang Manli,CHN,Ren Hui,CHN
+XX ,2006,Speed Skating,"Team Pursuit (8 laps), Men",15 – 16 February 2006,36,8,Italy,ITA,Canada,CAN,Netherlands,NED
+XX ,2006,Speed Skating,"10,000 metres, Men",24 February 2006,16,8,Bob de Jong,NED,Chad Hedrick,USA,Carl Verheijen,NED
+XX ,2006,Speed Skating,"5,000 metres, Men",11 February 2006,28,15,Chad Hedrick,USA,Sven Kramer,NED,Enrico Fabris,ITA
+XX ,2006,Speed Skating,"1,500 metres, Men",21 February 2006,41,14,Enrico Fabris,ITA,Shani Davis,USA,Chad Hedrick,USA
+XX ,2006,Snowboarding,"Halfpipe, Men",12 February 2006,44,17,Shaun White,USA,Danny Kass,USA,Markku Koski,FIN
+XX ,2006,Speed Skating,"1,000 metres, Men",18 February 2006,41,13,Shani Davis,USA,Joey Cheek,USA,Erben Wennemars,NED
+XX ,2006,Nordic Combined,"Sprint, Men",21 February 2006,48,15,Felix Gottwald,AUT,Magnus Moan,NOR,Georg Hettich,GER
+XX ,2006,Nordic Combined,"Individual, Men",11 February 2006,50,15,Georg Hettich,GER,Felix Gottwald,AUT,Magnus Moan,NOR
+XX ,2006,Nordic Combined,"Team, Men",15 – 16 February 2006,40,10,Austria,AUT,Germany,GER,Finland,FIN
+XX ,2006,Curling,"Curling, Women",13 – 23 February 2006,46,10,Sweden,SWE,Switzerland,SUI,Canada,CAN
+XX ,2006,Ski Jumping,"Normal Hill, Individual, Men",11 – 12 February 2006,69,21,Lars Bystøl,NOR,Matti Hautamäki,FIN,Roar Ljøkelsøy,NOR
+XX ,2006,Snowboarding,"Boardercross, Women",17 February 2006,23,14,Tanja Frieden,SUI,Lindsey Jacobellis,USA,Dominique Maltais,CAN
+XX ,2006,Snowboarding,"Halfpipe, Women",13 February 2006,34,16,Hannah Teter,USA,Gretchen Bleiler,USA,Kjersti Buaas,NOR
+XX ,2006,Snowboarding,"Parallel Giant Slalom, Women",23 February 2006,30,16,Daniela Meuli,SUI,Amelie Kober,GER,Rosey Fletcher,USA
+XX ,2006,Speed Skating,"500 metres, Men",13 February 2006,37,12,Joey Cheek,USA,Dmitry Dorofeyev,RUS,Lee Gang-Seok,KOR
+XX ,2006,Ice Hockey,"Ice Hockey, Women",11 – 20 February 2006,160,8,Canada,CAN,Sweden,SWE,United States,USA
+XX ,2006,Freestyle Skiing,"Aerials, Women",21 – 22 February 2006,23,9,Evelyne Leu,SUI,Li Nina,CHN,Alisa Camplin,AUS
+XX ,2006,Bobsleigh,"Two, Women",19 – 21 February 2006,32,10,Germany 1,GER,United States 1,USA,Italy 1,ITA
+XX ,2006,Short Track Speed Skating,"1,500 metres, Men",12 February 2006,28,16,Hyeon-Su An,KOR,Lee Ho-Seok,KOR,Li Jiajun,CHN
+XX ,2006,Short Track Speed Skating,"1,000 metres, Men",15 – 18 February 2006,26,17,Hyeon-Su An,KOR,Lee Ho-Seok,KOR,Apolo Anton Ohno,USA
+XX ,2006,Short Track Speed Skating,"500 metres, Men",22 – 25 February 2006,27,16,Apolo Anton Ohno,USA,François-Louis Tremblay,CAN,Hyeon-Su An,KOR
+XX ,2006,Figure Skating,"Ice Dancing, Mixed",17 – 20 February 2006,48,15,Russian Federation 1,RUS,United States 1,USA,Ukraine 1,UKR
+XX ,2006,Figure Skating,"Pairs, Mixed",11 – 13 February 2006,40,12,Russian Federation 1,RUS,People's Republic of China 1,CHN,People's Republic of China 3,CHN
+XX ,2006,Figure Skating,"Singles, Women",21 – 23 February 2006,29,19,Shizuka Arakawa,JPN,Sasha Cohen,USA,Irina Slutskaya,RUS
+XX ,2006,Figure Skating,"Singles, Men",14 – 16 February 2006,30,22,Yevgeny Plyushchenko,RUS,Stéphane Lambiel,SUI,Jeff Buttle,CAN
+XX ,2006,Alpine Skiing,"Combined, Women",17 – 18 February 2006,43,20,Janica Kostelić,CRO,Marlies Schild,AUT,Anja Pärson,SWE
+XX ,2006,Alpine Skiing,"Slalom, Women",22 February 2006,64,33,Anja Pärson,SWE,Nicole Hosp,AUT,Marlies Schild,AUT
+XX ,2006,Alpine Skiing,"Giant Slalom, Women",24 February 2006,62,37,Julia Mancuso,USA,Tanja Poutiainen,FIN,Anna Ottosson,SWE
+XX ,2006,Alpine Skiing,"Super G, Women",20 February 2006,54,23,Michaela Dorfmeister,AUT,Janica Kostelić,CRO,Alexandra Meissnitzer,AUT
+XX ,2006,Alpine Skiing,"Downhill, Women",15 February 2006,44,19,Michaela Dorfmeister,AUT,Martina Schild,SUI,Anja Pärson,SWE
+XX ,2006,Alpine Skiing,"Combined, Men",14 February 2006,59,27,Ted Ligety,USA,Ivica Kostelić,CRO,Rainer Schönfelder,AUT
+XX ,2006,Alpine Skiing,"Slalom, Men",25 February 2006,93,48,Benjamin Raich,AUT,Reinfried Herbst,AUT,Rainer Schönfelder,AUT
+XX ,2006,Alpine Skiing,"Giant Slalom, Men",20 February 2006,82,46,Benjamin Raich,AUT,Joël Chenal,FRA,Hermann Maier,AUT
+XX ,2006,Alpine Skiing,"Super G, Men",18 February 2006,63,27,Kjetil André Aamodt,NOR,Hermann Maier,AUT,Ambrosi Hoffmann,SUI
+XX ,2006,Alpine Skiing,"Downhill, Men",12 February 2006,55,25,Antoine Dénériaz,FRA,Michael Walchhofer,AUT,Bruno Kernen,SUI
+XX ,2006,Short Track Speed Skating,"5,000 metres Relay, Men",15 – 25 February 2006,35,8,Republic of Korea,KOR,Canada,CAN,United States,USA
+XX ,2006,Ice Hockey,"Ice Hockey, Men",15 – 26 February 2006,282,12,Sweden,SWE,Finland,FIN,Czech Republic,CZE
+XX ,2006,Short Track Speed Skating,"500 metres, Women",12 – 15 February 2006,28,17,Wang Meng,CHN,Evgeniya Radanova,BUL,Anouk Leblanc-Boucher,CAN
+XX ,2006,Short Track Speed Skating,"1,500 metres, Women",18 February 2006,30,19,Jin Seon-Yu,KOR,Choi Eun-Gyeong,KOR,Wang Meng,CHN
+XX ,2006,Bobsleigh,"Four, Men",24 – 26 February 2006,101,18,Germany 1,GER,Russian Federation 1,RUS,Switzerland 1,SUI
+XX ,2006,Bobsleigh,"Two, Men",17 – 19 February 2006,58,19,Germany 1,GER,Canada 1,CAN,Switzerland 1,SUI
+XX ,2006,Skeleton,"Skeleton, Women",16 February 2006,15,12,Maya Pedersen,SUI,Shelley Rudman,GBR,Mellisa Hollingsworth-Richards,CAN
+XX ,2006,Skeleton,"Skeleton, Men",17 February 2006,27,19,Duff Gibson,CAN,Jeff Pain,CAN,Gregor Stähli,SUI
+XX ,2006,Freestyle Skiing,"Moguls, Women",11 February 2006,30,15,Jennifer Heil,CAN,Kari Traa,NOR,Sandra Laoura,FRA
+XX ,2006,Freestyle Skiing,"Aerials, Men",20 – 23 February 2006,28,11,Han Xiaopeng,CHN,Dzmitry Dashchynski,BLR,Vladimir Lebedev,RUS
+XX ,2006,Freestyle Skiing,"Moguls, Men",15 February 2006,35,11,Dale Begg-Smith,AUS,Mikko Ronkainen,FIN,Toby Dawson,USA
+XX ,2006,Biathlon,"4 × 6 kilometres Relay, Women",23 February 2006,72,18,Russian Federation,RUS,Germany,GER,France,FRA
+XX ,2006,Biathlon,"15 kilometres, Women",13 February 2006,82,28,Svetlana Ishmuratova,RUS,Martina Glagow,GER,Albina Akhatova,RUS
+XX ,2006,Biathlon,"12.5 kilometres Mass Start, Women",25 February 2006,30,14,Anna-Carin Olofsson,SWE,Kati Wilhelm,GER,Uschi Disl,GER
+XX ,2006,Biathlon,"10 kilometres Pursuit, Women",18 February 2006,58,22,Kati Wilhelm,GER,Martina Glagow,GER,Albina Akhatova,RUS
+XX ,2006,Biathlon,"7.5 kilometres Sprint, Women",16 February 2006,83,28,Florence Baverel-Robert,FRA,Anna-Carin Olofsson,SWE,Liliya Yefremova,UKR
+XX ,2006,Biathlon,"20 kilometres, Men",11 February 2006,88,34,Michael Greis,GER,Ole Einar Bjørndalen,NOR,Halvard Hanevold,NOR
+XX ,2006,Biathlon,"15 kilometres Mass Start, Men",25 February 2006,30,14,Michael Greis,GER,Tomasz Sikora,POL,Ole Einar Bjørndalen,NOR
+XX ,2006,Biathlon,"12.5 kilometres Pursuit, Men",18 February 2006,57,23,Vincent Defrasne,FRA,Ole Einar Bjørndalen,NOR,Sven Fischer,GER
+XX ,2006,Biathlon,"10 kilometres Sprint, Men",14 February 2006,90,36,Sven Fischer,GER,Halvard Hanevold,NOR,Frode Andresen,NOR
+XX ,2006,Short Track Speed Skating,"3,000 metres Relay, Women",12 – 22 February 2006,36,8,Republic of Korea,KOR,Canada,CAN,Italy,ITA
+XX ,2006,Short Track Speed Skating,"1,000 metres, Women",22 – 25 February 2006,29,20,Jin Seon-Yu,KOR,Wang Meng,CHN,Yang Yang (A),CHN
+XX ,2006,Biathlon,"4 × 7.5 kilometres Relay, Men",21 February 2006,68,17,Germany,GER,Russian Federation,RUS,France,FRA
+XX ,2006,Speed Skating,"Team Pursuit (6 laps), Women",15 – 16 February 2006,35,8,Germany,GER,Canada,CAN,Russian Federation,RUS
+XX ,2006,Speed Skating,"5,000 metres, Women",25 February 2006,16,10,Clara Hughes,CAN,Claudia Pechstein,GER,Cindy Klassen,CAN
+XXI ,2010,Biathlon,"10 kilometres Pursuit, Women",16 February 2010,60,24,Magdalena Neuner,GER,Anastasia Kuzmina,SVK,Marie-Laure Brunet,FRA
+XXI ,2010,Luge,"Singles, Women",15 – 16 February 2010,29,14,Tatjana Hüfner,GER,Nina Reithmayer,AUT,Natalie Geisenberger,GER
+XXI ,2010,Luge,"Doubles, Open",17 February 2010,40,11,Austria 1,AUT,Latvia 1,LAT,Germany 2,GER
+XXI ,2010,Luge,"Singles, Men",13 – 14 February 2010,38,22,Felix Loch,GER,David Möller,GER,Armin Zöggeler,ITA
+XXI ,2010,Cross Country Skiing,"Team Sprint, Freestyle, Women",22 February 2010,36,18,Germany,GER,Sweden,SWE,Russian Federation,RUS
+XXI ,2010,Cross Country Skiing,"4 × 5 kilometres Relay, Women",25 February 2010,64,16,Norway,NOR,Germany,GER,Finland,FIN
+XXI ,2010,Cross Country Skiing,"15 kilometres Skiathlon, Women",19 February 2010,66,24,Marit Bjørgen,NOR,Anna Haag,SWE,Justyna Kowalczyk,POL
+XXI ,2010,Cross Country Skiing,"30 kilometres Mass Start, Classical, Women",27 February 2010,53,21,Justyna Kowalczyk,POL,Marit Bjørgen,NOR,Aino-Kaisa Saarinen,FIN
+XXI ,2010,Snowboarding,"Parallel Giant Slalom, Men",27 February 2010,30,15,Jasey-Jay Anderson,CAN,Benjamin Karl,AUT,Mathieu Bozzetto,FRA
+XXI ,2010,Cross Country Skiing,"10 kilometres, Freestyle, Women",15 February 2010,78,36,Charlotte Kalla,SWE,Kristina Šmigun-Vähi,EST,Marit Bjørgen,NOR
+XXI ,2010,Cross Country Skiing,"Team Sprint, Freestyle, Men",22 February 2010,44,22,Norway,NOR,Germany,GER,Russian Federation,RUS
+XXI ,2010,Cross Country Skiing,"4 × 10 kilometres Relay, Men",24 February 2010,56,14,Sweden,SWE,Norway,NOR,Czech Republic,CZE
+XXI ,2010,Cross Country Skiing,"30 kilometres Skiathlon, Men",20 February 2010,64,26,Marcus Hellner,SWE,Tobias Angerer,GER,Johan Olsson,SWE
+XXI ,2010,Cross Country Skiing,"50 kilometres Mass Start, Classical, Men",28 February 2010,53,21,Petter Northug,NOR,Axel Teichmann,GER,Johan Olsson,SWE
+XXI ,2010,Cross Country Skiing,"15 kilometres, Freestyle, Men",15 February 2010,95,49,Dario Cologna,SUI,Pietro Piller Cottrer,ITA,Lukáš Bauer,CZE
+XXI ,2010,Cross Country Skiing,"Sprint, Classical, Men",17 February 2010,62,25,Nikita Kryukov,RUS,Aleksandr Panzhinsky,RUS,Petter Northug,NOR
+XXI ,2010,Ski Jumping,"Large Hill, Team, Men",22 February 2010,48,12,Austria,AUT,Germany,GER,Norway,NOR
+XXI ,2010,Ski Jumping,"Large Hill, Individual, Men",19 – 20 February 2010,61,18,Simon Ammann,SUI,Adam Małysz,POL,Gregor Schlierenzauer,AUT
+XXI ,2010,Cross Country Skiing,"Sprint, Classical, Women",17 February 2010,54,27,Marit Bjørgen,NOR,Justyna Kowalczyk,POL,Petra Majdič,SLO
+XXI ,2010,Snowboarding,"Halfpipe, Men",17 February 2010,39,17,Shaun White,USA,Peetu Piiroinen,FIN,Scotty Lago,USA
+XXI ,2010,Snowboarding,"Boardercross, Men",15 February 2010,35,15,Seth Wescott,USA,Mike Robertson,CAN,Tony Ramoin,FRA
+XXI ,2010,Snowboarding,"Parallel Giant Slalom, Women",26 February 2010,29,15,Nicolien Sauerbreij,NED,Yekaterina Ilyukhina,RUS,Marion Kreiner,AUT
+XXI ,2010,Speed Skating,"Team Pursuit (6 laps), Women",26 – 27 February 2010,28,8,Germany,GER,Japan,JPN,Poland,POL
+XXI ,2010,Speed Skating,"5,000 metres, Women",24 February 2010,16,9,Martina Sáblíková,CZE,Stephanie Beckert,GER,Clara Hughes,CAN
+XXI ,2010,Speed Skating,"3,000 metres, Women",14 February 2010,28,13,Martina Sáblíková,CZE,Stephanie Beckert,GER,Kristina Groves,CAN
+XXI ,2010,Speed Skating,"1,500 metres, Women",21 February 2010,36,14,Ireen Wüst,NED,Kristina Groves,CAN,Martina Sáblíková,CZE
+XXI ,2010,Speed Skating,"1,000 metres, Women",18 February 2010,36,15,Christine Nesbitt,CAN,Annette Gerritsen,NED,Laurine van Riessen,NED
+XXI ,2010,Speed Skating,"500 metres, Women",16 February 2010,36,14,Lee Sang-Hwa,KOR,Jenny Wolf,GER,Wang Beixing,CHN
+XXI ,2010,Speed Skating,"Team Pursuit (8 laps), Men",26 – 27 February 2010,29,8,Canada,CAN,United States,USA,Netherlands,NED
+XXI ,2010,Speed Skating,"10,000 metres, Men",23 February 2010,15,9,Lee Seung-Hun,KOR,Ivan Skobrev,RUS,Bob de Jong,NED
+XXI ,2010,Speed Skating,"5,000 metres, Men",13 February 2010,28,16,Sven Kramer,NED,Lee Seung-Hun,KOR,Ivan Skobrev,RUS
+XXI ,2010,Speed Skating,"1,500 metres, Men",20 February 2010,37,14,Mark Tuitert,NED,Shani Davis,USA,Håvard Bøkko,NOR
+XXI ,2010,Speed Skating,"1,000 metres, Men",17 February 2010,38,13,Shani Davis,USA,Mo Tae-Beom,KOR,Chad Hedrick,USA
+XXI ,2010,Speed Skating,"500 metres, Men",15 February 2010,39,12,Mo Tae-Beom,KOR,Keiichiro Nagashima,JPN,Joji Kato,JPN
+XXI ,2010,Nordic Combined,"Team, Men",23 February 2010,40,10,Austria,AUT,United States,USA,Germany,GER
+XXI ,2010,Nordic Combined,"Large Hill / 10 km, Individual, Men",25 February 2010,46,14,Bill Demong,USA,Johnny Spillane,USA,Berni Gruber,AUT
+XXI ,2010,Nordic Combined,"Normal Hill / 10 km, Individual, Men",14 February 2010,45,14,Jason Lamy-Chappuis,FRA,Johnny Spillane,USA,Alessandro Pittin,ITA
+XXI ,2010,Curling,"Curling, Women",16 – 26 February 2010,46,10,Sweden,SWE,Canada,CAN,People's Republic of China,CHN
+XXI ,2010,Curling,"Curling, Men",16 – 27 February 2010,47,10,Canada,CAN,Norway,NOR,Switzerland,SUI
+XXI ,2010,Snowboarding,"Boardercross, Women",16 February 2010,22,13,Maëlle Ricker,CAN,Déborah Anthonioz,FRA,Olivia Nobs,SUI
+XXI ,2010,Snowboarding,"Halfpipe, Women",18 February 2010,30,14,Torah Bright,AUS,Hannah Teter,USA,Kelly Clark,USA
+XXI ,2010,Ski Jumping,"Normal Hill, Individual, Men",12 – 13 February 2010,61,18,Simon Ammann,SUI,Adam Małysz,POL,Gregor Schlierenzauer,AUT
+XXI ,2010,Ice Hockey,"Ice Hockey, Men",16 – 28 February 2010,260,12,Canada,CAN,United States,USA,Finland,FIN
+XXI ,2010,Ice Hockey,"Ice Hockey, Women",13 – 25 February 2010,160,8,Canada,CAN,United States,USA,Finland,FIN
+XXI ,2010,Short Track Speed Skating,"500 metres, Women",13 – 17 February 2010,32,17,Wang Meng,CHN,Marianne St-Gelais,CAN,Arianna Fontana,ITA
+XXI ,2010,Bobsleigh,"Two, Women",23 – 24 February 2010,42,13,Canada 1,CAN,Canada 2,CAN,United States 2,USA
+XXI ,2010,Short Track Speed Skating,"5,000 metres Relay, Men",17 – 26 February 2010,37,8,Canada,CAN,Republic of Korea,KOR,United States,USA
+XXI ,2010,Short Track Speed Skating,"1,500 metres, Men",13 February 2010,36,16,Lee Jeong-Su,KOR,Apolo Anton Ohno,USA,J. R. Celski,USA
+XXI ,2010,Short Track Speed Skating,"1,000 metres, Men",17 – 20 February 2010,32,18,Lee Jeong-Su,KOR,Lee Ho-Seok,KOR,Apolo Anton Ohno,USA
+XXI ,2010,Short Track Speed Skating,"500 metres, Men",24 – 26 February 2010,32,16,Charles Hamelin,CAN,Seong Si-Baek,KOR,François-Louis Tremblay,CAN
+XXI ,2010,Figure Skating,"Ice Dancing, Mixed",19 – 22 February 2010,46,15,Canada 1,CAN,United States 1,USA,Russian Federation 1,RUS
+XXI ,2010,Figure Skating,"Pairs, Mixed",14 – 15 February 2010,40,12,People's Republic of China 1,CHN,People's Republic of China 2,CHN,Germany 1,GER
+XXI ,2010,Figure Skating,"Singles, Women",23 – 25 February 2010,30,23,Yu-Na Kim,KOR,Mao Asada,JPN,Joannie Rochette,CAN
+XXI ,2010,Short Track Speed Skating,"1,000 metres, Women",24 – 26 February 2010,32,18,Wang Meng,CHN,Katherine Reutter,USA,Park Seung-Hui,KOR
+XXI ,2010,Figure Skating,"Singles, Men",16 – 18 February 2010,30,20,Evan Lysacek,USA,Yevgeny Plyushchenko,RUS,Daisuke Takahashi,JPN
+XXI ,2010,Alpine Skiing,"Slalom, Women",26 February 2010,87,47,Maria Riesch,GER,Marlies Schild,AUT,Šárka Záhrobská,CZE
+XXI ,2010,Alpine Skiing,"Giant Slalom, Women",24 – 25 February 2010,86,47,Viktoria Rebensburg,GER,Tina Maze,SLO,Elisabeth Görgl,AUT
+XXI ,2010,Alpine Skiing,"Super G, Women",20 February 2010,53,27,Andrea Fischbacher,AUT,Tina Maze,SLO,Lindsey Vonn,USA
+XXI ,2010,Alpine Skiing,"Downhill, Women",17 February 2010,44,22,Lindsey Vonn,USA,Julia Mancuso,USA,Elisabeth Görgl,AUT
+XXI ,2010,Alpine Skiing,"Super Combined, Men",21 February 2010,52,22,Bode Miller,USA,Ivica Kostelić,CRO,Silvan Zurbriggen,SUI
+XXI ,2010,Alpine Skiing,"Slalom, Men",27 February 2010,101,55,Giuliano Razzoli,ITA,Ivica Kostelić,CRO,André Myhrer,SWE
+XXI ,2010,Alpine Skiing,"Giant Slalom, Men",23 February 2010,101,60,Carlo Janka,SUI,Kjetil Jansrud,NOR,Aksel Lund Svindal,NOR
+XXI ,2010,Alpine Skiing,"Super G, Men",19 February 2010,63,27,Aksel Lund Svindal,NOR,Bode Miller,USA,Andrew Weibrecht,USA
+XXI ,2010,Alpine Skiing,"Super Combined, Women",18 February 2010,34,19,Maria Riesch,GER,Julia Mancuso,USA,Anja Pärson,SWE
+XXI ,2010,Alpine Skiing,"Downhill, Men",15 February 2010,64,28,Didier Défago,SUI,Aksel Lund Svindal,NOR,Bode Miller,USA
+XXI ,2010,Short Track Speed Skating,"1,500 metres, Women",20 February 2010,36,18,Zhou Yang,CHN,Lee Eun-Byeol,KOR,Park Seung-Hui,KOR
+XXI ,2010,Biathlon,"10 kilometres Sprint, Men",14 February 2010,88,32,Vincent Jay,FRA,Emil Hegle Svendsen,NOR,Jakov Fak,CRO
+XXI ,2010,Bobsleigh,"Four, Men",26 – 27 February 2010,101,17,United States 1,USA,Germany 1,GER,Canada 1,CAN
+XXI ,2010,Bobsleigh,"Two, Men",20 – 21 February 2010,56,18,Germany 1,GER,Germany 2,GER,Russian Federation 1,RUS
+XXI ,2010,Skeleton,"Skeleton, Women",18 – 19 February 2010,19,11,Amy Williams,GBR,Kerstin Szymkowiak,GER,Anja Huber,GER
+XXI ,2010,Skeleton,"Skeleton, Men",18 – 19 February 2010,28,17,Jon Montgomery,CAN,Martins Dukurs,LAT,Aleksandr Tretyakov,RUS
+XXI ,2010,Freestyle Skiing,"Ski Cross, Women",23 February 2010,35,17,Ashleigh McIvor,CAN,Hedda Berntsen,NOR,Marion Josserand,FRA
+XXI ,2010,Freestyle Skiing,"Aerials, Women",20 – 24 February 2010,23,10,Lydia Lassila,AUS,Li Nina,CHN,Guo Xinxin,CHN
+XXI ,2010,Freestyle Skiing,"Moguls, Women",13 February 2010,27,12,Hannah Kearney,USA,Jennifer Heil,CAN,Shannon Bahrke,USA
+XXI ,2010,Freestyle Skiing,"Ski Cross, Men",21 February 2010,33,15,Mike Schmid,SUI,Andreas Matt,AUT,Audun Grønvold,NOR
+XXI ,2010,Short Track Speed Skating,"3,000 metres Relay, Women",13 – 24 February 2010,36,8,People's Republic of China,CHN,Canada,CAN,United States,USA
+XXI ,2010,Freestyle Skiing,"Aerials, Men",22 – 25 February 2010,24,8,Aliaksei Hryshyn,BLR,Jeret Peterson,USA,Liu Zhongqing,CHN
+XXI ,2010,Biathlon,"4 × 6 kilometres Relay, Women",23 February 2010,76,19,Russian Federation,RUS,France,FRA,Germany,GER
+XXI ,2010,Biathlon,"15 kilometres, Women",18 February 2010,87,31,Tora Berger,NOR,Yelena Khrustalyova,KAZ,Daria Domrachava,BLR
+XXI ,2010,Biathlon,"12.5 kilometres Mass Start, Women",21 February 2010,30,12,Magdalena Neuner,GER,Olga Zaytseva,RUS,Simone Hauswald,GER
+XXI ,2010,Biathlon,"7.5 kilometres Sprint, Women",13 February 2010,88,30,Anastasia Kuzmina,SVK,Magdalena Neuner,GER,Marie Dorin,FRA
+XXI ,2010,Biathlon,"4 × 7.5 kilometres Relay, Men",26 February 2010,76,19,Norway,NOR,Austria,AUT,Russian Federation,RUS
+XXI ,2010,Biathlon,"20 kilometres, Men",18 February 2010,88,32,Emil Hegle Svendsen,NOR,Siarhei Novikau,BLR,—,
+XXI ,2010,Biathlon,"15 kilometres Mass Start, Men",21 February 2010,30,16,Yevgeny Ustyugov,RUS,Martin Fourcade,FRA,Pavol Hurajt,SVK
+XXI ,2010,Biathlon,"12.5 kilometres Pursuit, Men",16 February 2010,60,24,Björn Ferry,SWE,Christoph Sumann,AUT,Vincent Jay,FRA
+XXI ,2010,Freestyle Skiing,"Moguls, Men",14 February 2010,30,10,Alex Bilodeau,CAN,Dale Begg-Smith,AUS,Bryon Wilson,USA
+XXII ,2014,Alpine Skiing,"Super G, Men",16 February 2014,63,28,Kjetil Jansrud,NOR,Andrew Weibrecht,USA,Jan Hudec,CAN
+XXII ,2014,Alpine Skiing,"Giant Slalom, Men",19 February 2014,107,60,Ted Ligety,USA,Steve Missillier,FRA,Alexis Pinturault,FRA
+XXII ,2014,Figure Skating,"Singles, Men",13 – 14 February 2014,29,20,Yuzuru Hanyu,JPN,Patrick Chan,CAN,Denis Ten,KAZ
+XXII ,2014,Alpine Skiing,"Downhill, Men", 9 February 2014,49,23,Matthias Mayer,AUT,Christof Innerhofer,ITA,Kjetil Jansrud,NOR
+XXII ,2014,Alpine Skiing,"Slalom, Men",22 February 2014,115,61,Mario Matt,AUT,Marcel Hirscher,AUT,Henrik Kristoffersen,NOR
+XXII ,2014,Figure Skating,"Singles, Women",19 – 20 February 2014,30,20,Adelina Sotnikova,RUS,Yu-Na Kim,KOR,Carolina Kostner,ITA
+XXII ,2014,Alpine Skiing,"Downhill, Women",12 February 2014,41,22,Tina Maze,SLO,—,,Lara Gut,SUI
+XXII ,2014,Snowboarding,"Halfpipe, Men",11 February 2014,39,16,Iouri Podladtchikov,SUI,Ayumu Hirano,JPN,Taku Hiraoka,JPN
+XXII ,2014,Snowboarding,"Slopestyle, Men",6 –  8 February 2014,29,13,Sage Kotsenburg,USA,Ståle Sandbech,NOR,Mark McMorris,CAN
+XXII ,2014,Snowboarding,"Parallel Slalom, Men",22 February 2014,32,12,Vic Wild,RUS,Žan Košir,SLO,Benjamin Karl,AUT
+XXII ,2014,Snowboarding,"Parallel Giant Slalom, Men",19 February 2014,32,12,Vic Wild,RUS,Nevin Galmarini,SUI,Žan Košir,SLO
+XXII ,2014,Luge,"Team Relay, Mixed",13 February 2014,48,12,Germany,GER,Russian Federation,RUS,Latvia,LAT
+XXII ,2014,Luge,"Singles, Women",10 – 11 February 2014,31,16,Natalie Geisenberger,GER,Tatjana Hüfner,GER,Erin Hamlin,USA
+XXII ,2014,Luge,"Doubles, Open",12 February 2014,38,12,Germany 1,GER,Austria 1,AUT,Latvia 1,LAT
+XXII ,2014,Luge,"Singles, Men",8 –  9 February 2014,39,22,Felix Loch,GER,Albert Demchenko,RUS,Armin Zöggeler,ITA
+XXII ,2014,Cross Country Skiing,"Team Sprint, Classical, Women",19 February 2014,34,17,Norway,NOR,Finland,FIN,Sweden,SWE
+XXII ,2014,Cross Country Skiing,"4 × 5 kilometres Relay, Women",15 February 2014,56,14,Sweden,SWE,Finland,FIN,Germany,GER
+XXII ,2014,Cross Country Skiing,"15 kilometres Skiathlon, Women", 8 February 2014,61,24,Marit Bjørgen,NOR,Charlotte Kalla,SWE,Heidi Weng,NOR
+XXII ,2014,Cross Country Skiing,"30 kilometres Mass Start, Freestyle, Women",22 February 2014,57,24,Marit Bjørgen,NOR,Therese Johaug,NOR,Kristin Størmer Steira,NOR
+XXII ,2014,Cross Country Skiing,"10 kilometres, Classical, Women",13 February 2014,75,38,Justyna Kowalczyk,POL,Charlotte Kalla,SWE,Therese Johaug,NOR
+XXII ,2014,Cross Country Skiing,"Sprint, Freestyle, Women",11 February 2014,67,31,Maiken Caspersen Falla,NOR,Ingvild Flugstad Østberg,NOR,Vesna Fabjan,SLO
+XXII ,2014,Cross Country Skiing,"Team Sprint, Classical, Men",19 February 2014,44,22,Finland,FIN,Russian Federation,RUS,Sweden,SWE
+XXII ,2014,Cross Country Skiing,"4 × 10 kilometres Relay, Men",16 February 2014,64,16,Sweden,SWE,Russian Federation,RUS,France,FRA
+XXII ,2014,Cross Country Skiing,"30 kilometres Skiathlon, Men", 9 February 2014,68,30,Dario Cologna,SUI,Marcus Hellner,SWE,Martin Johnsrud Sundby,NOR
+XXII ,2014,Alpine Skiing,"Super Combined, Women",10 February 2014,39,21,Maria Höfl-Riesch,GER,Nicole Hosp,AUT,Julia Mancuso,USA
+XXII ,2014,Cross Country Skiing,"15 kilometres, Classical, Men",14 February 2014,91,45,Dario Cologna,SUI,Johan Olsson,SWE,Daniel Rickardsson,SWE
+XXII ,2014,Snowboarding,"Boardercross, Men",18 February 2014,38,15,Pierre Vaultier,FRA,Nikolay Olyunin,RUS,Alex Deibold,USA
+XXII ,2014,Snowboarding,"Parallel Giant Slalom, Women",19 February 2014,32,15,Patrizia Kummer,SUI,Tomoka Takeuchi,JPN,Alyona Zavarzina,RUS
+XXII ,2014,Snowboarding,"Parallel Slalom, Women",22 February 2014,32,15,Julia Dujmovits,AUT,Anke Karstens,GER,Amelie Kober,GER
+XXII ,2014,Snowboarding,"Slopestyle, Women",6 –  9 February 2014,23,11,Jamie Anderson,USA,Enni Rukajärvi,FIN,Jenny Jones,GBR
+XXII ,2014,Alpine Skiing,"Super Combined, Men",14 February 2014,50,24,Sandro Viletta,SUI,Ivica Kostelić,CRO,Christof Innerhofer,ITA
+XXII ,2014,Speed Skating,"Team Pursuit (6 laps), Women",21 – 22 February 2014,30,8,Netherlands,NED,Poland,POL,Russian Federation,RUS
+XXII ,2014,Speed Skating,"5,000 metres, Women",19 February 2014,16,9,Martina Sáblíková,CZE,Ireen Wüst,NED,Carien Kleibeuker,NED
+XXII ,2014,Speed Skating,"3,000 metres, Women", 9 February 2014,28,13,Ireen Wüst,NED,Martina Sáblíková,CZE,Olga Graf,RUS
+XXII ,2014,Speed Skating,"1,500 metres, Women",16 February 2014,36,14,Jorien ter Mors,NED,Ireen Wüst,NED,Lotte van Beek,NED
+XXII ,2014,Speed Skating,"1,000 metres, Women",13 February 2014,36,13,Zhang Hong,CHN,Ireen Wüst,NED,Margot Boer,NED
+XXII ,2014,Speed Skating,"500 metres, Women",11 February 2014,35,12,Lee Sang-Hwa,KOR,Olga Fatkulina,RUS,Margot Boer,NED
+XXII ,2014,Speed Skating,"Team Pursuit (8 laps), Men",21 – 22 February 2014,27,8,Netherlands,NED,Republic of Korea,KOR,Poland,POL
+XXII ,2014,Speed Skating,"10,000 metres, Men",18 February 2014,14,9,Jorrit Bergsma,NED,Sven Kramer,NED,Bob de Jong,NED
+XXII ,2014,Cross Country Skiing,"Sprint, Freestyle, Men",11 February 2014,86,40,Ola Vigen Hattestad,NOR,Teodor Peterson,SWE,Emil Jönsson,SWE
+XXII ,2014,Speed Skating,"5,000 metres, Men", 8 February 2014,26,14,Sven Kramer,NED,Jan Blokhuijsen,NED,Jorrit Bergsma,NED
+XXII ,2014,Speed Skating,"1,000 metres, Men",12 February 2014,40,19,Stefan Groothuis,NED,Denny Morrison,CAN,Michel Mulder,NED
+XXII ,2014,Speed Skating,"500 metres, Men",10 February 2014,40,16,Michel Mulder,NED,Jan Smeekens,NED,Ronald Mulder,NED
+XXII ,2014,Nordic Combined,"Team, Men",20 February 2014,36,9,Norway,NOR,Germany,GER,Austria,AUT
+XXII ,2014,Nordic Combined,"Large Hill / 10 km, Individual, Men",18 February 2014,46,15,Jørgen Graabak,NOR,Magnus Moan,NOR,Fabian Rießle,GER
+XXII ,2014,Nordic Combined,"Normal Hill / 10 km, Individual, Men",12 February 2014,46,15,Eric Frenzel,GER,Akito Watabe,JPN,Magnus Krog,NOR
+XXII ,2014,Curling,"Curling, Women",10 – 20 February 2014,43,10,Canada,CAN,Sweden,SWE,Great Britain,GBR
+XXII ,2014,Curling,"Curling, Men",10 – 21 February 2014,44,10,Canada,CAN,Great Britain,GBR,Sweden,SWE
+XXII ,2014,Snowboarding,"Boardercross, Women",16 February 2014,24,14,Eva Samková,CZE,Dominique Maltais,CAN,Chloé Trespeuch,FRA
+XXII ,2014,Snowboarding,"Halfpipe, Women",12 February 2014,27,13,Kaitlyn Farrington,USA,Torah Bright,AUS,Kelly Clark,USA
+XXII ,2014,Speed Skating,"1,500 metres, Men",15 February 2014,40,17,Zbigniew Bródka,POL,Koen Verweij,NED,Denny Morrison,CAN
+XXII ,2014,Ski Jumping,"Normal Hill, Individual, Women",11 February 2014,30,12,Carina Vogt,GER,Daniela Iraschko-Stolz,AUT,Coline Mattel,FRA
+XXII ,2014,Cross Country Skiing,"50 kilometres Mass Start, Freestyle, Men",23 February 2014,64,26,Aleksandr Legkov,RUS,Maksim Vylegzhanin,RUS,Ilya Chernousov,RUS
+XXII ,2014,Ski Jumping,"Large Hill, Individual, Men",14 – 15 February 2014,61,20,Kamil Stoch,POL,Noriaki Kasai,JPN,Peter Prevc,SLO
+XXII ,2014,Ski Jumping,"Large Hill, Team, Men",17 February 2014,48,12,Germany,GER,Austria,AUT,Japan,JPN
+XXII ,2014,Biathlon,"4 × 7.5 kilometres Relay, Men",22 February 2014,76,19,—,,Germany,GER,Austria,AUT
+XXII ,2014,Biathlon,"20 kilometres, Men",13 February 2014,89,31,Martin Fourcade,FRA,Erik Lesser,GER,Yevgeny Garanichev,RUS
+XXII ,2014,Biathlon,"15 kilometres Mass Start, Men",18 February 2014,30,13,Emil Hegle Svendsen,NOR,Martin Fourcade,FRA,Ondřej Moravec,CZE
+XXII ,2014,Biathlon,"12.5 kilometres Pursuit, Men",10 February 2014,59,21,Martin Fourcade,FRA,Ondřej Moravec,CZE,Jean-Guillaume Béatrix,FRA
+XXII ,2014,Biathlon,"10 kilometres Sprint, Men", 8 February 2014,87,31,Ole Einar Bjørndalen,NOR,Dominik Landertinger,AUT,Jaroslav Soukup,CZE
+XXII ,2014,Short Track Speed Skating,"3,000 metres Relay, Women",10 – 18 February 2014,34,8,Republic of Korea,KOR,Canada,CAN,Italy,ITA
+XXII ,2014,Short Track Speed Skating,"1,500 metres, Women",15 February 2014,36,19,Zhou Yang,CHN,Sim Seok-Hui,KOR,Arianna Fontana,ITA
+XXII ,2014,Short Track Speed Skating,"1,000 metres, Women",18 – 21 February 2014,32,18,Park Seung-Hui,KOR,Fan Kexin,CHN,Sim Seok-Hui,KOR
+XXII ,2014,Biathlon,"10 kilometres Pursuit, Women",11 February 2014,57,23,Daria Domrachava,BLR,Tora Berger,NOR,Teja Gregorin,SLO
+XXII ,2014,Short Track Speed Skating,"500 metres, Women",10 – 13 February 2014,32,15,Li Jianrou,CHN,Arianna Fontana,ITA,Park Seung-Hui,KOR
+XXII ,2014,Short Track Speed Skating,"1,500 metres, Men",10 February 2014,36,18,Charles Hamelin,CAN,Han Tianyu,CHN,Viktor An,RUS
+XXII ,2014,Short Track Speed Skating,"1,000 metres, Men",13 – 15 February 2014,32,14,Viktor An,RUS,Vladimir Grigoryev,RUS,Sjinkie Knegt,NED
+XXII ,2014,Short Track Speed Skating,"500 metres, Men",18 – 21 February 2014,32,16,Viktor An,RUS,Wu Dajing,CHN,Charle Cournoyer,CAN
+XXII ,2014,Figure Skating,"Team, Mixed",6 –  9 February 2014,74,10,Russian Federation,RUS,Canada,CAN,United States,USA
+XXII ,2014,Figure Skating,"Ice Dancing, Mixed",16 – 17 February 2014,48,15,United States 1,USA,Canada 1,CAN,Russian Federation 1,RUS
+XXII ,2014,Figure Skating,"Pairs, Mixed",11 – 12 February 2014,40,12,Russian Federation 1,RUS,Russian Federation 2,RUS,Germany 1,GER
+XXII ,2014,Alpine Skiing,"Slalom, Women",21 February 2014,85,48,Mikaela Shiffrin,USA,Marlies Schild,AUT,Kathrin Zettel,AUT
+XXII ,2014,Alpine Skiing,"Giant Slalom, Women",18 February 2014,89,48,Tina Maze,SLO,Anna Fenninger,AUT,Viktoria Rebensburg,GER
+XXII ,2014,Alpine Skiing,"Super G, Women",15 February 2014,49,24,Anna Fenninger,AUT,Maria Höfl-Riesch,GER,Nicole Hosp,AUT
+XXII ,2014,Short Track Speed Skating,"5,000 metres Relay, Men",13 – 21 February 2014,35,8,Russian Federation,RUS,United States,USA,People's Republic of China,CHN
+XXII ,2014,Biathlon,"12.5 kilometres Mass Start, Women",17 February 2014,30,16,Daria Domrachava,BLR,Gabriela Soukalová,CZE,Tiril Eckhoff,NOR
+XXII ,2014,Biathlon,"7.5 kilometres Sprint, Women", 9 February 2014,84,33,Anastasia Kuzmina,SVK,Olga Vilukhina,RUS,Vita Semerenko,UKR
+XXII ,2014,Biathlon,"4 × 6 kilometres Relay, Women",21 February 2014,68,17,Ukraine,UKR,—,,Norway,NOR
+XXII ,2014,Ski Jumping,"Normal Hill, Individual, Men",8 –  9 February 2014,61,20,Kamil Stoch,POL,Peter Prevc,SLO,Anders Bardal,NOR
+XXII ,2014,Ice Hockey,"Ice Hockey, Women",8 – 20 February 2014,158,8,Canada,CAN,United States,USA,Switzerland,SUI
+XXII ,2014,Ice Hockey,"Ice Hockey, Men",12 – 23 February 2014,286,12,Canada,CAN,Sweden,SWE,Finland,FIN
+XXII ,2014,Bobsleigh,"Two, Women",18 – 19 February 2014,39,13,Canada 1,CAN,United States 1,USA,United States 2,USA
+XXII ,2014,Bobsleigh,"Four, Men",22 – 23 February 2014,124,19,Latvia 1,LAT,United States 1,USA,Great Britain 1,GBR
+XXII ,2014,Bobsleigh,"Two, Men",16 – 17 February 2014,60,20,Switzerland 1,SUI,United States 1,USA,Latvia 1,LAT
+XXII ,2014,Biathlon,"15 kilometres, Women",14 February 2014,82,32,Daria Domrachava,BLR,Selina Gasparin,SUI,Nadzeya Skardsina,BLR
+XXII ,2014,Skeleton,"Skeleton, Men",14 – 15 February 2014,27,16,Aleksandr Tretyakov,RUS,Martins Dukurs,LAT,Matt Antoine,USA
+XXII ,2014,Freestyle Skiing,"Slopestyle, Women",11 February 2014,22,15,Dara Howell,CAN,Devin Logan,USA,Kim Lamarre,CAN
+XXII ,2014,Skeleton,"Skeleton, Women",13 – 14 February 2014,20,12,Lizzy Yarnold,GBR,Noelle Pikus-Pace,USA,Yelena Nikitina,RUS
+XXII ,2014,Freestyle Skiing,"Ski Cross, Women",21 February 2014,28,12,Marielle Thompson,CAN,Kelsey Serwa,CAN,Anna Holmlund,SWE
+XXII ,2014,Freestyle Skiing,"Aerials, Women",14 February 2014,22,9,Ala Tsuper,BLR,Xu Mengtao,CHN,Lydia Lassila,AUS
+XXII ,2014,Freestyle Skiing,"Moguls, Women",6 –  8 February 2014,28,13,Justine Dufour-Lapointe,CAN,Chloé Dufour-Lapointe,CAN,Hannah Kearney,USA
+XXII ,2014,Freestyle Skiing,"Slopestyle, Men",13 February 2014,32,15,Joss Christensen,USA,Gus Kenworthy,USA,Nick Goepper,USA
+XXII ,2014,Freestyle Skiing,"Halfpipe, Men",18 February 2014,28,13,David Wise,USA,Mike Riddle,CAN,Kévin Rolland,FRA
+XXII ,2014,Freestyle Skiing,"Ski Cross, Men",20 February 2014,31,13,Jean-Frédéric Chapuis,FRA,Arnaud Bovolenta,FRA,Jonathan Midol,FRA
+XXII ,2014,Freestyle Skiing,"Aerials, Men",17 February 2014,21,9,Anton Kushnir,BLR,David Morris,AUS,Jia Zongyang,CHN
+XXII ,2014,Freestyle Skiing,"Moguls, Men",10 February 2014,29,11,Alex Bilodeau,CAN,Mikaël Kingsbury,CAN,Aleksandr Smyshlyayev,RUS
+XXII ,2014,Freestyle Skiing,"Halfpipe, Women",20 February 2014,23,13,Maddie Bowman,USA,Marie Martinod,FRA,Ayana Onozuka,JPN
+XXII ,2014,Biathlon,"2 × 6 kilometres and 2 × 7.5 kilometres Relay, Mixed",19 February 2014,64,16,Norway,NOR,Czech Republic,CZE,Italy,ITA
+XXIII ,2018,Alpine Skiing,"Alpine Combined, Men",13 February 2018,65,31,Marcel Hirscher,AUT,Alexis Pinturault,FRA,Victor Muffat-Jeandet,FRA
+XXIII ,2018,Alpine Skiing,"Slalom, Men",22 February 2018,106,65,André Myhrer,SWE,Ramon Zenhäusern,SUI,Michael Matt,AUT
+XXIII ,2018,Alpine Skiing,"Downhill, Women",21 February 2018,39,20,Sofia Goggia,ITA,Ragnhild Mowinckel,NOR,Lindsey Vonn,USA
+XXIII ,2018,Alpine Skiing,"Super G, Men",16 February 2018,61,29,Matthias Mayer,AUT,Beat Feuz,SUI,Kjetil Jansrud,NOR
+XXIII ,2018,Alpine Skiing,"Downhill, Men",15 February 2018,55,26,Aksel Lund Svindal,NOR,Kjetil Jansrud,NOR,Beat Feuz,SUI
+XXIII ,2018,Alpine Skiing,"Giant Slalom, Men",18 February 2018,109,68,Marcel Hirscher,AUT,Henrik Kristoffersen,NOR,Alexis Pinturault,FRA
+XXIII ,2018,Alpine Skiing,"Super G, Women",17 February 2018,44,23,Ester Ledecká,CZE,Anna Veith,AUT,Tina Weirather,LIE
+XXIII ,2018,Alpine Skiing,"Alpine Combined, Women",22 February 2018,28,16,Michelle Gisin,SUI,Mikaela Shiffrin,USA,Wendy Holdener,SUI
+XXIII ,2018,Alpine Skiing,"Slalom, Women",16 February 2018,78,46,Frida Hansdotter,SWE,Wendy Holdener,SUI,Katharina Gallhuber,AUT
+XXIII ,2018,Snowboarding,"Parallel Giant Slalom, Women",22 – 24 February 2018,31,14,Ester Ledecká,CZE,Selina Jörg,GER,Ramona Hofmeister,GER
+XXIII ,2018,Snowboarding,"Big Air, Men",21 – 24 February 2018,34,15,Sébastien Toutant,CAN,Kyle Mack,USA,Billy Morgan,GBR
+XXIII ,2018,Snowboarding,"Boardercross, Men",15 February 2018,39,16,Pierre Vaultier,FRA,Jarryd Hughes,AUS,Regino Hernández,ESP
+XXIII ,2018,Snowboarding,"Halfpipe, Men",13 – 14 February 2018,29,13,Shaun White,USA,Ayumu Hirano,JPN,Scotty James,AUS
+XXIII ,2018,Snowboarding,"Slopestyle, Men",10 – 11 February 2018,35,14,Red Gerard,USA,Max Parrot,CAN,Mark McMorris,CAN
+XXIII ,2018,Snowboarding,"Parallel Giant Slalom, Men",22 – 24 February 2018,32,13,Nevin Galmarini,SUI,Lee Sang-Ho,KOR,Žan Košir,SLO
+XXIII ,2018,Luge,"Team Relay, Mixed",15 February 2018,52,13,Germany,GER,Canada,CAN,Austria,AUT
+XXIII ,2018,Luge,"Singles, Women",12 – 13 February 2018,30,16,Natalie Geisenberger,GER,Dajana Eitberger,GER,Alex Gough,CAN
+XXIII ,2018,Luge,"Doubles, Open",14 February 2018,40,13,Germany 1,GER,Austria 1,AUT,Germany 2,GER
+XXIII ,2018,Luge,"Singles, Men",10 – 11 February 2018,40,21,David Gleirscher,AUT,Chris Mazdzer,USA,Johannes Ludwig,GER
+XXIII ,2018,Cross Country Skiing,"Team Sprint, Freestyle, Women",21 February 2018,42,21,United States,USA,Sweden,SWE,Norway,NOR
+XXIII ,2018,Cross Country Skiing,"4 × 5 kilometres Relay, Women",17 February 2018,56,14,Norway,NOR,Sweden,SWE,Olympic Athletes from Russia,ROC
+XXIII ,2018,Cross Country Skiing,"15 kilometres Skiathlon, Women",10 February 2018,61,23,Charlotte Kalla,SWE,Marit Bjørgen,NOR,Krista Pärmäkoski,FIN
+XXIII ,2018,Cross Country Skiing,"30 kilometres Mass Start, Classical, Women",25 February 2018,47,20,Marit Bjørgen,NOR,Krista Pärmäkoski,FIN,Stina Nilsson,SWE
+XXIII ,2018,Cross Country Skiing,"10 kilometres, Freestyle, Women",15 February 2018,90,44,Ragnhild Haga,NOR,Charlotte Kalla,SWE,Krista Pärmäkoski,FIN
+XXIII ,2018,Cross Country Skiing,"Sprint, Classical, Women",13 February 2018,68,28,Stina Nilsson,SWE,Maiken Caspersen Falla,NOR,Yuliya Belorukova,ROC
+XXIII ,2018,Cross Country Skiing,"Team Sprint, Freestyle, Men",21 February 2018,56,28,Norway,NOR,Olympic Athletes from Russia,ROC,France,FRA
+XXIII ,2018,Cross Country Skiing,"4 × 10 kilometres Relay, Men",18 February 2018,56,14,Norway,NOR,Olympic Athletes from Russia,ROC,France,FRA
+XXIII ,2018,Cross Country Skiing,"30 kilometres Skiathlon, Men",11 February 2018,68,30,Simen Hegstad Krüger,NOR,Martin Johnsrud Sundby,NOR,Hans Christer Holund,NOR
+XXIII ,2018,Snowboarding,"Slopestyle, Women",11 – 12 February 2018,26,15,Jamie Anderson,USA,Laurie Blouin,CAN,Enni Rukajärvi,FIN
+XXIII ,2018,Snowboarding,"Halfpipe, Women",12 – 13 February 2018,24,10,Chloe Kim,USA,Liu Jiayu,CHN,Arielle Gold,USA
+XXIII ,2018,Snowboarding,"Boardercross, Women",16 February 2018,24,12,Michela Moioli,ITA,Julia Pereira de Sousa Mabileau,FRA,Eva Samková,CZE
+XXIII ,2018,Snowboarding,"Big Air, Women",19 – 23 February 2018,26,14,Anna Gasser,AUT,Jamie Anderson,USA,Zoi Sadowski-Synnott,NZL
+XXIII ,2018,Speed Skating,"Team Pursuit (6 laps), Women",19 – 21 February 2018,30,8,Japan,JPN,Netherlands,NED,United States,USA
+XXIII ,2018,Speed Skating,"Mass Start, Women",24 February 2018,24,15,Nana Takagi,JPN,Kim Bo-Reum,KOR,Irene Schouten,NED
+XXIII ,2018,Speed Skating,"5,000 metres, Women",16 February 2018,12,9,Esmee Visser,NED,Martina Sáblíková,CZE,Nataliya Voronina,ROC
+XXIII ,2018,Speed Skating,"3,000 metres, Women",10 February 2018,24,13,Carlijn Achtereekte,NED,Ireen Wüst,NED,Antoinette de Jong,NED
+XXIII ,2018,Speed Skating,"1,500 metres, Women",12 February 2018,27,14,Ireen Wüst,NED,Miho Takagi,JPN,Marrit Leenstra,NED
+XXIII ,2018,Speed Skating,"1,000 metres, Women",14 February 2018,31,15,Jorien ter Mors,NED,Nao Kodaira,JPN,Miho Takagi,JPN
+XXIII ,2018,Speed Skating,"500 metres, Women",18 February 2018,31,18,Nao Kodaira,JPN,Lee Sang-Hwa,KOR,Karolína Erbanová,CZE
+XXIII ,2018,Speed Skating,"Team Pursuit (8 laps), Men",18 – 21 February 2018,29,8,Norway,NOR,Republic of Korea,KOR,Netherlands,NED
+XXIII ,2018,Speed Skating,"Mass Start, Men",24 February 2018,24,18,Lee Seung-Hun,KOR,Bart Swings,BEL,Koen Verweij,NED
+XXIII ,2018,Cross Country Skiing,"50 kilometres Mass Start, Classical, Men",24 February 2018,69,31,Iivo Niskanen,FIN,Aleksandr Bolshunov,ROC,Andrey Larkov,ROC
+XXIII ,2018,Speed Skating,"10,000 metres, Men",15 February 2018,12,8,Ted-Jan Bloemen,CAN,Jorrit Bergsma,NED,Nicola Tumolero,ITA
+XXIII ,2018,Speed Skating,"1,500 metres, Men",13 February 2018,35,19,Kjeld Nuis,NED,Patrick Roest,NED,Kim Min-Seok,KOR
+XXIII ,2018,Speed Skating,"1,000 metres, Men",23 February 2018,36,19,Kjeld Nuis,NED,Håvard Holmefjord Lorentzen,NOR,Kim Tae-Yun,KOR
+XXIII ,2018,Speed Skating,"500 metres, Men",19 February 2018,36,17,Håvard Holmefjord Lorentzen,NOR,Cha Min-Gyu,KOR,Gao Tingyu,CHN
+XXIII ,2018,Nordic Combined,"Team, Men",22 February 2018,40,10,Germany,GER,Norway,NOR,Austria,AUT
+XXIII ,2018,Nordic Combined,"Large Hill / 10 km, Individual, Men",20 February 2018,48,16,Johannes Rydzek,GER,Fabian Rießle,GER,Eric Frenzel,GER
+XXIII ,2018,Nordic Combined,"Normal Hill / 10 km, Individual, Men",14 February 2018,48,16,Eric Frenzel,GER,Akito Watabe,JPN,Lukas Klapfer,AUT
+XXIII ,2018,Curling,"Doubles, Mixed",8 – 13 February 2018,16,8,Canada,CAN,Switzerland,SUI,Norway,NOR
+XXIII ,2018,Curling,"Curling, Women",14 – 25 February 2018,43,10,Sweden,SWE,Republic of Korea,KOR,Japan,JPN
+XXIII ,2018,Curling,"Curling, Men",14 – 24 February 2018,44,10,United States,USA,Sweden,SWE,Switzerland,SUI
+XXIII ,2018,Speed Skating,"5,000 metres, Men",11 February 2018,22,14,Sven Kramer,NED,Ted-Jan Bloemen,CAN,Sverre Lunde Pedersen,NOR
+XXIII ,2018,Cross Country Skiing,"15 kilometres, Freestyle, Men",16 February 2018,119,62,Dario Cologna,SUI,Simen Hegstad Krüger,NOR,Denis Spitsov,ROC
+XXIII ,2018,Cross Country Skiing,"Sprint, Classical, Men",13 February 2018,80,39,Johannes Høsflot Klæbo,NOR,Federico Pellegrino,ITA,Aleksandr Bolshunov,ROC
+XXIII ,2018,Ski Jumping,"Large Hill, Team, Men",19 February 2018,48,12,Norway,NOR,Germany,GER,Poland,POL
+XXIII ,2018,Biathlon,"7.5 kilometres Sprint, Women",10 February 2018,87,27,Laura Dahlmeier,GER,Marte Olsbu,NOR,Veronika Vítková,CZE
+XXIII ,2018,Biathlon,"4 × 7.5 kilometres Relay, Men",23 February 2018,72,18,Sweden,SWE,Norway,NOR,Germany,GER
+XXIII ,2018,Biathlon,"20 kilometres, Men",15 February 2018,86,26,Johannes Thingnes Bø,NOR,Jakov Fak,SLO,Dominik Landertinger,AUT
+XXIII ,2018,Biathlon,"15 kilometres Mass Start, Men",18 February 2018,30,13,Martin Fourcade,FRA,Simon Schempp,GER,Emil Hegle Svendsen,NOR
+XXIII ,2018,Biathlon,"12.5 kilometres Pursuit, Men",12 February 2018,60,25,Martin Fourcade,FRA,Sebastian Samuelsson,SWE,Benedikt Doll,GER
+XXIII ,2018,Biathlon,"10 kilometres Sprint, Men",11 February 2018,87,26,Arnd Peiffer,GER,Michal Krčmář,CZE,Dominik Windisch,ITA
+XXIII ,2018,Short Track Speed Skating,"3,000 metres Relay, Women",10 – 20 February 2018,37,8,Republic of Korea,KOR,Italy,ITA,Netherlands,NED
+XXIII ,2018,Short Track Speed Skating,"1,500 metres, Women",17 February 2018,36,17,Choi Min-Jeong,KOR,Li Jinyu,CHN,Kim Boutin,CAN
+XXIII ,2018,Short Track Speed Skating,"1,000 metres, Women",20 – 22 February 2018,32,15,Suzanne Schulting,NED,Kim Boutin,CAN,Arianna Fontana,ITA
+XXIII ,2018,Biathlon,"10 kilometres Pursuit, Women",12 February 2018,58,24,Laura Dahlmeier,GER,Anastasia Kuzmina,SVK,Anaïs Bescond,FRA
+XXIII ,2018,Short Track Speed Skating,"500 metres, Women",10 – 13 February 2018,32,14,Arianna Fontana,ITA,Yara van Kerkhof,NED,Kim Boutin,CAN
+XXIII ,2018,Short Track Speed Skating,"1,500 metres, Men",10 February 2018,37,18,Im Hyo-Jun,KOR,Sjinkie Knegt,NED,Semyon Yelistratov,ROC
+XXIII ,2018,Short Track Speed Skating,"1,000 metres, Men",13 – 17 February 2018,32,14,Samuel Girard,CAN,John-Henry Krueger,USA,Seo I-Ra,KOR
+XXIII ,2018,Short Track Speed Skating,"500 metres, Men",20 – 22 February 2018,33,16,Wu Dajing,CHN,Hwang Dae-Heon,KOR,Im Hyo-Jun,KOR
+XXIII ,2018,Figure Skating,"Team, Mixed",9 – 12 February 2018,71,10,Canada,CAN,Olympic Athletes from Russia,ROC,United States,USA
+XXIII ,2018,Figure Skating,"Ice Dancing, Mixed",19 – 20 February 2018,48,17,Canada 1,CAN,France 1,FRA,United States 2,USA
+XXIII ,2018,Figure Skating,"Pairs, Mixed",14 – 15 February 2018,44,14,Germany 1,GER,People's Republic of China 1,CHN,Canada 1,CAN
+XXIII ,2018,Figure Skating,"Singles, Women",21 – 23 February 2018,30,20,Alina Zagitova,ROC,Yevgeniya Medvedeva,ROC,Kaetlyn Osmond,CAN
+XXIII ,2018,Figure Skating,"Singles, Men",16 – 17 February 2018,30,21,Yuzuru Hanyu,JPN,Shoma Uno,JPN,Javier Fernández,ESP
+XXIII ,2018,Alpine Skiing,"Team, Mixed",24 February 2018,65,16,Switzerland,SUI,Austria,AUT,Norway,NOR
+XXIII ,2018,Short Track Speed Skating,"5,000 metres Relay, Men",13 – 22 February 2018,34,8,Hungary,HUN,People's Republic of China,CHN,Canada,CAN
+XXIII ,2018,Alpine Skiing,"Giant Slalom, Women",15 February 2018,79,48,Mikaela Shiffrin,USA,Ragnhild Mowinckel,NOR,Federica Brignone,ITA
+XXIII ,2018,Biathlon,"12.5 kilometres Mass Start, Women",17 February 2018,30,13,Anastasia Kuzmina,SVK,Daria Domrachava,BLR,Tiril Eckhoff,NOR
+XXIII ,2018,Biathlon,"4 × 6 kilometres Relay, Women",22 February 2018,72,18,Belarus,BLR,Sweden,SWE,France,FRA
+XXIII ,2018,Ski Jumping,"Large Hill, Individual, Men",16 – 17 February 2018,57,19,Kamil Stoch,POL,Andreas Wellinger,GER,Robert Johansson,NOR
+XXIII ,2018,Ski Jumping,"Normal Hill, Individual, Men",8 – 10 February 2018,57,19,Andreas Wellinger,GER,Johann André Forfang,NOR,Robert Johansson,NOR
+XXIII ,2018,Ice Hockey,"Ice Hockey, Women",10 – 22 February 2018,182,8,United States,USA,Canada,CAN,Finland,FIN
+XXIII ,2018,Ice Hockey,"Ice Hockey, Men",14 – 25 February 2018,282,12,Olympic Athletes from Russia,ROC,Germany,GER,Canada,CAN
+XXIII ,2018,Bobsleigh,"Two, Women",20 – 21 February 2018,41,12,Germany 1,GER,United States 1,USA,Canada 1,CAN
+XXIII ,2018,Bobsleigh,"Four, Open",24 – 25 February 2018,116,18,Germany 2,GER,Germany 3,GER,—,
+XXIII ,2018,Bobsleigh,"Two, Men",18 – 19 February 2018,61,18,Canada 1,CAN,—,,Latvia 2,LAT
+XXIII ,2018,Skeleton,"Skeleton, Women",16 – 17 February 2018,20,14,Lizzy Yarnold,GBR,Jacqueline Lölling,GER,Laura Deas,GBR
+XXIII ,2018,Skeleton,"Skeleton, Men",15 – 16 February 2018,30,20,Yun Seong-Bin,KOR,Nikita Tregubov,ROC,Dom Parsons,GBR
+XXIII ,2018,Biathlon,"15 kilometres, Women",15 February 2018,87,27,Hanna Öberg,SWE,Anastasia Kuzmina,SVK,Laura Dahlmeier,GER
+XXIII ,2018,Freestyle Skiing,"Slopestyle, Women",17 February 2018,23,12,Sarah Höfflin,SUI,Mathilde Gremaud,SUI,Izzy Atkin,GBR
+XXIII ,2018,Freestyle Skiing,"Ski Cross, Women",23 February 2018,23,13,Kelsey Serwa,CAN,Britt Phelan,CAN,Fanny Smith,SUI
+XXIII ,2018,Freestyle Skiing,"Aerials, Women",15 – 16 February 2018,25,9,Hanna Huskova,BLR,Zhang Xin,CHN,Kong Fanyu,CHN
+XXIII ,2018,Freestyle Skiing,"Moguls, Women",9 – 11 February 2018,30,14,Perrine Laffont,FRA,Justine Dufour-Lapointe,CAN,Yuliya Galysheva,KAZ
+XXIII ,2018,Freestyle Skiing,"Slopestyle, Men",18 February 2018,30,12,Øystein Bråten,NOR,Nick Goepper,USA,Alex Beaulieu-Marchand,CAN
+XXIII ,2018,Freestyle Skiing,"Halfpipe, Men",20 – 22 February 2018,27,11,David Wise,USA,Alex Ferreira,USA,Nico Porteous,NZL
+XXIII ,2018,Freestyle Skiing,"Ski Cross, Men",21 February 2018,31,11,Brady Leman,CAN,Marc Bischofberger,SUI,Sergey Ridzik,ROC
+XXIII ,2018,Freestyle Skiing,"Aerials, Men",17 – 18 February 2018,25,11,Oleksandr Abramenko,UKR,Jia Zongyang,CHN,Ilya Burov,ROC
+XXIII ,2018,Freestyle Skiing,"Moguls, Men",9 – 12 February 2018,29,11,Mikaël Kingsbury,CAN,Matt Graham,AUS,Daichi Hara,JPN
+XXIII ,2018,Biathlon,"2 × 6 kilometres and 2 × 7.5 kilometres Relay, Mixed",20 February 2018,80,20,France,FRA,Norway,NOR,Italy,ITA
+XXIII ,2018,Freestyle Skiing,"Halfpipe, Women",19 – 20 February 2018,24,13,Cassie Sharpe,CAN,Marie Martinod,FRA,Brita Sigourney,USA
+XXIII ,2018,Ski Jumping,"Normal Hill, Individual, Women",12 February 2018,35,14,Maren Lundby,NOR,Katharina Althaus,GER,Sara Takanashi,JPN

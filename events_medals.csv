@@ -1,0 +1,411 @@
+event_number,event_year,country,gold,silver,bronze,total
+III ,1932,United States,6,4,2,12
+III ,1932,Norway,3,4,3,10
+III ,1932,Sweden,1,2,0,3
+III ,1932,Canada,1,1,5,7
+III ,1932,Finland,1,1,1,3
+III ,1932,Austria,1,1,0,2
+III ,1932,France,1,0,0,1
+III ,1932,Switzerland,0,1,0,1
+III ,1932,Germany,0,0,2,2
+III ,1932,Hungary,0,0,1,1
+VI ,1952,Norway,7,3,6,16
+VI ,1952,United States,4,6,1,11
+VI ,1952,Finland,3,4,2,9
+VI ,1952,Germany,3,2,2,7
+VI ,1952,Austria,2,4,2,8
+VI ,1952,Canada,1,0,1,2
+VI ,1952,Italy,1,0,1,2
+VI ,1952,Great Britain,1,0,0,1
+VI ,1952,Netherlands,0,3,0,3
+VI ,1952,Sweden,0,0,4,4
+VI ,1952,Switzerland,0,0,2,2
+VI ,1952,France,0,0,1,1
+VI ,1952,Hungary,0,0,1,1
+VIII ,1960,Soviet Union,7,5,9,21
+VIII ,1960,Germany,4,3,1,8
+VIII ,1960,United States,3,4,3,10
+VIII ,1960,Norway,3,3,0,6
+VIII ,1960,Sweden,3,2,2,7
+VIII ,1960,Finland,2,3,3,8
+VIII ,1960,Canada,2,1,1,4
+VIII ,1960,Switzerland,2,0,0,2
+VIII ,1960,Austria,1,2,3,6
+VIII ,1960,France,1,0,2,3
+VIII ,1960,Netherlands,0,1,1,2
+VIII ,1960,Poland,0,1,1,2
+VIII ,1960,Czechoslovakia,0,1,0,1
+VIII ,1960,Italy,0,0,1,1
+V ,1948,Norway,4,3,3,10
+V ,1948,Sweden,4,3,3,10
+V ,1948,Switzerland,3,4,3,10
+V ,1948,United States,3,4,2,9
+V ,1948,France,2,1,2,5
+V ,1948,Canada,2,0,1,3
+V ,1948,Austria,1,3,4,8
+V ,1948,Finland,1,3,2,6
+V ,1948,Belgium,1,1,0,2
+V ,1948,Italy,1,0,0,1
+V ,1948,Czechoslovakia,0,1,0,1
+V ,1948,Hungary,0,1,0,1
+V ,1948,Great Britain,0,0,2,2
+IV ,1936,Norway,7,5,3,15
+IV ,1936,Germany,3,3,0,6
+IV ,1936,Sweden,2,2,3,7
+IV ,1936,Finland,1,2,3,6
+IV ,1936,Switzerland,1,2,0,3
+IV ,1936,Austria,1,1,2,4
+IV ,1936,Great Britain,1,1,1,3
+IV ,1936,United States,1,0,3,4
+IV ,1936,Canada,0,1,0,1
+IV ,1936,France,0,0,1,1
+IV ,1936,Hungary,0,0,1,1
+VII ,1956,Soviet Union,7,3,6,16
+VII ,1956,Austria,4,3,4,11
+VII ,1956,Finland,3,3,1,7
+VII ,1956,Switzerland,3,2,1,6
+VII ,1956,Sweden,2,4,4,10
+VII ,1956,United States,2,3,2,7
+VII ,1956,Norway,2,1,1,4
+VII ,1956,Italy,1,2,0,3
+VII ,1956,Germany,1,0,1,2
+VII ,1956,Canada,0,1,2,3
+VII ,1956,Japan,0,1,0,1
+VII ,1956,Hungary,0,0,1,1
+VII ,1956,Poland,0,0,1,1
+II ,1928,Norway,6,4,5,15
+II ,1928,United States,2,2,2,6
+II ,1928,Sweden,2,2,1,5
+II ,1928,Finland,2,1,1,4
+II ,1928,Canada,1,0,0,1
+II ,1928,France,1,0,0,1
+II ,1928,Austria,0,3,1,4
+II ,1928,Belgium,0,0,1,1
+II ,1928,Czechoslovakia,0,0,1,1
+II ,1928,Germany,0,0,1,1
+II ,1928,Great Britain,0,0,1,1
+II ,1928,Switzerland,0,0,1,1
+I ,1924,Norway,4,7,6,17
+I ,1924,Finland,4,4,3,11
+I ,1924,Austria,2,1,0,3
+I ,1924,Switzerland,2,0,1,3
+I ,1924,United States,1,2,1,4
+I ,1924,Great Britain,1,1,2,4
+I ,1924,Sweden,1,1,0,2
+I ,1924,Canada,1,0,0,1
+I ,1924,Mixed team,1,0,0,1
+I ,1924,France,0,0,3,3
+I ,1924,Belgium,0,0,1,1
+XI ,1972,Soviet Union,8,5,3,16
+XI ,1972,East Germany,4,3,7,14
+XI ,1972,Switzerland,4,3,3,10
+XI ,1972,Netherlands,4,3,2,9
+XI ,1972,United States,3,2,3,8
+XI ,1972,West Germany,3,1,1,5
+XI ,1972,Norway,2,5,5,12
+XI ,1972,Italy,2,2,1,5
+XI ,1972,Austria,1,2,2,5
+XI ,1972,Sweden,1,1,2,4
+XI ,1972,Japan,1,1,1,3
+XI ,1972,Czechoslovakia,1,0,2,3
+XI ,1972,Poland,1,0,0,1
+XI ,1972,Spain,1,0,0,1
+XI ,1972,Finland,0,4,1,5
+XI ,1972,France,0,1,2,3
+XI ,1972,Canada,0,1,0,1
+XII ,1976,Soviet Union,13,6,8,27
+XII ,1976,East Germany,7,5,7,19
+XII ,1976,United States,3,3,4,10
+XII ,1976,Norway,3,3,1,7
+XII ,1976,West Germany,2,5,3,10
+XII ,1976,Finland,2,4,1,7
+XII ,1976,Austria,2,2,2,6
+XII ,1976,Switzerland,1,3,1,5
+XII ,1976,Netherlands,1,2,3,6
+XII ,1976,Italy,1,2,1,4
+XII ,1976,Canada,1,1,1,3
+XII ,1976,Great Britain,1,0,0,1
+XII ,1976,Czechoslovakia,0,1,0,1
+XII ,1976,Liechtenstein,0,0,2,2
+XII ,1976,Sweden,0,0,2,2
+XII ,1976,France,0,0,1,1
+X ,1968,Norway,6,6,2,14
+X ,1968,Soviet Union,5,5,3,13
+X ,1968,France,4,3,2,9
+X ,1968,Italy,4,0,0,4
+X ,1968,Austria,3,4,4,11
+X ,1968,Netherlands,3,3,3,9
+X ,1968,Sweden,3,2,3,8
+X ,1968,West Germany,2,2,3,7
+X ,1968,United States,1,5,1,7
+X ,1968,East Germany,1,2,2,5
+X ,1968,Finland,1,2,2,5
+X ,1968,Czechoslovakia,1,2,1,4
+X ,1968,Canada,1,1,1,3
+X ,1968,Switzerland,0,2,4,6
+X ,1968,Romania,0,0,1,1
+IX ,1964,Soviet Union,11,8,6,25
+IX ,1964,Austria,4,5,3,12
+IX ,1964,Norway,3,6,6,15
+IX ,1964,Finland,3,4,3,10
+IX ,1964,France,3,4,0,7
+IX ,1964,Germany,3,3,3,9
+IX ,1964,Sweden,3,3,1,7
+IX ,1964,United States,1,2,4,7
+IX ,1964,Canada,1,1,1,3
+IX ,1964,Netherlands,1,1,0,2
+IX ,1964,Great Britain,1,0,0,1
+IX ,1964,Italy,0,1,3,4
+IX ,1964,Democratic People's Republic of Korea,0,1,0,1
+IX ,1964,Czechoslovakia,0,0,1,1
+XVI ,1992,Germany,10,10,6,26
+XVI ,1992,Unified Team,9,6,8,23
+XVI ,1992,Norway,9,6,5,20
+XVI ,1992,Austria,6,7,8,21
+XVI ,1992,United States,5,4,2,11
+XVI ,1992,Italy,4,6,4,14
+XVI ,1992,France,3,5,1,9
+XVI ,1992,Finland,3,1,3,7
+XVI ,1992,Canada,2,3,2,7
+XVI ,1992,Republic of Korea,2,1,1,4
+XVI ,1992,Japan,1,2,4,7
+XVI ,1992,Netherlands,1,1,2,4
+XVI ,1992,Sweden,1,0,3,4
+XVI ,1992,Switzerland,1,0,2,3
+XVI ,1992,People's Republic of China,0,3,0,3
+XVI ,1992,Luxembourg,0,2,0,2
+XVI ,1992,New Zealand,0,1,0,1
+XVI ,1992,Czechoslovakia,0,0,3,3
+XVI ,1992,Democratic People's Republic of Korea,0,0,1,1
+XVI ,1992,Spain,0,0,1,1
+XVII ,1994,Russian Federation,11,8,4,23
+XVII ,1994,Norway,10,11,5,26
+XVII ,1994,Germany,9,7,8,24
+XVII ,1994,Italy,7,5,8,20
+XVII ,1994,United States,6,5,2,13
+XVII ,1994,Republic of Korea,4,1,1,6
+XVII ,1994,Canada,3,6,4,13
+XVII ,1994,Switzerland,3,4,2,9
+XVII ,1994,Austria,2,3,4,9
+XVII ,1994,Sweden,2,1,0,3
+XVII ,1994,Japan,1,2,2,5
+XVII ,1994,Kazakhstan,1,2,0,3
+XVII ,1994,Ukraine,1,0,1,2
+XVII ,1994,Uzbekistan,1,0,0,1
+XVII ,1994,Belarus,0,2,0,2
+XVII ,1994,Finland,0,1,5,6
+XVII ,1994,France,0,1,4,5
+XVII ,1994,Netherlands,0,1,3,4
+XVII ,1994,People's Republic of China,0,1,2,3
+XVII ,1994,Slovenia,0,0,3,3
+XVII ,1994,Great Britain,0,0,2,2
+XVII ,1994,Australia,0,0,1,1
+XV ,1988,Soviet Union,11,9,9,29
+XV ,1988,East Germany,9,10,6,25
+XV ,1988,Switzerland,5,5,5,15
+XV ,1988,Finland,4,1,2,7
+XV ,1988,Sweden,4,0,2,6
+XV ,1988,Austria,3,5,2,10
+XV ,1988,Netherlands,3,2,2,7
+XV ,1988,West Germany,2,4,2,8
+XV ,1988,United States,2,1,3,6
+XV ,1988,Italy,2,1,2,5
+XV ,1988,France,1,0,1,2
+XV ,1988,Norway,0,3,2,5
+XV ,1988,Canada,0,2,3,5
+XV ,1988,Yugoslavia,0,2,1,3
+XV ,1988,Czechoslovakia,0,1,2,3
+XV ,1988,Japan,0,0,1,1
+XV ,1988,Liechtenstein,0,0,1,1
+XIV ,1984,East Germany,9,9,6,24
+XIV ,1984,Soviet Union,6,10,9,25
+XIV ,1984,United States,4,4,0,8
+XIV ,1984,Finland,4,3,6,13
+XIV ,1984,Sweden,4,2,2,8
+XIV ,1984,Norway,3,2,4,9
+XIV ,1984,Switzerland,2,2,1,5
+XIV ,1984,Canada,2,1,1,4
+XIV ,1984,West Germany,2,1,1,4
+XIV ,1984,Italy,2,0,0,2
+XIV ,1984,Great Britain,1,0,0,1
+XIV ,1984,Czechoslovakia,0,2,4,6
+XIV ,1984,France,0,1,2,3
+XIV ,1984,Japan,0,1,0,1
+XIV ,1984,Yugoslavia,0,1,0,1
+XIV ,1984,Liechtenstein,0,0,2,2
+XIV ,1984,Austria,0,0,1,1
+XXI ,2010,Canada,14,7,5,26
+XXI ,2010,Germany,10,13,7,30
+XXI ,2010,United States,9,15,13,37
+XXI ,2010,Norway,9,8,6,23
+XXI ,2010,Republic of Korea,6,6,2,14
+XXI ,2010,Switzerland,6,0,3,9
+XXI ,2010,People's Republic of China,5,2,4,11
+XXI ,2010,Sweden,5,2,4,11
+XXI ,2010,Austria,4,6,6,16
+XXI ,2010,Netherlands,4,1,3,8
+XXI ,2010,Russian Federation,3,5,7,15
+XXI ,2010,France,2,3,6,11
+XXI ,2010,Australia,2,1,0,3
+XXI ,2010,Czech Republic,2,0,4,6
+XXI ,2010,Poland,1,3,2,6
+XXI ,2010,Italy,1,1,3,5
+XXI ,2010,Belarus,1,1,1,3
+XXI ,2010,Slovakia,1,1,1,3
+XXI ,2010,Great Britain,1,0,0,1
+XXI ,2010,Japan,0,3,2,5
+XXI ,2010,Croatia,0,2,1,3
+XXI ,2010,Slovenia,0,2,1,3
+XXI ,2010,Latvia,0,2,0,2
+XXI ,2010,Finland,0,1,4,5
+XXI ,2010,Estonia,0,1,0,1
+XXI ,2010,Kazakhstan,0,1,0,1
+XXIII ,2018,Norway,14,14,11,39
+XXIII ,2018,Germany,14,10,7,31
+XXIII ,2018,Canada,11,8,10,29
+XXIII ,2018,United States,9,8,6,23
+XXIII ,2018,Netherlands,8,6,6,20
+XXIII ,2018,Sweden,7,6,1,14
+XXIII ,2018,Republic of Korea,5,8,4,17
+XXIII ,2018,Switzerland,5,6,4,15
+XXIII ,2018,France,5,4,6,15
+XXIII ,2018,Austria,5,3,6,14
+XXIII ,2018,Japan,4,5,4,13
+XXIII ,2018,Italy,3,2,5,10
+XXIII ,2018,Russian Olympic Committee,2,6,9,17
+XXIII ,2018,Czech Republic,2,2,3,7
+XXIII ,2018,Belarus,2,1,0,3
+XXIII ,2018,People's Republic of China,1,6,2,9
+XXIII ,2018,Slovakia,1,2,0,3
+XXIII ,2018,Finland,1,1,4,6
+XXIII ,2018,Great Britain,1,0,4,5
+XXIII ,2018,Poland,1,0,1,2
+XXIII ,2018,Hungary,1,0,0,1
+XXIII ,2018,Ukraine,1,0,0,1
+XXIII ,2018,Australia,0,2,1,3
+XXIII ,2018,Slovenia,0,1,1,2
+XXIII ,2018,Belgium,0,1,0,1
+XXIII ,2018,New Zealand,0,0,2,2
+XXIII ,2018,Spain,0,0,2,2
+XXIII ,2018,Kazakhstan,0,0,1,1
+XXIII ,2018,Latvia,0,0,1,1
+XXIII ,2018,Liechtenstein,0,0,1,1
+XVIII ,1998,Germany,12,9,8,29
+XVIII ,1998,Norway,10,10,5,25
+XVIII ,1998,Russian Federation,9,6,3,18
+XVIII ,1998,Canada,6,5,4,15
+XVIII ,1998,United States,6,3,4,13
+XVIII ,1998,Netherlands,5,4,2,11
+XVIII ,1998,Japan,5,1,4,10
+XVIII ,1998,Austria,3,5,9,17
+XVIII ,1998,Republic of Korea,3,1,2,6
+XVIII ,1998,Italy,2,6,2,10
+XVIII ,1998,Finland,2,4,6,12
+XVIII ,1998,Switzerland,2,2,3,7
+XVIII ,1998,France,2,1,5,8
+XVIII ,1998,Czech Republic,1,1,1,3
+XVIII ,1998,Bulgaria,1,0,0,1
+XVIII ,1998,People's Republic of China,0,6,2,8
+XVIII ,1998,Sweden,0,2,1,3
+XVIII ,1998,Denmark,0,1,0,1
+XVIII ,1998,Ukraine,0,1,0,1
+XVIII ,1998,Belarus,0,0,2,2
+XVIII ,1998,Kazakhstan,0,0,2,2
+XVIII ,1998,Australia,0,0,1,1
+XVIII ,1998,Belgium,0,0,1,1
+XVIII ,1998,Great Britain,0,0,1,1
+XXII ,2014,Norway,11,5,10,26
+XXII ,2014,Russian Federation,10,10,9,29
+XXII ,2014,Canada,10,10,5,25
+XXII ,2014,United States,9,9,10,28
+XXII ,2014,Netherlands,8,7,9,24
+XXII ,2014,Germany,8,6,5,19
+XXII ,2014,Switzerland,7,2,2,11
+XXII ,2014,Belarus,5,0,1,6
+XXII ,2014,Austria,4,8,5,17
+XXII ,2014,France,4,4,7,15
+XXII ,2014,Poland,4,1,1,6
+XXII ,2014,People's Republic of China,3,4,2,9
+XXII ,2014,Republic of Korea,3,3,2,8
+XXII ,2014,Sweden,2,7,6,15
+XXII ,2014,Czech Republic,2,4,2,8
+XXII ,2014,Slovenia,2,2,4,8
+XXII ,2014,Japan,1,4,3,8
+XXII ,2014,Finland,1,3,1,5
+XXII ,2014,Great Britain,1,1,3,5
+XXII ,2014,Latvia,1,1,3,5
+XXII ,2014,Ukraine,1,0,1,2
+XXII ,2014,Slovakia,1,0,0,1
+XXII ,2014,Italy,0,2,6,8
+XXII ,2014,Australia,0,2,1,3
+XXII ,2014,Croatia,0,1,0,1
+XXII ,2014,Kazakhstan,0,0,1,1
+XIX ,2002,Norway,13,5,7,25
+XIX ,2002,Germany,12,16,8,36
+XIX ,2002,United States,10,13,11,34
+XIX ,2002,Canada,7,3,7,17
+XIX ,2002,Russian Federation,5,4,4,13
+XIX ,2002,France,4,5,2,11
+XIX ,2002,Italy,4,4,5,13
+XIX ,2002,Finland,4,2,1,7
+XIX ,2002,Netherlands,3,5,0,8
+XIX ,2002,Austria,3,4,10,17
+XIX ,2002,Switzerland,3,2,6,11
+XIX ,2002,Croatia,3,1,0,4
+XIX ,2002,People's Republic of China,2,2,4,8
+XIX ,2002,Republic of Korea,2,2,0,4
+XIX ,2002,Australia,2,0,0,2
+XIX ,2002,Czech Republic,1,2,0,3
+XIX ,2002,Estonia,1,1,1,3
+XIX ,2002,Great Britain,1,0,1,2
+XIX ,2002,Sweden,0,2,5,7
+XIX ,2002,Bulgaria,0,1,2,3
+XIX ,2002,Japan,0,1,1,2
+XIX ,2002,Poland,0,1,1,2
+XIX ,2002,Belarus,0,0,1,1
+XIX ,2002,Slovenia,0,0,1,1
+XIII ,1980,Soviet Union,10,6,6,22
+XIII ,1980,East Germany,9,7,7,23
+XIII ,1980,United States,6,4,2,12
+XIII ,1980,Austria,3,2,2,7
+XIII ,1980,Sweden,3,0,1,4
+XIII ,1980,Liechtenstein,2,2,0,4
+XIII ,1980,Finland,1,5,3,9
+XIII ,1980,Norway,1,3,6,10
+XIII ,1980,Netherlands,1,2,1,4
+XIII ,1980,Switzerland,1,1,3,5
+XIII ,1980,Great Britain,1,0,0,1
+XIII ,1980,West Germany,0,2,3,5
+XIII ,1980,Italy,0,2,0,2
+XIII ,1980,Canada,0,1,1,2
+XIII ,1980,Hungary,0,1,0,1
+XIII ,1980,Japan,0,1,0,1
+XIII ,1980,Bulgaria,0,0,1,1
+XIII ,1980,Czechoslovakia,0,0,1,1
+XIII ,1980,France,0,0,1,1
+XX ,2006,Germany,11,12,6,29
+XX ,2006,United States,9,9,7,25
+XX ,2006,Austria,9,7,7,23
+XX ,2006,Russian Federation,8,6,8,22
+XX ,2006,Canada,7,10,7,24
+XX ,2006,Sweden,7,2,5,14
+XX ,2006,Republic of Korea,6,3,2,11
+XX ,2006,Switzerland,5,4,5,14
+XX ,2006,Italy,5,0,6,11
+XX ,2006,France,3,2,4,9
+XX ,2006,Netherlands,3,2,4,9
+XX ,2006,Estonia,3,0,0,3
+XX ,2006,Norway,2,8,9,19
+XX ,2006,People's Republic of China,2,4,5,11
+XX ,2006,Czech Republic,1,2,1,4
+XX ,2006,Croatia,1,2,0,3
+XX ,2006,Australia,1,0,1,2
+XX ,2006,Japan,1,0,0,1
+XX ,2006,Finland,0,6,3,9
+XX ,2006,Poland,0,1,1,2
+XX ,2006,Belarus,0,1,0,1
+XX ,2006,Bulgaria,0,1,0,1
+XX ,2006,Great Britain,0,1,0,1
+XX ,2006,Slovakia,0,1,0,1
+XX ,2006,Ukraine,0,0,2,2
+XX ,2006,Latvia,0,0,1,1
