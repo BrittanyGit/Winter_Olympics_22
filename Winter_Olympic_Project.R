@@ -96,4 +96,85 @@ for (i in 1:nrow(gold_all)){
   gold_all$distance[i]<-euclidean(host,medal_country)
 }  
 
+## Repeating for silver medals 
 
+
+#Filter to only be silvers and add in host lat and lng 
+silver<-details%>%select(event_year,discipline,category,
+                       date,n_participants,n_country_participants,
+                       silver_medalist,silver_country)%>%
+  left_join(event_city,by=c("event_year"))
+
+#Remove a few incomplete observations
+silver<-silver%>%
+  filter(silver_medalist != "—" & silver_medalist != "Mixed team" & silver_country != "EUN")%>%
+  mutate(silver_country=as.character(silver_country))
+
+#Rename these columns 
+names(silver)[10]<-"host_lat"
+names(silver)[11]<-"host_lng"
+
+#Simplify the codes data, remove nas 
+medal_country<-countries_codes%>%
+  select(Alpha.3.code,latitude,longitude)%>%
+  na.omit()
+
+#Rename column
+names(medal_country)[1]<-"silver_country"
+
+#Add in the participating country lat and lng 
+silver_all<-silver%>%left_join(medal_country,by=c("silver_country"))%>%
+  mutate(distance=0)%>%
+  mutate(latitude=as.numeric(latitude),longitude=as.numeric(longitude))
+
+#Function to calculate euclidean distance
+euclidean <- function(a, b) sqrt(sum((a - b)^2))
+
+#Calculate euclidean distance from host country to winning country 
+for (i in 1:nrow(silver_all)){
+  host<-c(silver_all$host_lat[i],silver_all$host_lng[i])
+  medal_country<-c(silver_all$latitude[i],silver_all$longitude[i])
+  silver_all$distance[i]<-euclidean(host,medal_country)
+}
+
+
+## Repeating for bronze medals 
+
+
+#Filter to only be bronze and add in host lat and lng 
+bronze<-details%>%select(event_year,discipline,category,
+                         date,n_participants,n_country_participants,
+                         bronze_medalist,bronze_country)%>%
+  left_join(event_city,by=c("event_year"))
+
+#Remove a few incomplete observations
+bronze<-bronze%>%
+  filter(bronze_medalist != "—" & bronze_medalist != "Mixed team" & bronze_country != "EUN")%>%
+  mutate(bronze_country=as.character(bronze_country))
+
+#Rename these columns 
+names(bronze)[10]<-"host_lat"
+names(bronze)[11]<-"host_lng"
+
+#Simplify the codes data, remove nas 
+medal_country<-countries_codes%>%
+  select(Alpha.3.code,latitude,longitude)%>%
+  na.omit()
+
+#Rename column
+names(medal_country)[1]<-"bronze_country"
+
+#Add in the participating country lat and lng 
+bronze_all<-bronze%>%left_join(medal_country,by=c("bronze_country"))%>%
+  mutate(distance=0)%>%
+  mutate(latitude=as.numeric(latitude),longitude=as.numeric(longitude))
+
+#Function to calculate euclidean distance
+euclidean <- function(a, b) sqrt(sum((a - b)^2))
+
+#Calculate euclidean distance from host country to winning country 
+for (i in 1:nrow(bronze_all)){
+  host<-c(bronze_all$host_lat[i],bronze_all$host_lng[i])
+  medal_country<-c(bronze_all$latitude[i],bronze_all$longitude[i])
+  bronze_all$distance[i]<-euclidean(host,medal_country)
+}
