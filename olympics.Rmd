@@ -1,0 +1,89 @@
+---
+title: "olympics"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reading in Datasets
+
+```{r}
+disciplines<-read.csv('discipline_details.csv')
+events<-read.csv('events_medals.csv')
+overall_events<-read.csv('olympic_events.csv')
+summary(disciplines)
+#unique(disciplines$event_year)
+#head(disciplines)
+```
+
+## Data Visualization
+
+
+
+
+
+```{r}
+#DATASET 1 (events)
+#subsetting data to after 1960 because GDP data only extends from 1960 and after
+after_sixty<-events%>%filter(event_year>1960)
+head(after_sixty)
+```
+```{r}
+#number of gold medals by event year (each dot is a country)
+plot(after_sixty$event_year,after_sixty$gold)
+```
+```{r}
+#total number of medals by event year (each dot is a country)
+plot(after_sixty$event_year,after_sixty$total)
+```
+
+
+```{r}
+#DATASET 2 (disciplines)
+#subsetting data to after 1960 because GDP data only extends from 1960 and after
+head(disciplines)
+after_sixty_disciplines<-disciplines%>%filter(event_year>1960)
+head(after_sixty_disciplines)
+```
+
+
+
+```{r}
+#EDA on number of participants per year (each dot is a country)
+plot(after_sixty_disciplines$event_year,after_sixty_disciplines$n_participants)
+```
+
+```{r}
+extra_data<-read.csv('train.csv')
+extra_data$Country<-as.factor(extra_data$Country)
+head(extra_data)
+```
+
+```{r}
+extra_data2<-aggregate(extra_data$Medal, by=list(Country=extra_data$Country),FUN=sum)
+extra_data2
+```
+
+
+```{r}
+#total number of medals by country, for all years of the olympics
+plot(extra_data2$Country,extra_data2$x)
+```
+
+
+```{r}
+#ggplot: TOTAL NUMBER OF MEDALS BY YEAR, FACET_WRAPPED ON COUNTRY
+library(ggplot2)
+us$event_year<-as.factor(us$event_year)
+ggplot(events,aes(x=event_year,y=total, color=country))+geom_point()+facet_wrap(~country)
+```
+```{r}
+#number of gold medals by event year (each dot is a country)
+
+
+library(ggplot2)
+ggplot(after_sixty,aes(x=event_year,y=gold, color=country))+geom_point()+facet_wrap(~country)
+```
+
