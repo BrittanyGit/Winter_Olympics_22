@@ -1,0 +1,17 @@
+curl --compressed -o waqi-covid-2020.csv   https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2020
+curl --compressed -o waqi-covid-2021Q1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2021Q1
+curl --compressed -o waqi-covid-2021Q2.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2021Q2
+curl --compressed -o waqi-covid-2021Q3.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2021Q3
+curl --compressed -o waqi-covid-2021Q4.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2021Q4
+curl --compressed -o waqi-covid-2020Q1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2020Q1
+curl --compressed -o waqi-covid-2020Q2.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2020Q2
+curl --compressed -o waqi-covid-2020Q3.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2020Q3
+curl --compressed -o waqi-covid-2020Q4.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2020Q4
+curl --compressed -o waqi-covid-2019Q1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2019Q1
+curl --compressed -o waqi-covid-2019Q2.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2019Q2
+curl --compressed -o waqi-covid-2019Q3.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2019Q3
+curl --compressed -o waqi-covid-2019Q4.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2019Q4
+curl --compressed -o waqi-covid-2018H1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2018H1
+curl --compressed -o waqi-covid-2017H1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2017H1
+curl --compressed -o waqi-covid-2016H1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2016H1
+curl --compressed -o waqi-covid-2015H1.csv https://aqicn.org/data-platform/covid19/report/34714-85feeb2b/2015H1
