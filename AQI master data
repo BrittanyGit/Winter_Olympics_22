@@ -1,0 +1,45 @@
+---
+title: "AQI Data Creation"
+author: "Joe Barrett"
+date: "2/8/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+### Loading the data in.
+aqi2015H1 <- read.csv("waqi-covid19-airqualitydata-2015H1.csv")
+aqi2016H1 <- read.csv("waqi-covid19-airqualitydata-2016H1.csv")
+aqi2017H1 <- read.csv("waqi-covid19-airqualitydata-2017H1.csv")
+aqi2018H1 <- read.csv("waqi-covid19-airqualitydata-2018H1.csv")
+aqi2019Q4 <- read.csv("waqi-covid19-airqualitydata-2019Q4.csv")
+aqi2019Q3 <- read.csv("waqi-covid19-airqualitydata-2019Q3.csv")
+aqi2019Q2 <- read.csv("waqi-covid19-airqualitydata-2019Q2.csv")
+aqi2019Q1 <- read.csv("waqi-covid19-airqualitydata-2019Q1.csv")
+aqi2020Q4 <- read.csv("waqi-covid19-airqualitydata-2020Q4.csv")
+aqi2020Q3 <- read.csv("waqi-covid19-airqualitydata-2020Q3.csv")
+aqi2020Q2 <- read.csv("waqi-covid19-airqualitydata-2020Q2.csv")
+aqi2020Q1 <- read.csv("waqi-covid19-airqualitydata-2020Q1.csv")
+aqi2021Q4 <- read.csv("waqi-covid19-airqualitydata-2021Q4.csv")
+aqi2021Q3 <- read.csv("waqi-covid19-airqualitydata-2021Q3.csv")
+aqi2021Q2 <- read.csv("waqi-covid19-airqualitydata-2021Q2.csv")
+aqi2021Q1 <- read.csv("waqi-covid19-airqualitydata-2021Q1.csv")
+aqi2020 <- read.csv("waqi-covid19-airqualitydata-2020.csv")
+```
+
+```{r}
+### Creating aqi master
+library(tidyverse)
+aqi_master <- aqi2015H1 %>% full_join (aqi2016H1) %>% full_join(aqi2016H1) %>% full_join(aqi2017H1) %>% full_join(aqi2018H1) %>% full_join(aqi2019Q4) %>% full_join(aqi2019Q4) %>% full_join(aqi2019Q3) %>% full_join(aqi2019Q2) %>% full_join(aqi2019Q1) %>% full_join(aqi2020Q4) %>% full_join(aqi2020Q3) %>% full_join(aqi2020Q2) %>% full_join(aqi2020Q1) %>% full_join(aqi2020Q1) %>% full_join(aqi2021Q4) %>% full_join(aqi2021Q3) %>% full_join(aqi2021Q2) %>% full_join(aqi2021Q1) %>% full_join(aqi2020)
+
+```
+
