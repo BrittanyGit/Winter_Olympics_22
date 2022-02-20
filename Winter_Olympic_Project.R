@@ -558,65 +558,117 @@ total<-details%>%filter(Year==1960)
 
 #Gdp data to Athlete data
 
+gdp.2[56,3]<-11760
+gdp.2[56,4]<-13504
+gdp.2[56,5]<-14978
+gdp.2[10,3]<-10334
+
+athletes_w_1960$NOC<-recode(athletes_w_1960$NOC,"c(GDPR)"="GER")
+
 #1960
 ath_1960<-athletes_w_1960%>%filter(Year==1960)%>%left_join(gdp_1960,by=c("NOC"="Country.Code"))
 names(ath_1960)[16]<-"gdp_per_capita"
+ath<-ath_1960[!is.na(ath_1960$gdp_per_capita),]
+ath_1960_mean<-mean(ath$gdp_per_capita)
+ath_1960$gdp_per_capita[is.na(ath_1960$gdp_per_capita)]<-2974
 
 #1964
 ath_1964<-athletes_w_1960%>%filter(Year==1964)%>%left_join(gdp_1964,by=c("NOC"="Country.Code"))
 names(ath_1964)[16]<-"gdp_per_capita"
+ath<-ath_1964[!is.na(ath_1964$gdp_per_capita),]
+ath_1964_mean<-mean(ath$gdp_per_capita)
+ath_1964$gdp_per_capita[is.na(ath_1964$gdp_per_capita)]<-1953
 
 #1968
 ath_1968<-athletes_w_1960%>%filter(Year==1968)%>%left_join(gdp_1968,by=c("NOC"="Country.Code"))
 names(ath_1968)[16]<-"gdp_per_capita"
+ath<-ath_1968[!is.na(ath_1968$gdp_per_capita),]
+ath_1968_mean<-mean(ath$gdp_per_capita)
+ath_1968$gdp_per_capita[is.na(ath_1968$gdp_per_capita)]<-2551
 
 #1972
 ath_1972<-athletes_w_1960%>%filter(Year==1972)%>%left_join(gdp_1972,by=c("NOC"="Country.Code"))
 names(ath_1972)[16]<-"gdp_per_capita"
+ath<-ath_1972[!is.na(ath_1972$gdp_per_capita),]
+ath_1972_mean<-mean(ath$gdp_per_capita)
+ath_1972$gdp_per_capita[is.na(ath_1972$gdp_per_capita)]<-4140
 
 #1976
 ath_1976<-athletes_w_1960%>%filter(Year==1976)%>%left_join(gdp_1976,by=c("NOC"="Country.Code"))
 names(ath_1976)[16]<-"gdp_per_capita"
+ath<-ath_1976[!is.na(ath_1976$gdp_per_capita),]
+ath_1976_mean<-mean(ath$gdp_per_capita)
+ath_1976$gdp_per_capita[is.na(ath_1976$gdp_per_capita)]<-6898
 
 #1980
 ath_1980<-athletes_w_1960%>%filter(Year==1980)%>%left_join(gdp_1980,by=c("NOC"="Country.Code"))
 names(ath_1980)[16]<-"gdp_per_capita"
+ath<-ath_1980[!is.na(ath_1980$gdp_per_capita),]
+ath_1980_mean<-mean(ath$gdp_per_capita)
+ath_1980$gdp_per_capita[is.na(ath_1980$gdp_per_capita)]<-11333
 
 #1984
 ath_1984<-athletes_w_1960%>%filter(Year==1984)%>%left_join(gdp_1984,by=c("NOC"="Country.Code"))
 names(ath_1984)[16]<-"gdp_per_capita"
+ath<-ath_1984[!is.na(ath_1984$gdp_per_capita),]
+ath_1984_mean<-mean(ath$gdp_per_capita)
+ath_1984$gdp_per_capita[is.na(ath_1984$gdp_per_capita)]<-10242
 
 #1988
 ath_1988<-athletes_w_1960%>%filter(Year==1988)%>%left_join(gdp_1988,by=c("NOC"="Country.Code"))
 names(ath_1988)[16]<-"gdp_per_capita"
+ath<-ath_1988[!is.na(ath_1988$gdp_per_capita),]
+ath_1988_mean<-mean(ath$gdp_per_capita)
+ath_1988$gdp_per_capita[is.na(ath_1988$gdp_per_capita)]<-18163
 
 #1992
 ath_1992<-athletes_w_1960%>%filter(Year==1992)%>%left_join(gdp_1992,by=c("NOC"="Country.Code"))
 names(ath_1992)[16]<-"gdp_per_capita"
+ath<-ath_1992[!is.na(ath_1992$gdp_per_capita),]
+ath_1992_mean<-mean(ath$gdp_per_capita)
+ath_1992$gdp_per_capita[is.na(ath_1992$gdp_per_capita)]<-20643
 
 #1994
 ath_1994<-athletes_w_1960%>%filter(Year==1994)%>%left_join(gdp_1994,by=c("NOC"="Country.Code"))
 names(ath_1994)[16]<-"gdp_per_capita"
+ath<-ath_1994[!is.na(ath_1994$gdp_per_capita),]
+ath_1994_mean<-mean(ath$gdp_per_capita)
+ath_1994$gdp_per_capita[is.na(ath_1994$gdp_per_capita)]<-18295
 
 #1998
 ath_1998<-athletes_w_1960%>%filter(Year==1998)%>%left_join(gdp_1998,by=c("NOC"="Country.Code"))
 names(ath_1998)[16]<-"gdp_per_capita"
+ath<-ath_1998[!is.na(ath_1998$gdp_per_capita),]
+ath_1998_mean<-mean(ath$gdp_per_capita)
+ath_1998$gdp_per_capita[is.na(ath_1998$gdp_per_capita)]<-19484
 
 #2002
 ath_2002<-athletes_w_1960%>%filter(Year==2002)%>%left_join(gdp_2002,by=c("NOC"="Country.Code"))
 names(ath_2002)[16]<-"gdp_per_capita"
+ath<-ath_2002[!is.na(ath_2002$gdp_per_capita),]
+ath_2002_mean<-mean(ath$gdp_per_capita)
+ath_2002$gdp_per_capita[is.na(ath_2002$gdp_per_capita)]<-20134
 
 #2006
 ath_2006<-athletes_w_1960%>%filter(Year==2006)%>%left_join(gdp_2006,by=c("NOC"="Country.Code"))
 names(ath_2006)[16]<-"gdp_per_capita"
+ath<-ath_2006[!is.na(ath_2006$gdp_per_capita),]
+ath_2006_mean<-mean(ath$gdp_per_capita)
+ath_2006$gdp_per_capita[is.na(ath_2006$gdp_per_capita)]<-29821
 
 #2010
 ath_2010<-athletes_w_1960%>%filter(Year==2010)%>%left_join(gdp_2010,by=c("NOC"="Country.Code"))
 names(ath_2010)[16]<-"gdp_per_capita"
+ath<-ath_2010[!is.na(ath_2010$gdp_per_capita),]
+ath_2010_mean<-mean(ath$gdp_per_capita)
+ath_2010$gdp_per_capita[is.na(ath_2010$gdp_per_capita)]<-34443
 
 #2014
 ath_2014<-athletes_w_1960%>%filter(Year==2014)%>%left_join(gdp_2014,by=c("NOC"="Country.Code"))
 names(ath_2014)[16]<-"gdp_per_capita"
+ath<-ath_2014[!is.na(ath_2014$gdp_per_capita),]
+ath_2014_mean<-mean(ath$gdp_per_capita)
+ath_2014$gdp_per_capita[is.na(ath_2014$gdp_per_capita)]<-38412
 
 All_gdp_athletes<-ath_1960%>%full_join(ath_1964)%>%
   full_join(ath_1968)%>%
@@ -634,3 +686,84 @@ All_gdp_athletes<-ath_1960%>%full_join(ath_1964)%>%
   full_join(ath_2014)
 
 sum(is.na(All_gdp_athletes$gdp_per_capita))
+
+All_gdp_athletes_test<-All_gdp_athletes%>%filter(Year==1960)
+
+write.csv(All_gdp_athletes,"All_gdp_athletes.csv",row.names = FALSE)
+
+#Realized that this was completely unnecessary 
+
+gdp_loc<-All_gdp_athletes%>%left_join(event_city,by=c("Year"="event_year","City"="event_city"))
+
+countries_codes[44,5]<-"CHI"
+countries_codes[125,5]<-"LIB"
+countries_codes[86,5]<-"GRE"
+countries_codes[251,1]<-"Cayman Islands"
+countries_codes[251,5]<-"CAY"
+countries_codes[251,3]<-19.3
+countries_codes[251,4]<-81.2
+countries_codes[56,5]<-"DEN"
+countries_codes[122,5]<-"CAY"
+countries_codes[223,5]<-"TPE"
+countries_codes[245,5]<-"ZIM"
+countries_codes[165,5]<-"NEP"
+countries_codes[136,5]<-"MON"
+countries_codes[106,5]<-"IRI"
+countries_codes[141,5]<-"MKD"
+countries_codes[137,5]<-"MDA"
+countries_codes[135,5]<-"MAR"
+countries_codes[26,5]<-"BER"
+countries_codes[174,5]<-"PHI"
+countries_codes[235,5]<-"ISV"
+
+medal_country<-countries_codes%>%
+  select(Alpha.3.code,latitude,longitude)%>%
+  na.omit()
+
+gdp_loc<-gdp_loc%>%left_join(medal_country,by=c("NOC"="Alpha.3.code"))
+
+sum(is.na(gdp_loc$latitude))
+
+#Function to calculate euclidean distance
+euclidean <- function(a, b) sqrt(sum((a - b)^2))
+
+#Calculate euclidean distance from host country to winning country 
+for (i in 1:nrow(bronze_all)){
+  host<-c(bronze_all$host_lat[i],bronze_all$host_lng[i])
+  medal_country<-c(bronze_all$latitude[i],bronze_all$longitude[i])
+  bronze_all$distance[i]<-euclidean(host,medal_country)
+}
+
+# 1 if the gdp was imputed 0 otherwise
+
+All_gdp_athletes$impute<-ifelse(All_gdp_athletes$gdp_per_capita==2974|
+                                  All_gdp_athletes$gdp_per_capita==1953|
+                                  All_gdp_athletes$gdp_per_capita==2551|
+                                  All_gdp_athletes$gdp_per_capita==4140|
+                                  All_gdp_athletes$gdp_per_capita==6898|
+                                  All_gdp_athletes$gdp_per_capita==11333|
+                                  All_gdp_athletes$gdp_per_capita==10242|
+                                  All_gdp_athletes$gdp_per_capita==18163|
+                                  All_gdp_athletes$gdp_per_capita==20643|
+                                  All_gdp_athletes$gdp_per_capita==18295|
+                                  All_gdp_athletes$gdp_per_capita==19484|
+                                  All_gdp_athletes$gdp_per_capita==20134|
+                                  All_gdp_athletes$gdp_per_capita==29821|
+                                  All_gdp_athletes$gdp_per_capita==34443|
+                                  All_gdp_athletes$gdp_per_capita==38412,
+                                All_gdp_athletes$impute<-1,All_gdp_athletes$impute<-0)
+
+
+event_totals<-All_gdp_athletes%>%group_by(Year,Event)%>%summarise(num_participants=sum(n()))
+
+athletes_update<-All_gdp_athletes%>%left_join(event_totals,by=c("Year","Event"))
+
+gdp_per_event<-athletes_update%>%group_by(Year,Event)%>%summarise(avg_gdp=sum(gdp_per_capita)/n())
+
+athletes_update_gdp<-athletes_update%>%left_join(gdp_per_event,by=c("Year","Event"))
+
+write.csv(athletes_update_gdp,"athletes_update_gdp.csv",row.names = FALSE)
+
+
+
+
